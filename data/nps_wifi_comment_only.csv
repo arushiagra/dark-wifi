@@ -1,0 +1,876 @@
+SURVEY_ID,SURVEY_RESPNS_ID,SURVEY_AA_CUST_UNIQUE_ID,SEG_DEP_DT,SEG_DEP_AIRPRT_IATA_CD,SEG_ARVL_AIRPRT_IATA_CD,OPERAT_FLIGHT_NBR,FLEET_CD,SUBFLEET_CD,CABIN_FLOWN_CD,LIKELIHOOD_RECOMMEND_ORIG_LANG_TXT,LIKELIHOOD_RECOMMEND_SCL,NET_PROMO_CATG,Wifif Category
+SV_4SJm25NwBp7FfRs,R_1mzOUlH8ItIbOgx,8178181171.0,2026-06-15,PHL,PDX,3090,321,32C,Y,"It was a long flight and we were only offered two beverages and one pack of wafers without the option to purchase any additional food. Also, unable to connect to WiFi",5,Detractor,Wi-Fi Connectivity Issues
+SV_4SJm25NwBp7FfRs,R_5dS7K9pccoZeufn,8152922322.0,2026-02-26,MIA,EWR,1113,737,38K,Y,good service great wifi,10,Promoter,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_19TJEjBqt7xpaw1,1717539.0,2026-05-28,PHX,BOS,1564
+,321,32E,Y,"kind of bumpy, but not in your control  helped me with wifi",7,Passive,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_1con49yy4krrlQF,918058145.0,2026-01-26,LGA,STL,4461,EMJ,E7R,Y,Update planes and wifi,1,Detractor,Wi-Fi Unavailable
+SV_4SJm25NwBp7FfRs,R_3W7SMevn2d2CioF,1754861368.0,2026-08-03,YYC,DFW,2521,321,A21,Y,There was lots of leg room and the seats were comfortable. Plus there was free wifi,9,Promoter,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_6dR4xDVaIDtXSNb,8162410399.0,2026-06-15,MCI,CLT,1297,737,38R,Y,Flight crew was friendly and the boarding and deplaning process was smooth. Drink and snack service was limited and there aren't options for entertainment and couldn't connect to wifi,5,Detractor,Wi-Fi Connectivity Issues
+SV_4SJm25NwBp7FfRs,R_1KHesDyVw2i9jLj,1158720100.0,2026-06-10,VCE,PHL,715,787,788,Y,"Friendly employees, free wifi",9,Promoter,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_1EiluN7EIQBRHkk,554887404.0,2026-08-13,BCN,PHL,743,787,788,Y,No Wifi,5,Detractor,Wi-Fi Unavailable
+SV_4SJm25NwBp7FfRs,R_1ceLlc2svGbgNfl,880339599.0,2026-05-23,FLL,PHL,1850,319,A19,Y,The flight was on time. And free wifi,10,Promoter,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_2Pd8Mvkoo4LpwEt,8084361285.0,2026-07-08,IDA,DFW,6466,CRJ,OO7,Y,Courteous staff and free WiFi,10,Promoter,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_5PUg70MVgyvVa4U,1150283934.0,2026-02-07,LAS,ORD,3312,737,38K,Y,Love the new free wifi,9,Promoter,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_32slBKB2YCZjAv7,8088445513.0,2026-06-18,DCA,TPA,2773,319,A19,Y,Easy and efficient travel.  Free wifi,10,Promoter,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_66AzCcbG4HM6egp,8092381617.0,2026-08-14,CLT,FWA,5975,ERJ,EMP,Y,Small outdated plane with no wifi,4,Detractor,Wi-Fi Unavailable
+SV_4SJm25NwBp7FfRs,R_1YUGJAin1FZOJsR,1500277464.0,2026-02-08,CLT,SHV,4965,CRJ,OO7,C,No WIFI,5,Detractor,Wi-Fi Unavailable
+SV_4SJm25NwBp7FfRs,R_5Lol4dmuaS4k0sA,159237295.0,2026-03-02,MIA,DFW,2955,777,77W,Y,Trip went very well.  No wifi,10,Promoter,Wi-Fi Unavailable
+SV_4SJm25NwBp7FfRs,R_6KAtH0JyB4Z8MMk,8124468604.0,2026-07-03,DFW,FWA,3532,EMJ,E7M,Y,Thank you for having free wifi,10,Promoter,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_7b1wJZYdjwTUIox,8118312603.0,2026-02-06,PVD,DCA,2239,319,A19,Y,had trouble trying to connect to wifi,8,Passive,Wi-Fi Connectivity Issues
+SV_4SJm25NwBp7FfRs,R_1jp4mSYy46v5itf,8158053747.0,2026-06-07,PHL,TYS,5066,CRJ,CP9,C,No WiFi,8,Passive,Wi-Fi Unavailable
+SV_4SJm25NwBp7FfRs,R_1JDmLFuOy9C1uGR,365505492.0,2026-01-25,BOS,LAX,3097,321,32T,Y,I really enjoyed the new free WiFi,10,Promoter,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_6SIkQDLhegDmbdd,1796996568.0,2026-01-20,CLT,PHL,2286,321,32C,Y,Provide free WiFi,9,Promoter,"No free wifi (was available, but expensive, need more free wifi)"
+SV_4SJm25NwBp7FfRs,R_3o5fnLNqli0gdg2,406355021.0,2026-05-17,JFK,SNA,2915,321,32T,C,Plane felt new but I wish you had starlink with super simple ways to log on wifi,9,Promoter,Wi-Fi Connectivity Issues
+SV_4SJm25NwBp7FfRs,R_3Vf1dFiD5LFcGyL,1714747875.0,2026-05-12,MCI,DCA,5318,CRJ,CP9,Y,APU broken no AC on ground and no WiFi,6,Detractor,Wi-Fi Unavailable
+SV_4SJm25NwBp7FfRs,R_7MqIkBrIxd54I0h,886490047.0,2026-05-20,RSW,CLT,2704,321,A21,Y,"Use a plane large enough to offer beverage service, snacks and wifi",5,Detractor,Wi-Fi Unavailable
+SV_4SJm25NwBp7FfRs,R_3KNrSfDSzUUNKrR,8183821042.0,2026-07-31,SEA,DFW,757,321,32C,Y,Free wifi,10,Promoter,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_5CHdXQKQwdg09cX,8178108907.0,2026-05-26,MIA,SFO,2426,321,32E,Y,"Despite having seats at the very back, I was able to charge my phone. Additionally, I had free WiFi",10,Promoter,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_6TzqBhAf5QAIQUY,588174578.0,2026-03-25,CLE,ORD,3514,EMJ,E7M,Y,Loving the free WiFi,10,Promoter,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_7qTfYxrhsroci4h,8162607827.0,2026-02-05,DFW,SBN,6305,CRJ,OO7,Y,On time great wifi,8,Passive,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_7FQdRjGLceBKhtA,434559272.0,2026-04-17,PHL,SEA,888,737,38M,Y,"The flight was available and at a time that worked for my schedule. I don't like that I'm going to need to phone support in order to log into my rewards account and couldn't do it via the website, and that that prevented me from being able to use inflight wifi",7,Passive,Wi-Fi Connectivity Issues
+SV_4SJm25NwBp7FfRs,R_6iyjbNXSppXNNRI,108817520.0,2026-04-29,ORD,CHS,4711,EMJ,E75,Y,There was no wifi,6,Detractor,Wi-Fi Unavailable
+SV_4SJm25NwBp7FfRs,R_7Igtbbg9dIybOew,365245063.0,2026-03-11,PHL,MYR,5888,ERJ,EMP,Y,"Old plane, too small, completely full so no overhead space, no WiFi",5,Detractor,Wi-Fi Unavailable
+SV_4SJm25NwBp7FfRs,R_T1xLeorx8IM3JAZ,316960227.0,2026-07-29,BGR,CLT,1463,321,A21,Y,Comfortable and free wifi,9,Promoter,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_1pshVBq8OgGu7y9,408083912.0,2026-07-01,DCA,BGR,5061,CRJ,CR7,C,No wifi,9,Promoter,Wi-Fi Unavailable
+SV_4SJm25NwBp7FfRs,R_5EcKXPDsZe091AT,10936386.0,2026-02-11,ORD,LAX,2710,737,38M,Y,Loved free WiFi,10,Promoter,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_3GEe0LiGHyPixmu,8180292869.0,2026-07-05,LGA,DFW,3289,321,A21,Y,"No delayed flights, clean cabin, and with inflight wifi",10,Promoter,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_60MGTC5IVcV6Ifk,1533457726.0,2026-05-06,MSN,DFW,2007,320,A05,Y,Just a fun trip nice crew love the free wifi,10,Promoter,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_6QhLfCNcwwGMlmO,1850192563.0,2026-03-06,PHX,PDX,1872,737,38K,Y,"Good communication regarding gate changes, plane was cleanMake it easier to get on to the wifi",9,Promoter,Wi-Fi Connectivity Issues
+SV_4SJm25NwBp7FfRs,R_6s41fMUIuAish8t,8022528998.0,2026-06-05,JFK,SFO,149,321,32T,Y,"Very courteous ground and in-flight staff, especially pleased that boarding was paused after a delay (unrelated to the flight or to the plane), so that passengers could relax at the gate instead of cooped up aboardDisappointed that the seat back screen didn't work, nor did the wifi",7,Passive,Wi-Fi Unavailable
+SV_4SJm25NwBp7FfRs,R_7FLGYFR1r18SvTm,8144219391.0,2026-01-04,CUN,JFK,1350,737,38K,Y,Wifi,7,Passive,Wi-Fi Unavailable
+SV_4SJm25NwBp7FfRs,R_7NEEbvd4F39Zy3j,551785703.0,2026-08-11,SBP,DFW,1772,737,38M,Y,Flights were on time. Had free wifi,8,Passive,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_3LFJMhgZwSTlmPa,113335311.0,2026-06-11,DUB,DFW,133,777,772,W,no wifi,3,Detractor,Wi-Fi Unavailable
+SV_4SJm25NwBp7FfRs,R_3KYEsJLgSC00Ijx,608030714.0,2026-03-06,RDU,PHL,5370,CRJ,CP9,Y,There was no wifi,9,Promoter,Wi-Fi Unavailable
+SV_4SJm25NwBp7FfRs,R_51eAHHUezxBXaX7,1422345754.0,2026-04-03,ORD,SEA,2398,737,38K,Y,Incredibly expensive wifi,0,Detractor,"No free wifi (was available, but expensive, need more free wifi)"
+SV_4SJm25NwBp7FfRs,R_Z9kXb4Qxd8e0EhP,39480432.0,2026-07-10,AMS,PHL,203,787,788,Y,Wonderful seeive. Thanks for free wifi,10,Promoter,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_6HZ9LpRMCoBxFh7,479183972.0,2026-04-03,BDA,CLT,2085,319,19W,Y,"Flights were on time, crews were great.  Only issue we had was not being able to hear the flight crew from cockpit and we could not get on wifi",9,Promoter,Wi-Fi Unavailable
+SV_4SJm25NwBp7FfRs,R_73UyNHv7WPvQHUV,4159798.0,2026-06-12,PHL,MIA,2667,787,789,Y,Wide body aircraft. Left on time. Free Wifi,8,Passive,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_3Lhv1yY96FIzmE1,225468300.0,2026-06-04,PVD,DCA,4574,EMJ,E75,Y,"smooth, easy and some flights have free wifi",10,Promoter,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_5kFBb0AzOyZIyDL,8159078070.0,2026-01-23,TPA,LGA,2749,737,38K,Y,Need to provide free tv and free wifi,5,Detractor,"No free wifi (was available, but expensive, need more free wifi)"
+SV_4SJm25NwBp7FfRs,R_7O023lAmUaCQuQ1,8159485790.0,2026-01-16,SJU,MIA,2682,321,A21,Y,Everything was fine.  Specially the on air wifi,10,Promoter,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_5PsNVDZJRkZhTAn,2768190.0,2026-03-03,STL,CLT,1992,737,38K,Y,No listing of food and drink.  Hard to get WiFi,6,Detractor,Wi-Fi Connectivity Issues
+SV_4SJm25NwBp7FfRs,R_1CpCE1POQPZ2s44,606360989.0,2026-07-14,PVR,DFW,1114,737,38K,Y,The plane from Dallas to Pittsburgh had no wifi,8,Passive,Wi-Fi Unavailable
+SV_4SJm25NwBp7FfRs,R_60MnB39TPVqnrid,8118072680.0,2026-04-25,CLT,PVD,2584,321,A21,Y,The flight was full but boarding went very smoothly. It was also nice to have free wifi,10,Promoter,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_62EHhDrQ0rtDNc9,368412953.0,2026-01-19,TPA,DFW,1514,321,A21,Y,Quicker rollout of the free WiFi,9,Promoter,"No free wifi (was available, but expensive, need more free wifi)"
+SV_4SJm25NwBp7FfRs,R_2eRqc0O5NloLkTj,8015250945.0,2026-07-17,SAN,CLT,1860,321,32C,Y,"Delayed, no wifi",5,Detractor,Wi-Fi Unavailable
+SV_4SJm25NwBp7FfRs,R_3LtQwV9dcvTRYdj,325439759.0,2026-02-21,LGA,ORD,4570,EMJ,E75,Y,No wifi,1,Detractor,Wi-Fi Unavailable
+SV_4SJm25NwBp7FfRs,R_1oRgtjvaVzA3yNE,1647839656.0,2026-06-12,LAS,DFW,3285,321,32N,Y,Free wifi,10,Promoter,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_5jGgWpcgnkp3kat,822644192.0,2026-06-11,MIA,SFO,2035,737,38K,Y,Poor and non existent wifi,2,Detractor,Wi-Fi Unavailable
+SV_4SJm25NwBp7FfRs,R_3kIbpdpeemrWpOb,8154847889.0,2026-05-20,DCA,MCI,4068,EMJ,E7M,Y,No WiFi,7,Passive,Wi-Fi Unavailable
+SV_4SJm25NwBp7FfRs,R_52LlQ2LkfdxLtuX,51087979.0,2026-01-13,MIA,MCO,2476,321,32E,Y,No more Tmobile wifi,5,Detractor,"No free wifi (was available, but expensive, need more free wifi)"
+SV_4SJm25NwBp7FfRs,R_7GrnRz5kJLtEBLs,10082680.0,2026-02-14,MIA,SFO,888,321,32E,C,"The pitch on the first class seats is horrible, also it would make sense to have an Apple compatible port to use wifi",7,Passive,Wi-Fi Unavailable
+SV_4SJm25NwBp7FfRs,R_671cHvK1PeOe7N9,300541890.0,2026-01-27,LAX,XNA,4894,EMJ,O75,C,Faster wifi,10,Promoter,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_6jYnNdSeMFlzeOB,381759098.0,2026-01-16,RNO,PHX,2670,737,38K,Y,Timeliness and wifi,8,Passive,Wi-Fi Unavailable
+SV_4SJm25NwBp7FfRs,R_6NLMtwuGg9sF6tH,8178921819.0,2026-08-12,ELP,LAX,4973,EMJ,O75,Y,We didn't have wifi,9,Promoter,Wi-Fi Unavailable
+SV_4SJm25NwBp7FfRs,R_147nSigXefAZEel,8093262477.0,2026-06-24,ORF,ORD,4643,EMJ,R75,Y,good flight good wifi,10,Promoter,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_5EzQwy62ksedV45,402475062.0,2026-08-15,SEA,MIA,1484,737,38M,Y,No wifi,6,Detractor,Wi-Fi Unavailable
+SV_4SJm25NwBp7FfRs,R_1whRQfv0cbJN8eB,1747683260.0,2026-05-22,EDI,PHL,279,787,789,C,No free wifi,1,Detractor,"No free wifi (was available, but expensive, need more free wifi)"
+SV_4SJm25NwBp7FfRs,R_7FUNVAiE2EDWHP1,8158206571.0,2026-03-19,HNL,PHX,694,787,788,Y,Provide complimentary wifi,9,Promoter,"No free wifi (was available, but expensive, need more free wifi)"
+SV_4SJm25NwBp7FfRs,R_625pv4umDAdRBVf,1572698530.0,2026-05-23,PVR,LAX,2883,737,38K,Y,better snacks appreciated! also better wifi,8,Passive,Wi-Fi Connectivity Issues
+SV_4SJm25NwBp7FfRs,R_6SdDCOvsh0Du6Py,368794765.0,2026-06-16,JFK,CVG,4609,EMJ,E75,C,No wifi,7,Passive,Wi-Fi Unavailable
+SV_4SJm25NwBp7FfRs,R_1dKpZvSba7CQScf,3529473.0,2026-06-10,JFK,BGI,585,737,38M,Y,Excellent wifi,9,Promoter,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_728ZM8TsnmaTHnP,454636783.0,2026-06-27,CUN,PHL,1971,737,38K,Y,ComfortEaseAnd wifi,10,Promoter,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_2uIGJ9pAi4G62XH,7869165.0,2026-07-13,JFK,LHR,142,777,77W,C,I keep receiving emails regarding WiFi on flights but still had to pay for bad Wifi,4,Detractor,"No free wifi (was available, but expensive, need more free wifi)"
+SV_4SJm25NwBp7FfRs,R_1xMHBbrUDBlR0Ah,369690334.0,2026-04-28,KOA,PHX,664,321,32E,Y,On none of my flights to Kona or on my way back I could not access the inflight WiFi,5,Detractor,Wi-Fi Unavailable
+SV_4SJm25NwBp7FfRs,R_3MNdfAvENnJHgge,8117334945.0,2026-01-15,SNA,PHX,2214,737,38M,Y,Offer free wifi,3,Detractor,"No free wifi (was available, but expensive, need more free wifi)"
+SV_4SJm25NwBp7FfRs,R_5j8R5KAHGoN3Afm,49034404.0,2026-01-18,DFW,PHL,1781,787,789,Y,There is little to no leg room and the seats seem to be getting smaller.  I was also not able to long into the WiFi,7,Passive,Wi-Fi Connectivity Issues
+SV_4SJm25NwBp7FfRs,R_5qfk6H0YsYzbMa6,193044113.0,2026-06-26,MIA,LAX,3288,787,788,C,No Wifi,5,Detractor,Wi-Fi Unavailable
+SV_4SJm25NwBp7FfRs,R_5y19WE8bKKDgjFo,8164344001.0,2026-03-25,PHX,EWR,2669,737,38M,Y,Got there early and free WiFi,10,Promoter,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_3BV58Hu0Fh63joY,878179593.0,2026-06-08,XPL,MIA,454,737,38R,Y,"I have a wonderful experience, very happy for the wifi",10,Promoter,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_yKET2qCmBMMwTD3,8184038742.0,2026-07-19,GCK,DFW,3999,EMJ,E7M,Y,Free wifi,10,Promoter,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_1PXFGkFPwFol8uf,8018299990.0,2026-07-11,RDU,LAX,1569,321,32C,C,I was counting on WiFi for much needed work and there was no WiFi,5,Detractor,Wi-Fi Unavailable
+SV_4SJm25NwBp7FfRs,R_3EMCwHdnSWWkW1o,8173635704.0,2026-07-11,DFW,SGF,5551,CRJ,CR7,Y,"Was a smooth flight, appreciated the wifi",8,Passive,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_5ixR4DDLoO6vBhT,370374019.0,2026-04-05,CDG,PHL,755,787,788,Y,I feel the service on long haul flights are all very similar and only involve the beginning and end of the flight.  There is no service in the middle of the flight.  No drinks offered or food in the middle 5 hours of the flight.And the free wifi was not on my flight.  Long haul flights would greatly benefit from free wifi,5,Detractor,"No free wifi (was available, but expensive, need more free wifi)"
+SV_4SJm25NwBp7FfRs,R_1jMPfQz5LPrD4qJ,266032108.0,2026-03-02,BNA,LGA,4676,EMJ,E75,C,provide wifi,5,Detractor,Wi-Fi Unavailable
+SV_4SJm25NwBp7FfRs,R_1GBneHpagy5fu2v,435822748.0,2026-07-14,PHL,DEN,1759,737,38K,Y,really appreciate the free wifi,9,Promoter,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_7MPW1InJHboOJGR,1711912131.0,2026-03-30,LAX,JFK,274,777,772,Y,Free Wifi,6,Detractor,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_7CE99dcWQPYVsRA,943167913.0,2026-02-23,BZN,ORD,2499,737,38M,Y,Liked Free wifi,9,Promoter,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_7LjPOfzFubwj7cI,10667933.0,2026-01-24,EWR,MIA,1692,737,38K,Y,Flt was good but I couldn't connect to wifi,10,Promoter,Wi-Fi Connectivity Issues
+SV_4SJm25NwBp7FfRs,R_30Ti9T4FlVC1HE9,408932964.0,2026-06-04,BOS,PHX,2315,737,38K,Y,Wifi did not work on either flight. This is inconvenient as my travel is frequently for work and I need wifi,7,Passive,Wi-Fi Unavailable
+SV_4SJm25NwBp7FfRs,R_5n0VeI35cUtOHe4,220928110.0,2026-04-07,LAX,JFK,274,777,772,Y,free wifi,10,Promoter,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_5uxDzhKAWZAxQHj,267182859.0,2026-08-17,SFO,DFW,2205,321,A21,Y,Wifi,9,Promoter,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_1RXLXreDxvfF2gx,96113378.0,2026-04-25,DCA,ORD,1328,319,A19,Y,"On time, friendly staff, Free wifi",10,Promoter,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_2qBSXP7V9lIGbbH,827008273.0,2026-01-23,SAL,MIA,356,737,38K,Y,On-time arrival is the best in AA and also wifi,7,Passive,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_6y2gOO6bH6Or0fD,450244678.0,2026-04-06,ROC,BOS,6067,ERJ,EMP,Y,"The plane is dirty, the aisles are very narrow and there is no wifi",5,Detractor,Wi-Fi Unavailable
+SV_4SJm25NwBp7FfRs,R_5P0YPjzBZISFY4t,677913401.0,2026-08-17,PDX,DFW,982,321,A21,Y,I wasn't able to access the wifi,7,Passive,Wi-Fi Connectivity Issues
+SV_4SJm25NwBp7FfRs,R_3nUdzm2umxZ1jjO,1676185203.0,2026-04-22,MBJ,JFK,1247,737,38M,Y,On time flight great wifi,8,Passive,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_3gGtKYYtwugUXlt,8105680740.0,2026-08-04,SJC,DFW,2572,737,38K,Y,"On time, comfortable seats and inflight wifi",10,Promoter,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_6VvwiuqWYxf8Cdj,149713124.0,2026-01-09,BOG,DFW,1122,737,38M,Y,Food could be improved. Screens should be added. Free WiFi,7,Passive,"No free wifi (was available, but expensive, need more free wifi)"
+SV_4SJm25NwBp7FfRs,R_3mQWmm6VShNXXgh,8038462.0,2026-01-15,JAX,DFW,2415,737,38R,Y,Wifi charges are onerous...Platinum or higher level members should get comp wifi,10,Promoter,"No free wifi (was available, but expensive, need more free wifi)"
+SV_4SJm25NwBp7FfRs,R_7V7oJ6acnGJ7LVO,520999884.0,2026-03-27,MSY,LGA,3090,737,38K,Y,Love the free WiFi,10,Promoter,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_2wSreEmGb1cNxJv,10172374.0,2026-07-31,TPA,DFW,2814,737,38R,C,No WiFi,2,Detractor,Wi-Fi Unavailable
+SV_4SJm25NwBp7FfRs,R_61bqB1E8ZeM24Fs,8172687512.0,2026-04-18,BGI,MIA,2725,737,38M,Y,The flights were good I guess there could be a slight improvement of snacks or offer free wifi,7,Passive,"No free wifi (was available, but expensive, need more free wifi)"
+SV_4SJm25NwBp7FfRs,R_1MnxBD4qydKexh3,8080826377.0,2026-04-20,BOS,CMH,4712,EMJ,E75,C,Fix the wifi,10,Promoter,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_3etueHLiQlcfcyI,267669134.0,2026-07-08,LGA,CHO,4381,EMJ,E7R,C,On-time departure; onboard crew were delightful; no wifi,8,Passive,Wi-Fi Unavailable
+SV_4SJm25NwBp7FfRs,R_7zGlMnWGDxsbFER,8159838765.0,2026-02-09,BZE,CLT,2514,737,38K,Y,"good app, nice crew, free wifi",9,Promoter,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_7I5fVcdiLzHP9uS,1039672.0,2026-03-23,OKC,CLT,4886,CRJ,OO7,Y,On time and wifi,10,Promoter,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_5JgXn9X4Dh5uluI,1693113567.0,2026-01-05,RDU,JFK,4765,EMJ,R75,C,Comfy seats and easy access wifi,10,Promoter,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_7eEYm2L2CmfrqOR,20636233.0,2026-03-11,MSY,CLT,2158,737,38K,Y,on time and comfortable.  good wifi,10,Promoter,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_5g1njcigpjxbpwR,497422998.0,2026-02-27,RDU,CLT,683,321,32C,Y,No wifi,10,Promoter,Wi-Fi Unavailable
+SV_4SJm25NwBp7FfRs,R_1JOvRcBEUUeMk0c,709853830.0,2026-07-10,XNA,LGA,4620,EMJ,R75,Y,no WiFi,5,Detractor,Wi-Fi Unavailable
+SV_4SJm25NwBp7FfRs,R_6HGRHRxckHVR8Rj,105503473.0,2026-05-29,CLE,ORD,6363,CRJ,OO7,Y,On time.  Decent snacks.  WiFi,9,Promoter,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_7QuEvep7pq54DX5,8125195574.0,2026-04-16,PIT,PHL,6122,ERJ,EMP,Y,"It was very small, there was no charging or wifi",2,Detractor,Wi-Fi Unavailable
+SV_4SJm25NwBp7FfRs,R_5feAjpGl5anYbGF,8107382635.0,2026-02-18,BNA,CLT,5479,CRJ,CP9,Y,Newer airplane with overhead space and the first flight in the last three with working Wifi,10,Promoter,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_36eTV2vA7IXKRhN,8168807079.0,2026-04-26,GEO,MIA,1512,737,38M,Y,I liked the skill of the pilots and the in-flight wifi,8,Passive,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_38HsjZgSxj0OPcv,8051815048.0,2026-02-08,COS,DFW,6390,CRJ,OO7,Y,Flight from COS to DFW did not have wifi,8,Passive,Wi-Fi Unavailable
+SV_4SJm25NwBp7FfRs,R_629CMdbK3OJ64E5,1437426203.0,2026-01-22,SJD,DFW,2807,321,A21,Y,no free wifi,2,Detractor,"No free wifi (was available, but expensive, need more free wifi)"
+SV_4SJm25NwBp7FfRs,R_90MeAxViQj6trTn,8181508314.0,2026-07-04,JFK,DEL,292,787,789,Y,No wifi,8,Passive,Wi-Fi Unavailable
+SV_4SJm25NwBp7FfRs,R_6PSJCBzliEIvoZA,1514779678.0,2026-02-14,SXM,CLT,2478,737,38M,Y,Could not get on to wifi,8,Passive,Wi-Fi Connectivity Issues
+SV_4SJm25NwBp7FfRs,R_6dS1ING5TcRbsid,8044517956.0,2026-05-04,DFW,IAH,2157,319,A19,Y,Wifi,9,Promoter,Wi-Fi Unavailable
+SV_4SJm25NwBp7FfRs,R_16xKEITEmW3wrUB,521374360.0,2026-01-05,TUS,ORD,4171,EMJ,E7Q,C,Great but has no WIFI,10,Promoter,Wi-Fi Unavailable
+SV_4SJm25NwBp7FfRs,R_6EtWLLn4K9qFxtn,524901277.0,2026-07-01,HNL,LAX,164,321,32E,Y,"Great, easy flight. Loved the free Wifi",10,Promoter,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_725rM3nFXyY6IfZ,428539021.0,2026-03-21,TPA,MIA,4769,EMJ,R75,Y,Everything went well but had difficulty using the wifi,9,Promoter,Wi-Fi Connectivity Issues
+SV_4SJm25NwBp7FfRs,R_5AMOAXbMBAUqoZO,8150018447.0,2026-05-30,RAP,DFW,4277,EMJ,E7M,C,"I flew first class on this flight, and there were no televisions and the wifi was not very good.  That is too much to pay for no food, ********** snacks, no television and bac wifi",4,Detractor,Wi-Fi Connectivity Issues
+SV_4SJm25NwBp7FfRs,R_3V8QYMqzrKbensG,201057649.0,2026-01-10,MIA,STT,2735,737,38M,Y,Internet,10,Promoter,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_38UM51woRDFrET8,1356780835.0,2026-05-05,BCN,JFK,67,787,788,Y,I was dissatisfied that I had to pay $35 for wifi,10,Promoter,"No free wifi (was available, but expensive, need more free wifi)"
+SV_4SJm25NwBp7FfRs,R_3JDT8mDV4G20hPF,8170476128.0,2026-05-01,TPA,PHX,2371,321,32N,Y,"There was a delay, only one bathroom, and no wifi",2,Detractor,Wi-Fi Unavailable
+SV_4SJm25NwBp7FfRs,R_3GrDgS6rMZqhvFL,556155660.0,2026-02-05,HPN,DCA,5254,CRJ,CR7,Y,"On time flights, seats with outlets that are not missing or broken, working wifi",1,Detractor,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_17gS2DPJZiY8UYF,69040651.0,2026-06-13,BOS,ORD,1509,737,38K,Y,"On time, comfortable seats, large overhead storage compartment, in-flight wifi",9,Promoter,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_1QSNk2Nl2SUPTqx,8098935970.0,2026-03-28,PUJ,PHL,2495,737,38K,Y,Love AA. Would've liked to connect a little easier to the wifi,10,Promoter,Wi-Fi Connectivity Issues
+SV_4SJm25NwBp7FfRs,R_3MKDMlrpGCpWM28,115577014.0,2026-06-05,MCI,DFW,3661,EMJ,E7M,Y,No WiFi,9,Promoter,Wi-Fi Unavailable
+SV_4SJm25NwBp7FfRs,R_6OPFaieV8qnUJyd,12677714.0,2026-01-03,BOS,DFW,1811,737,38R,Y,Better wifi,6,Detractor,Wi-Fi Connectivity Issues
+SV_4SJm25NwBp7FfRs,R_5ygEHbsVmXVwtqL,8074230156.0,2026-08-03,LAX,PHL,513,321,32E,Y,"Smooth flight, nice attendants, and free Wifi",10,Promoter,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_7JUPBFJ9G4HCJhv,436152502.0,2026-03-01,POP,MIA,2273,737,38M,Y,professional and courteous staff. Free in-flight wifi,9,Promoter,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_7YodjJPKAZuHN9b,956054347.0,2026-01-22,DFW,HSV,5663,CRJ,CP9,C,Everything was great. Wished every flight had wifi,10,Promoter,Wi-Fi Unavailable
+SV_4SJm25NwBp7FfRs,R_6s0tmQH6cdY4yNH,8117801861.0,2026-06-24,PHL,ORD,3074,321,A21,Y,No wifi,6,Detractor,Wi-Fi Unavailable
+SV_4SJm25NwBp7FfRs,R_1bO8rdhdZam2j0f,1696907718.0,2026-03-12,JFK,LAX,1,787,788,Y,No working wifi,5,Detractor,Wi-Fi Unavailable
+SV_4SJm25NwBp7FfRs,R_17BDlRmSiRVqzyF,8038265793.0,2026-03-30,PHL,MSN,6028,ERJ,EMP,Y,"With the rollout of all of the advertising of free WiFi for advantage members while in flight, including on the inflight entertainment card in the seat back pocket on the plane, we were a little disappointed to find that the plane we were on from PHL to MSN was not outfitted with WiFi",8,Passive,Wi-Fi Unavailable
+SV_4SJm25NwBp7FfRs,R_5VvQG5rQfIQoDKh,8120157457.0,2026-02-25,BZN,ORD,2499,737,38M,Y,Broke my suitcase and most flights were late and the last flight was on a plane without wifi,2,Detractor,Wi-Fi Unavailable
+SV_4SJm25NwBp7FfRs,R_6ua3J6oqT2zg2dP,8069862856.0,2026-01-12,PHX,LAX,2428,319,A19,Y,Free wifi,10,Promoter,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_6PuHl9yRb6M9tvC,383659632.0,2026-02-20,HPN,DCA,5254,CRJ,CR7,Y,Delayed 2+ hours; also delayed getting into HPN from DCA the day before with no wifi,4,Detractor,Wi-Fi Unavailable
+SV_4SJm25NwBp7FfRs,R_7Gq7Ykh2zzjn2wV,9684787.0,2026-06-16,ATH,DFW,217,777,77W,F,Old planes with outdated/non-working wifi,7,Passive,Wi-Fi Unavailable
+SV_4SJm25NwBp7FfRs,R_7H5k1xpHPMJK35b,8177569817.0,2026-06-26,SGF,DFW,3803,EMJ,E7M,Y,The flights were very nice. We had a storm delay but our next flight waited for us at Dallas when it could have just left without us. The seats were comfortable and loved the free wifi,10,Promoter,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_6DOJcK9erITdXXF,386887676.0,2026-06-14,DFW,HNL,5,787,788,Y,Late and broken/expensive wifi,6,Detractor,"No free wifi (was available, but expensive, need more free wifi)"
+SV_4SJm25NwBp7FfRs,R_5JJLjKLLUv89VUp,8049178185.0,2026-03-04,DFW,RNO,770,737,38M,Y,No charging ports could not access the wifi,3,Detractor,Wi-Fi Unavailable
+SV_4SJm25NwBp7FfRs,R_1uU7966ZnzNolEF,57946677.0,2026-06-09,JFK,LAX,306,321,32T,Y,Cancellation (but handled well)Broken wifi,5,Detractor,Wi-Fi Unavailable
+SV_4SJm25NwBp7FfRs,R_6YbKfJkCPXLe16C,1707716104.0,2026-02-02,TPA,DCA,3203,737,38K,Y,Internet,8,Passive,Wi-Fi Unavailable
+SV_4SJm25NwBp7FfRs,R_5DZG15Hvjx8ED9T,10542018.0,2026-04-18,LHR,CLT,735,777,772,Y,The aircraft is an older one so that means entertainment not via WiFi,8,Passive,Wi-Fi Unavailable
+SV_4SJm25NwBp7FfRs,R_71RwEUpEjHq9NAJ,8129566432.0,2026-04-23,PIT,LAX,2523,737,38K,Y,free wifi,8,Passive,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_5PidlyKPf2jL8jo,8141870406.0,2026-08-08,DCA,XNA,3452,EMJ,E7M,Y,Excellent staff. Constant updates on flights and free wifi,10,Promoter,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_PZOR8xpQj7gK3gR,1746163957.0,2026-07-14,MIA,BGI,2393,737,38M,Y,Inflight wifi,10,Promoter,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_3rvmhz8Se0j7TUO,50675663.0,2026-04-14,TPA,DFW,3050,321,32C,Y,Beverage service was good and given adequate time before trash collection.  Access to WiFi was nonexistent.  Using manual entry of address or scanning to code never got to the WiFi,6,Detractor,Wi-Fi Unavailable
+SV_4SJm25NwBp7FfRs,R_7oNjU5qbAwOUdNc,391156423.0,2026-07-02,LAX,DFW,2024,321,A21,Y,delayed flight forced me on to an earlier flight in a middle seat with non working wifi,4,Detractor,Wi-Fi Unavailable
+SV_4SJm25NwBp7FfRs,R_5KOSnTqIXVH9a3o,977857701.0,2026-03-12,JFK,LAX,341,777,772,Y,No working wifi,5,Detractor,Wi-Fi Unavailable
+SV_4SJm25NwBp7FfRs,R_24GgZu0nENfOBoR,8839275.0,2026-07-06,FAT,PHX,1831,737,38R,Y,Poor wifi,6,Detractor,Wi-Fi Connectivity Issues
+SV_4SJm25NwBp7FfRs,R_3GULMY0TYGr2nUd,155585808.0,2026-03-09,CAE,LGA,4506,EMJ,E75,C,Get WiFi,5,Detractor,Wi-Fi Unavailable
+SV_4SJm25NwBp7FfRs,R_5eY0YCCOWtfblAv,8170840956.0,2026-03-30,CLT,PUJ,3316,321,A21,Y,"add a tv, improve wifi",8,Passive,Wi-Fi Connectivity Issues
+SV_4SJm25NwBp7FfRs,R_3mdDrIR7yypVS7S,8180216573.0,2026-07-17,ATL,PHX,3012,321,A21,Y,Flight was amazing and service was goood. I really love the in flight wifi,10,Promoter,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_32nd1TONa136RQK,8108673187.0,2026-03-20,PHL,PIT,5816,ERJ,EMP,Y,"The flight was great , just wish there was wifi",10,Promoter,Wi-Fi Unavailable
+SV_4SJm25NwBp7FfRs,R_1vbIZkHl3zIvpny,383483172.0,2026-05-04,SFO,PHL,2793,321,32E,Y,No Wifi,0,Detractor,Wi-Fi Unavailable
+SV_4SJm25NwBp7FfRs,R_2wNswb1y42y46Fv,676992470.0,2026-07-08,DCA,MIA,1627,737,38K,C,it would be a higher rating if we could have consistent wifi,8,Passive,Wi-Fi Connectivity Issues
+SV_4SJm25NwBp7FfRs,R_3IZhTNfWiecW7Ad,8075109446.0,2026-03-29,PHL,SAN,2722,321,32E,Y,Comfortable flight. Friendly service. Wifi,10,Promoter,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_3M6vkomFcXv9hUM,472957604.0,2026-04-29,GSP,LGA,4448,EMJ,E7R,Y,What American did well was have a well trained personable staff. What American can improve on is having a stronger WiFi,9,Promoter,Wi-Fi Connectivity Issues
+SV_4SJm25NwBp7FfRs,R_5YQo0tLkZT0FmJX,1175159803.0,2026-06-20,BNA,MIA,1342,737,38M,Y,Friendly staff and on board wifi,10,Promoter,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_3EgvOPBYIBlRJre,571336434.0,2026-02-11,JAX,DCA,897,319,A19,Y,Provide working wifi,8,Passive,Wi-Fi Unavailable
+SV_4SJm25NwBp7FfRs,R_196jie6icRI3oxH,8159747972.0,2026-03-28,GNV,CLT,5998,ERJ,EMP,Y,"The staff were all amazing, but the planes were very old and lacked basic features like WiFi",6,Detractor,Wi-Fi Unavailable
+SV_4SJm25NwBp7FfRs,R_3FbPT5YjB0O2Iba,8058469517.0,2026-08-18,JAC,CLT,1049,319,319,Y,The only thing I had trouble with was connecting to inflight wifi,8,Passive,Wi-Fi Connectivity Issues
+SV_4SJm25NwBp7FfRs,R_3iXdBIJHfRa4zoq,1748400961.0,2026-01-27,LAS,CLT,3322,321,A21,Y,Staf is professional and friendly.  One flight did not have free Wifi,9,Promoter,"No free wifi (was available, but expensive, need more free wifi)"
+SV_4SJm25NwBp7FfRs,R_6HRHQtCvgptxo0j,8052640862.0,2026-01-13,LGA,ORD,4557,EMJ,E75,Y,Had 2 planes deactivated and had to switch to a 3rd with no wifi,0,Detractor,Wi-Fi Unavailable
+SV_4SJm25NwBp7FfRs,R_1jT0Hfmutug5M3Q,8153610959.0,2026-03-20,PHL,SFO,1826,321,32E,Y,No Wifi connection in flight and casual attitude of staff for not having Wifi,4,Detractor,Wi-Fi Unavailable
+SV_4SJm25NwBp7FfRs,R_24DiXm6D1TfVwgF,603751805.0,2026-06-04,ABQ,DFW,928,319,319,Y,"on time, wifi",10,Promoter,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_1RgOcV4xolN3gy9,871976611.0,2026-02-15,IAH,CLT,2445,737,38K,Y,Comfort n wifi,10,Promoter,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_7emGwxHKy5LeFSj,3045759.0,2026-02-09,STT,MIA,2734,737,38M,C,Great improvement to you customers with the wifi,10,Promoter,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_DqQZxtwnAsXuLS1,8184140763.0,2026-07-18,JFK,DEL,292,787,789,Y,WiFi was available in my ticket but it was not available during the journey . I was asked to pay additional amount for wifi,4,Detractor,"No free wifi (was available, but expensive, need more free wifi)"
+SV_4SJm25NwBp7FfRs,R_V1G28llxqqSgBKV,359325851.0,2026-07-05,LGA,DCA,4654,EMJ,E75,Y,No beverage/snack service.  No inseat video screens and NO WIFI,3,Detractor,Wi-Fi Unavailable
+SV_4SJm25NwBp7FfRs,R_2Ej3tfc8cBawQyf,1408254543.0,2026-03-06,PNS,MIA,3863,EMJ,E7M,Y,Poor wifi,2,Detractor,Wi-Fi Connectivity Issues
+SV_4SJm25NwBp7FfRs,R_6kMrARZzYDO2jKs,385795150.0,2026-02-08,LRD,DFW,3502,EMJ,E7Q,Y,Nice smoth comfortable flight and good wifi,10,Promoter,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_2wjAHZkAyjYVh7h,392729153.0,2026-07-09,LAS,DFW,3285,321,A21,C,"All flights on time, crew was great on all flights.  Planes updated and free ATT wifi",10,Promoter,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_3kB9nMJmqIWgzwe,8183415228.0,2026-07-28,PHL,FLL,1855,737,38R,Y,everything was very good but we were unable to get on wifi,8,Passive,Wi-Fi Connectivity Issues
+SV_4SJm25NwBp7FfRs,R_5GEUUZxanQgniIp,73849825.0,2026-08-05,LAX,JFK,238,321,32X,Y,"good legroom, complimentary food and drinks, free wifi",10,Promoter,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_1nUIATfdxnPmJBh,8166003299.0,2026-02-22,LAX,OMA,6418,EMJ,O75,Y,Good wifi,8,Passive,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_76UzqC6svDPEXIJ,1449141466.0,2026-04-27,SAN,CLT,582,321,A21,Y,Wifi,10,Promoter,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_1ERc3r7YwgfN1mp,1123452613.0,2026-06-17,CLT,SEA,2529,321,A21,Y,I could not connect to WIFI,3,Detractor,Wi-Fi Connectivity Issues
+SV_4SJm25NwBp7FfRs,R_3DqCGz4j3tygBHr,8019570553.0,2026-01-15,CAE,PHL,5820,ERJ,EMP,Y,"Flights were quick, stewardess were efficient and pleasant. Just no hot water for coffee...or wifi",10,Promoter,Wi-Fi Unavailable
+SV_4SJm25NwBp7FfRs,R_7LBETOHbhU8qY6l,8156762153.0,2026-03-14,BUF,MIA,4747,EMJ,E75,Y,"Fast service flight, free Wifi",10,Promoter,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_1qyXgDQTDufySM1,4491544.0,2026-01-26,ORD,ATL,3794,EMJ,E7Q,Y,No water available on the flight and no WiFi,3,Detractor,Wi-Fi Unavailable
+SV_4SJm25NwBp7FfRs,R_7CZe40RDvkQCMii,852440305.0,2026-08-04,JFK,ANU,1136,737,38M,Y,Free wifi,10,Promoter,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_5Vyic4Mp4yXAo0Z,9058578.0,2026-03-03,PHX,PSP,3077,320,320,Y,Love that you now offer free WiFi,10,Promoter,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_3Cq3dhtdxH76Hrj,1718866814.0,2026-05-06,MYR,CLT,3174,737,38K,Y,Neither of the legs of my trip did we get our complimentary beverage due to turbulence but first class did. I liked the free wifi,4,Detractor,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_5oLYbr61jdfK21s,843530256.0,2026-01-17,LBB,DFW,3669,EMJ,E7Q,Y,"Friendly FAs, free Wifi",9,Promoter,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_35Kg501W2DQh7PU,305922812.0,2026-01-18,LAX,CLT,1590,321,32E,Y,American airlines does not have free wifi,7,Passive,"No free wifi (was available, but expensive, need more free wifi)"
+SV_4SJm25NwBp7FfRs,R_7EFyUbzyu5F2HkC,1182085373.0,2026-06-15,DUB,ORD,209,787,788,Y,No wifi,5,Detractor,Wi-Fi Unavailable
+SV_4SJm25NwBp7FfRs,R_1HO1hEMUwgWk9ru,8160298273.0,2026-03-23,SLC,PHL,2626,321,A21,Y,Boring since no movies or games. Could not connect to Wifi,8,Passive,Wi-Fi Connectivity Issues
+SV_4SJm25NwBp7FfRs,R_2bJAEVfImqedEZy,382586116.0,2026-07-31,FLL,PHL,444,737,38R,Y,"Roomy seats, not packed flight and wifi",10,Promoter,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_D5XjfWosFuZJzxv,2689368.0,2026-07-31,PHX,ORD,3008,737,38K,Y,on time; good wifi,9,Promoter,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_3taqQmsQVzAW1dn,8058672161.0,2026-02-08,LEX,ORD,4276,EMJ,E7M,Y,Nothing well. Stewardess was awful and no wifi,1,Detractor,Wi-Fi Unavailable
+SV_4SJm25NwBp7FfRs,R_3CI5KfM4ABTXXpZ,8161568995.0,2026-03-18,TPA,CLT,1704,321,A21,Y,The crew members very nice had difficulty with wifi,8,Passive,Wi-Fi Connectivity Issues
+SV_4SJm25NwBp7FfRs,R_1ebnOfFQIbNkJXt,366360432.0,2026-02-08,CLT,AUS,2471,737,38R,C,Service was very good and free wifi,10,Promoter,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_2sRwLjuBigoMgse,8183886874.0,2026-07-25,BOI,DFW,1531,737,38R,Y,free wifi,10,Promoter,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_5hznrPhigFWyFeD,6803939.0,2026-06-05,SEA,DFW,717,321,32C,C,COULD NOT CONNECT TO THE WIFI,9,Promoter,Wi-Fi Connectivity Issues
+SV_4SJm25NwBp7FfRs,R_5ktZ94RmqLkIVWH,8066457407.0,2026-04-28,BOS,LGA,4567,EMJ,E75,Y,tvs better wifi,9,Promoter,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_6Cv0QZOYToDTDkm,8177022031.0,2026-06-02,IAH,DCA,5598,CRJ,CP9,Y,No cabin space to store carryonNo entertainment and wifi,5,Detractor,Wi-Fi Unavailable
+SV_4SJm25NwBp7FfRs,R_2XbNUZjjRVmv8FO,8104980335.0,2026-07-18,MDT,CLT,5786,ERJ,EMP,Y,Delayed tuen plane had no cool air and no wifi,5,Detractor,Wi-Fi Unavailable
+SV_4SJm25NwBp7FfRs,R_6op63qOMTb8dtUi,354095742.0,2026-06-08,PHL,DFW,415,321,A21,Y,No wifi,6,Detractor,Wi-Fi Unavailable
+SV_4SJm25NwBp7FfRs,R_3mW6tU91Xc2XGy9,765348145.0,2026-03-29,MIA,CLE,2537,319,A19,Y,We paid for upgraded seats but the seats on this plane were all the same. No wifi,5,Detractor,Wi-Fi Unavailable
+SV_4SJm25NwBp7FfRs,R_5j9zbIjR1vNmuAC,1764010916.0,2026-02-16,PHX,RNO,2670,737,38M,Y,It was a prompt & efficient boarding & flight with access to wifi,9,Promoter,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_14iwzJ2o09un4Og,8021160375.0,2026-06-15,DFW,PHL,2358,737,38K,Y,Wifi,10,Promoter,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_11Z1EFvib0YacwM,8156034669.0,2026-01-18,BNA,LGA,4445,EMJ,E75,Y,"Seats are small,hard time accessing WiFi",8,Passive,Wi-Fi Connectivity Issues
+SV_4SJm25NwBp7FfRs,R_1q5ntNF0uc7qGyd,182058273.0,2026-03-27,ELP,DFW,3020,321,32C,Y,I couldn't connect to the wifi,9,Promoter,Wi-Fi Connectivity Issues
+SV_4SJm25NwBp7FfRs,R_3eVNnTS8pbyPVTy,970723180.0,2026-08-17,DFW,ROA,5559,CRJ,CP9,Y,No coffee or wifi,9,Promoter,Wi-Fi Unavailable
+SV_4SJm25NwBp7FfRs,R_197bXTDELFTcSjG,8148185655.0,2026-06-18,DFW,IND,2800,737,38K,Y,"Outlet broken in seat, no wifi",5,Detractor,Wi-Fi Unavailable
+SV_4SJm25NwBp7FfRs,R_5fucOCqWkonx4FH,8135438.0,2026-03-10,DFW,FLL,1373,321,32C,Y,Love the perks and free wifi,10,Promoter,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_51d6yN6Kcgc2Np8,1515265638.0,2026-04-14,LGA,DFW,1570,321,32E,Y,On time great service and free wifi,10,Promoter,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_3l1kQCoeNIi3xy9,949550491.0,2026-04-26,MIA,BOS,1074,737,38R,Y,Flight was delayed 3+ hours. The cabin was very hot. No media. Choppy wifi,2,Detractor,Wi-Fi Connectivity Issues
+SV_4SJm25NwBp7FfRs,R_5nJDVYrOMWhSnq4,1528133973.0,2026-01-18,HND,LAX,26,787,789,Y,There was no wifi,2,Detractor,Wi-Fi Unavailable
+SV_4SJm25NwBp7FfRs,R_1EGB7OIIDq460lT,8134242001.0,2026-08-09,ORD,MIA,2452,737,38M,Y,"It's one of the best airlines, great customer service, comfy seats, and there's wifi",10,Promoter,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_1OIjJMFnfUQZ7Vx,40202370.0,2026-04-14,GSP,DFW,5607,CRJ,CP9,Y,"Friendly crew, on time, free wifi",10,Promoter,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_1hYG1wu3KM9NxYj,9559851.0,2026-04-28,PHL,MSY,3149,319,319,Y,"Flight was timely and lane seemed clean, but the seats are just too tight for anyone over about 5'8'' and the inflight entertainment didn't seem to work for much of the flight. Appreciate the free wifi",7,Passive,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_1Cg8oTu2zrTSFdb,8182791588.0,2026-07-18,BOS,TVC,4516,EMJ,E75,Y,"Great crew, punctual flight, great seat and wifi",10,Promoter,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_523wvsTA8UzqfM4,10015568.0,2026-08-02,MXP,MIA,207,787,788,Y,No WIFI,8,Passive,Wi-Fi Unavailable
+SV_4SJm25NwBp7FfRs,R_1EAwQqi1XC3rwdj,18242809.0,2026-01-12,DFW,SAT,1168,321,A21,Y,Aircraft was old and dirty and there was no free wifi,6,Detractor,"No free wifi (was available, but expensive, need more free wifi)"
+SV_4SJm25NwBp7FfRs,R_1n0GGKnVsR6Tyny,58245709.0,2026-01-09,PHL,MCO,1416,321,32C,C,Attentive staff - efficient. I very much appreciated the free WiFi,9,Promoter,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_35uV9sGhFQT3oRU,951011306.0,2026-01-12,CLT,CVG,5134,CRJ,CP9,Y,"For some reason, even when I was logged into an AA Advantage, it still made me purchase wifi for the flight instead of it being free like other flights. It might have been an error with the system but I would hate for people to pay $12 or $19 for ""free"" wifi",6,Detractor,"No free wifi (was available, but expensive, need more free wifi)"
+SV_4SJm25NwBp7FfRs,R_5qjpjAsenoBEANr,8152540226.0,2026-01-23,DCA,CVG,5673,CRJ,CR7,Y,No in-flight wifi,4,Detractor,Wi-Fi Unavailable
+SV_4SJm25NwBp7FfRs,R_6X1zXyHs9GmxEVn,7927431.0,2026-06-29,ORD,SFO,1253,737,38R,Y,"I bought a ticket, got on the plane in Chicago and landed in San Francisco. Seat OK, FA's kind and pleasant to deal with, I liked to be able to watch a movie on my laptop via in flight WiFi",10,Promoter,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_1JeCe22C4zNBQKl,605941099.0,2026-02-13,DFW,GNV,3935,EMJ,E7M,C,There was no wifi,3,Detractor,Wi-Fi Unavailable
+SV_4SJm25NwBp7FfRs,R_2BwFHnQhSbDTS6V,8175258287.0,2026-07-20,LAX,ORD,3134,321,32C,Y,Great service friendly staff and love it that you guys offer drinks and cooking or chips and free wifi,10,Promoter,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_60eftPJIhMTc3Z1,8158939983.0,2026-02-18,RIC,CLT,1788,321,A21,Y,Free WiFi,7,Passive,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_6GJVvWHtR9vVXwt,8166055458.0,2026-03-27,HNL,ORD,74,787,788,Y,Lower the price and free wifi,7,Passive,"No free wifi (was available, but expensive, need more free wifi)"
+SV_4SJm25NwBp7FfRs,R_3YyEhZ1o9MiCwZr,8139597189.0,2026-03-01,SNA,CLT,2209,321,32E,Y,Free WiFi,10,Promoter,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_7IXYKwlYt6k6GdE,8151029337.0,2026-02-25,LAX,ORD,2029,321,A21,Y,"Great price, great pilots and flight attendants, quick flight time, free wifi",10,Promoter,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_7fCRpltV4v4RjoZ,8051217981.0,2026-03-12,LGA,ATL,4634,EMJ,E75,C,"Upgrade was excellent with great seat, excel light in service, internet should work like wifi",10,Promoter,Wi-Fi Unavailable
+SV_4SJm25NwBp7FfRs,R_6azwiCQqbdRjSQ8,609020362.0,2026-04-16,DFW,SAV,2751,737,38R,Y,Flight was delayed and had no wifi,5,Detractor,Wi-Fi Unavailable
+SV_4SJm25NwBp7FfRs,R_1qm3IDUTri8hyBr,8047881199.0,2026-03-17,PHL,DFW,2135,787,789,Y,fix the wifi,6,Detractor,Wi-Fi Unavailable
+SV_4SJm25NwBp7FfRs,R_1d5hGZdGSt08t5D,8127929581.0,2026-01-15,MIA,BOS,1680,737,38K,Y,Please Improve the WiFi,10,Promoter,Wi-Fi Connectivity Issues
+SV_4SJm25NwBp7FfRs,R_7HAgDaPx44qe5SV,52921560.0,2026-06-09,JAX,MIA,3609,EMJ,E7M,Y,No wifi,4,Detractor,Wi-Fi Unavailable
+SV_4SJm25NwBp7FfRs,R_3qkfA5cSuKepInl,4268985.0,2026-07-01,DFW,TPA,2814,737,38R,Y,free wifi,9,Promoter,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_1pDepGK5nSBc3W9,369505767.0,2026-01-06,ORD,MEM,4421,EMJ,E75,C,"Old plane, no wifi",5,Detractor,Wi-Fi Unavailable
+SV_4SJm25NwBp7FfRs,R_1TTpZASbnRBeqkJ,8165800996.0,2026-04-10,LAS,PHX,3320,321,A21,Y,No tv for movies. We had to use our mobile  phones to watch movies but it's  a pain to connect to the wifi,8,Passive,Wi-Fi Connectivity Issues
+SV_4SJm25NwBp7FfRs,R_6eVnGopaoa7M9Mq,422094858.0,2026-06-04,MGM,CLT,5967,ERJ,EMP,Y,Customer service and free wifi,10,Promoter,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_sprg0edUiTr8cKJ,8180925237.0,2026-07-08,BWI,CLT,846,737,38K,Y,Everything went great. Smooth boarding. I have not flown in years so I really liked the A/C outlets and free wifi,10,Promoter,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_7iDOjJuISfqP9LX,102774937.0,2026-08-11,BGR,ORD,4547,EMJ,E75,Y,Free wifi,10,Promoter,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_6018q3Mllg5xWNv,8126078590.0,2026-01-08,STS,PHX,3407,EMJ,E7M,Y,Flight was great just need help with the WiFi,10,Promoter,Wi-Fi Connectivity Issues
+SV_4SJm25NwBp7FfRs,R_1NFx4X5RmwzMBGx,8164821550.0,2026-02-14,CLT,LAX,2199,321,32E,Y,Free wifi,9,Promoter,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_3f6Eoha90LO7ah2,1725125642.0,2026-02-06,ORD,SAN,2131,737,38K,Y,"On time, comfortable, free wifi",10,Promoter,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_5rP7PpKwgY91oUD,8029492082.0,2026-01-21,SEA,ORD,851,737,38R,Y,i was having trouble with the wifi,10,Promoter,Wi-Fi Connectivity Issues
+SV_4SJm25NwBp7FfRs,R_5F3AsjcmUizxuCn,8171235777.0,2026-04-14,JFK,LAX,3,321,32X,Y,"Fantastic service, great WIFI",10,Promoter,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_6f9vRfqQJn3MGuY,1727383444.0,2026-07-03,MLB,CLT,5298,CRJ,CR7,Y,Lala land on the wifi,10,Promoter,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_6mzsUD6DjoOU0lH,8022526898.0,2026-05-04,ACY,PHL,6597,BUS,BUS,Y,"Good ride, efficient, liked that we had streaming wifi",9,Promoter,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_6ixSLgOHjgN7oJP,8171925825.0,2026-05-26,MIA,MBJ,3234,321,32E,Y,Free wifi,8,Passive,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_7Xap11xm1peucyP,1764010215.0,2026-03-01,DCA,RSW,4690,EMJ,R75,Y,"Easy on, Easy off, No delays, Courteous flight attendants, free wifi",10,Promoter,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_5fL8pMTQQIf6iRP,8164684866.0,2026-06-12,DFW,YYC,1973,321,A21,Y,Staff was very friendly and happy. has wifi,10,Promoter,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_5g1PLSBWK1bsgND,588108901.0,2026-05-02,CRP,DFW,5580,CRJ,CP9,Y,My flight was on-time and service was friendly.  Keep flights on schedule.  Enjoyed wifi,10,Promoter,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_7uCAfGSW6a1YbTV,8174172606.0,2026-04-19,PNS,CLT,2556,319,A19,Y,Had problems connecting to wifi,8,Passive,Wi-Fi Connectivity Issues
+SV_4SJm25NwBp7FfRs,R_3J7SjAsmBUqERo4,382004531.0,2026-07-25,CLT,MIA,2912,321,32E,Y,Consistency and good wifi,10,Promoter,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_1PANkBYzOBCrWdg,363146735.0,2026-06-29,PHX,BNA,3073,321,A21,Y,Reliable. And love the free wifi,10,Promoter,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_7durTN4VmV0I2lG,286048600.0,2026-05-31,ORD,DEN,1734,737,38M,Y,There was no wifi,5,Detractor,Wi-Fi Unavailable
+SV_4SJm25NwBp7FfRs,R_23GxjqXC5RGdA8V,366937366.0,2026-06-02,PHL,DUB,722,787,788,C,No wifi,8,Passive,Wi-Fi Unavailable
+SV_4SJm25NwBp7FfRs,R_3DMXnNdruHetdSd,760228.0,2026-04-06,GRI,DFW,4821,CRJ,CR9,C,On both my trip to Grand Island and on the trip back to DFW I had no power in the outlet and there was no WIFI,4,Detractor,Wi-Fi Unavailable
+SV_4SJm25NwBp7FfRs,R_3ah2sKwT8k2fdCE,450058810.0,2026-01-14,MAD,PHL,741,787,788,Y,The seats where more confortableYou should give free wifi,10,Promoter,"No free wifi (was available, but expensive, need more free wifi)"
+SV_4SJm25NwBp7FfRs,R_31EtuWKC8onefhn,8187567804.0,2026-07-30,MSY,LGA,2165,737,38K,Y,Tight squeeze and all.kinds of issues getting into wifi,7,Passive,Wi-Fi Connectivity Issues
+SV_4SJm25NwBp7FfRs,R_5hyzIQC6cv835Gp,793557981.0,2026-05-28,OGG,DFW,296,787,788,Y,Depart on time and have FREE Wifi,4,Detractor,"No free wifi (was available, but expensive, need more free wifi)"
+SV_4SJm25NwBp7FfRs,R_1JK5HzwPisIRN5h,4740664.0,2026-01-18,PHX,LAX,3145,321,32N,Y,"flight delayed, snacks were mediocre in terms of selection. seats were so tight. people had smelly food next to me. I did entertainment options, and the flight did not have basic free wifi",0,Detractor,"No free wifi (was available, but expensive, need more free wifi)"
+SV_4SJm25NwBp7FfRs,R_3rPuajWe1Wy4kfJ,916880384.0,2026-07-22,CLE,CLT,2021,737,38K,Y,Great flights and very comfortable seats. Love the Wifi,10,Promoter,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_7PH8LzAahpEwejk,625693907.0,2026-01-30,CLE,DFW,2331,737,38K,Y,fewer delays. show boarding time in the app clearly. add map and airplane options to inflight wifi,0,Detractor,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_3qy4b7mdOSBeBfr,1697928371.0,2026-07-29,LAX,MIA,345,321,32E,Y,Space and A&T&T wifi,7,Passive,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_5G9sNgk66CRtBbw,8097000023.0,2026-06-05,ORD,STL,4144,EMJ,E7Q,C,"Return flight was delayed overhead space extremely limited, no WiFi",0,Detractor,Wi-Fi Unavailable
+SV_4SJm25NwBp7FfRs,R_cZma7UZS33uaUQF,10337002.0,2026-07-07,JFK,LAX,341,321,32T,F,The food was pretty bad and there was no wifi,3,Detractor,Wi-Fi Unavailable
+SV_4SJm25NwBp7FfRs,R_6FUSz8PD6Cutbmg,8154908872.0,2026-02-12,GUA,DFW,2948,737,38M,C,Food was good on way down but awful on way backTrouble connecting to wifi,9,Promoter,Wi-Fi Connectivity Issues
+SV_4SJm25NwBp7FfRs,R_1hZnLsBNhiftBIF,8088722410.0,2026-01-07,JFK,HND,167,787,789,Y,no wifi,3,Detractor,Wi-Fi Unavailable
+SV_4SJm25NwBp7FfRs,R_7Xpqus8qD9ddnTY,1708155.0,2026-08-18,VCE,DFW,131,787,788,C,"Good flight, good service. Only drawback was the absence of WiFi",8,Passive,Wi-Fi Unavailable
+SV_4SJm25NwBp7FfRs,R_1dvwUaXkne2xYTT,185952957.0,2026-04-26,BDA,CLT,2085,319,19W,Y,I cannot connect to the wifi,0,Detractor,Wi-Fi Connectivity Issues
+SV_4SJm25NwBp7FfRs,R_1kGEdLMGPzAuRBN,8178613496.0,2026-07-10,ORD,LAS,3292,737,38K,Y,Great seats and great wifi,10,Promoter,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_3mmXcKrsZNE4dBq,8182621371.0,2026-07-31,DFW,OGG,123,777,772,C,"Despite being in a 1st class seat, I did not have access to free wifi",8,Passive,"No free wifi (was available, but expensive, need more free wifi)"
+SV_4SJm25NwBp7FfRs,R_6rlkMruGDiseqVd,10358519.0,2026-08-14,MAD,JFK,95,777,772,Y,"On time, comfortable plane, good food. Only down side was no wifi",9,Promoter,Wi-Fi Unavailable
+SV_4SJm25NwBp7FfRs,R_1dSGqgPktvcc7VC,458249990.0,2026-02-05,PHL,JAX,2198,319,319,Y,It was a smooth enjoyable flight.  Plane itself was a little dated.  Enjoyed the wifi,10,Promoter,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_BV5jXOhdXBrksTv,8172622172.0,2026-07-18,SFO,PHX,1321,321,32C,Y,"Out of the 4 flights for the trip (ICT->PHX, PHX->SEA, SFO->PHX, PHX->ICT) 2 were delayed for maintenance (PHX->SEA and SFO->PHX) resulting in a tight connection. PHX to ICT also did not have functioning in flight wifi",5,Detractor,Wi-Fi Unavailable
+SV_4SJm25NwBp7FfRs,R_5wcyqJSBq3HRYae,320474083.0,2026-05-26,LGA,ORD,589,737,38M,Y,I like the free wifi,6,Detractor,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_5AGY7gs5KlGlote,1668422504.0,2026-04-12,SNA,DFW,3208,737,38M,Y,"Flights on time, great crews, usb & free WiFi",10,Promoter,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_35MaubAbYXu37fG,8162187670.0,2026-01-30,LGA,MCO,2786,737,38K,Y,Free wifi,8,Passive,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_1UCAAArqKin0LFT,8137656032.0,2026-02-11,DSM,MIA,3538,EMJ,E7M,Y,times where fine. There wasn't WiFi,7,Passive,Wi-Fi Unavailable
+SV_4SJm25NwBp7FfRs,R_6ty4dDQ25m5R6NX,8165364341.0,2026-06-28,DFW,HRL,3575,EMJ,E7M,Y,excellent service and free complemental wifi,10,Promoter,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_3R53hyxvKVp56Fv,470245061.0,2026-06-16,PHL,PUJ,2641,321,32C,Y,"Smooth flight, free wifi",10,Promoter,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_6GJtpyIwHoxcWfB,567606010.0,2026-08-10,PHX,BOI,4919,EMJ,O75,Y,Free wifi,10,Promoter,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_1X7eVbcbyUVEaS5,8059409082.0,2026-01-18,PHX,AUS,2163,319,A19,Y,WIFI,10,Promoter,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_7keX9s57OJQPsWd,121177099.0,2026-05-01,DFW,PSP,2562,321,A21,C,Better WiFi,9,Promoter,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_1q7Gt7EuONXEkoX,8087842999.0,2026-06-17,PHL,TYS,5951,ERJ,EMP,Y,No wifi,9,Promoter,Wi-Fi Unavailable
+SV_4SJm25NwBp7FfRs,R_5alTyt3YpqNt9zv,1755140703.0,2026-01-20,JFK,SFO,179,321,32T,C,Really happy with the free WiFi,7,Passive,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_3ixSEYfw29Fv3Xn,1844289753.0,2026-08-13,AVL,PHL,6120,ERJ,EMP,Y,Older plane with very uncomfortable seats and no WiFi,7,Passive,Wi-Fi Unavailable
+SV_4SJm25NwBp7FfRs,R_6LMbz6VCSrKIgWm,8054029245.0,2026-08-21,OKC,DFW,6203,CRJ,OO7,Y,"No delays, military preboarding and in-flight WIFI",9,Promoter,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_1nlNKzEx3iZxkPv,365878732.0,2026-05-18,MCO,PHL,2154,321,A21,Y,"Flight delayed, I was able to fly standby on next flight, comfortable seat, clean plane, good wifi",10,Promoter,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_5ShAzkwGoL0rGHT,8165591795.0,2026-02-24,DFW,SFO,1430,321,32C,Y,no screen and not able to sign up to wifi,0,Detractor,Wi-Fi Connectivity Issues
+SV_4SJm25NwBp7FfRs,R_ba3JHWJ5cRXDKal,8002665917.0,2026-07-12,DEL,JFK,293,787,789,Y,No free Wifi,5,Detractor,"No free wifi (was available, but expensive, need more free wifi)"
+SV_4SJm25NwBp7FfRs,R_bQ4gMNDdjyn5Bjr,5966.0,2026-07-27,DCA,LAX,1966,737,38M,Y,Smooth flight got in early no issues pleasant flight crew.  Enjoyed the free wifi,10,Promoter,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_5mKOPhZmIhTnjDn,555708559.0,2026-02-09,BNA,DFW,2353,737,38R,Y,"Boarding, service and wifi",10,Promoter,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_7RkJvh3zPqovtmW,591383847.0,2026-01-12,AUA,MIA,1028,321,32C,Y,Get wifi,9,Promoter,Wi-Fi Unavailable
+SV_4SJm25NwBp7FfRs,R_6i51WTBrtgfRNZ9,94658640.0,2026-08-09,LAX,BOS,12,321,32T,Y,Our TV screens didn't work and my children weren't happy. I had to pay $30 for WiFi,2,Detractor,"No free wifi (was available, but expensive, need more free wifi)"
+SV_4SJm25NwBp7FfRs,R_3q4r3N0vW82eJaK,1432908138.0,2026-07-02,LGA,CHS,4614,EMJ,E7R,Y,no wifi,1,Detractor,Wi-Fi Unavailable
+SV_4SJm25NwBp7FfRs,R_5N4UiMrnIcuhxjc,1641003123.0,2026-04-29,GGT,MIA,4104,EMJ,E7M,Y,Have my partner extra cookies.Wifi,8,Passive,Wi-Fi Unavailable
+SV_4SJm25NwBp7FfRs,R_wY3CGuWivmhIV8d,351828071.0,2026-07-27,PHL,SAN,1621,321,32E,Y,The WiFi is horrible. I was connected the whole flight and I couldn't do anything - especially work! Please fix this or allowPeople to pay for better quality WiFi,6,Detractor,Wi-Fi Connectivity Issues
+SV_4SJm25NwBp7FfRs,R_57oyObTZ7StqlYR,8124108.0,2026-06-16,ORD,DFW,1902,321,A21,C,SLO wifi,8,Passive,Wi-Fi Connectivity Issues
+SV_4SJm25NwBp7FfRs,R_3YLYlPSlCwNOmY9,429516772.0,2026-01-01,MIA,JFK,2105,737,38K,Y,1 hour delay and very poor wifi,0,Detractor,Wi-Fi Connectivity Issues
+SV_4SJm25NwBp7FfRs,R_2Qm3OAbUIGgEiXS,8176835692.0,2026-07-21,SFO,ORD,2543,321,A21,Y,Easy flight friendly staff comfortable seats left on time free wifi,10,Promoter,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_1LOGex8QrKHQ5eM,212947953.0,2026-03-04,LHR,JFK,141,777,772,C,Provide free wifi,8,Passive,"No free wifi (was available, but expensive, need more free wifi)"
+SV_4SJm25NwBp7FfRs,R_17yeWdBkpkc4Zc0,368406077.0,2026-05-17,PHL,PHX,765,321,32N,Y,I like the new free wifi,10,Promoter,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_7VcZBcJbnDmrzpf,371212220.0,2026-03-26,PHL,CAE,5860,ERJ,EMP,Y,Wi-Fi,7,Passive,Wi-Fi Unavailable
+SV_4SJm25NwBp7FfRs,R_1Fh1GC4pFsqESuF,589986470.0,2026-07-23,DFW,PIT,2311,737,38K,Y,free wifi,9,Promoter,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_1OvPCHILtt9nH1j,606223747.0,2026-01-13,PHX,FAT,2396,737,38K,C,Updated seating and carpet as well as inflight wifi,9,Promoter,Wi-Fi Unavailable
+SV_4SJm25NwBp7FfRs,R_5q89DJOYmM4WkPO,8084541467.0,2026-03-31,HND,JFK,168,787,789,Y,It's 2026 - please upgrade your onboard wifi,5,Detractor,Wi-Fi Connectivity Issues
+SV_4SJm25NwBp7FfRs,R_80GDQ6NGiNcjZ6e,495928050.0,2026-04-29,PHL,VCE,714,787,789,W,We were on time which is a plus but the USB port at my seat was not working so I was unable to use my phone for the whole flight to watch movies and I was unable to access the WIFI,6,Detractor,Wi-Fi Unavailable
+SV_4SJm25NwBp7FfRs,R_7MEUdL9YsqFK1yf,8164367899.0,2026-04-08,MSP,CLT,2388,320,A05,Y,Make it easier to access wifi,10,Promoter,Wi-Fi Connectivity Issues
+SV_4SJm25NwBp7FfRs,R_3oI3kL6nj634BKh,5067913.0,2026-07-09,SGU,DFW,4818,CRJ,OO7,Y,On time. Nice staff at desk and on board. Aadvantage member so I got free wifi,10,Promoter,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_779huqOSaVNS5NH,125497973.0,2026-04-06,CLT,EWR,1330,321,A21,Y,"Overall flight was great; however, I had trouble staying connected to the wifi",8,Passive,Wi-Fi Connectivity Issues
+SV_4SJm25NwBp7FfRs,R_1Cddru1MFDcOD1k,8133728683.0,2026-01-29,GUA,MIA,1258,737,38M,Y,love the free wifi,10,Promoter,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_5QMajGXj2BUy555,66523282.0,2026-01-14,LGA,XNA,4554,EMJ,E75,Y,provide wifi,1,Detractor,Wi-Fi Unavailable
+SV_4SJm25NwBp7FfRs,R_72nyLTjHDm5Qf4J,47952151.0,2026-08-09,PHL,LAX,1451,321,32C,Y,convenient flights and good free wifi,8,Passive,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_5YSdqtt2ojJ3YQ9,9921671.0,2026-03-04,LAX,BOS,12,321,32T,Y,"On time, nice snack, wifi",10,Promoter,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_3KkogFwdXuTEpHj,502754696.0,2026-05-15,LGA,CLT,2051,321,A21,Y,Courteous flight attendants; could not log onto wifi,9,Promoter,Wi-Fi Connectivity Issues
+SV_4SJm25NwBp7FfRs,R_6dmEVGoSi2FN7h8,8162860348.0,2026-04-07,CLT,GSP,5124,CRJ,CP9,C,Have working outlets.  Available wifi,0,Detractor,Wi-Fi Unavailable
+SV_4SJm25NwBp7FfRs,R_37Ejcx49C9Qz4ba,1730465196.0,2026-01-03,MSP,CLT,2052,320,A05,Y,Flight was delayed and did not have T-Mobile wifi,5,Detractor,Wi-Fi Unavailable
+SV_4SJm25NwBp7FfRs,R_aXLfArgkjn3pIaJ,2737046.0,2026-07-23,PWM,PHL,2354,319,A19,Y,Late.  Will never fly to west palm again since name change and intrusive questions to get in wifi,2,Detractor,Wi-Fi Connectivity Issues
+SV_4SJm25NwBp7FfRs,R_5hSZUhbA5WMjMZA,42142455.0,2026-02-07,SAT,DFW,2877,321,32C,Y,Better snacks & wifi,6,Detractor,Wi-Fi Unavailable
+SV_4SJm25NwBp7FfRs,R_2J4aUQf6kB77tex,8074341180.0,2026-02-19,RTB,MIA,330,737,38K,Y,Well: On timeTo improve: on-board free wifi,9,Promoter,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_5yCAT0Y5mbX665z,3143591.0,2026-05-20,LHR,BOS,109,777,772,C,Have better access to WiFi,7,Passive,"No free wifi (was available, but expensive, need more free wifi)"
+SV_4SJm25NwBp7FfRs,R_3foP5MkVZ58yRt7,1215370124.0,2026-07-28,JFK,EZE,953,777,77W,W,"NO HABIA WIFI , SOLO DE PAGO , CON LO QUE HE PAGADO EL PASAJE DEBERIA ESTAR INCLUIDO , BUSSINES EN LA IDA Y PREMIUM ECONOMY A LA VUELTA , DEBERIA INCLUIR WIFI",8,Passive,"No free wifi (was available, but expensive, need more free wifi)"
+SV_4SJm25NwBp7FfRs,R_4hi73ybTadpknIZ,8082235741.0,2026-04-11,LAX,JFK,10,777,772,Y,Need free Wifi,7,Passive,"No free wifi (was available, but expensive, need more free wifi)"
+SV_4SJm25NwBp7FfRs,R_6YPvCWJ7NL2JPTa,8032829617.0,2026-06-08,SAN,DFW,2458,321,A21,Y,No AC or WiFi,0,Detractor,Wi-Fi Unavailable
+SV_4SJm25NwBp7FfRs,R_1eIb8xmQVQ0D2gx,8002308487.0,2026-06-27,MEM,CLT,5316,CRJ,CP9,Y,Good except no wifi,10,Promoter,Wi-Fi Unavailable
+SV_4SJm25NwBp7FfRs,R_1GrgBqRNKedU7hd,612138085.0,2026-08-15,ORD,MCO,3293,737,38R,Y,"Flight was on time, had free wifi",10,Promoter,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_7mk4TDOQDaT8yqd,546213286.0,2026-06-04,ORD,EWR,3253,737,38K,Y,1) Inflight Service 2) Customer first approach 3) Inflight Wifi,9,Promoter,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_5nN7aEXqqItrAfi,8096458786.0,2026-01-30,LAX,CLT,1590,321,32E,Y,It was just turbulence not your fault. But next time fix the wifi,8,Passive,Wi-Fi Unavailable
+SV_4SJm25NwBp7FfRs,R_3D2uSf7xEPcCVni,3371297.0,2026-07-19,SFO,DFW,2387,321,32C,Y,Trip went seemless and i really enjoyed the free wifi,9,Promoter,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_5jOmoj8hmgeynMO,8093148484.0,2026-06-26,DCA,BDL,4754,EMJ,E75,Y,No WiFi,3,Detractor,Wi-Fi Unavailable
+SV_4SJm25NwBp7FfRs,R_1qOqnZ8s7uyEs8W,8122829114.0,2026-01-18,MKE,CLT,1479,320,320,Y,"Poor customer service in managing the rebooking of my delayed flight.  Then unfortunate standby prioritization.  Then additional delay which I understand American had no control over, but only had biscuit and water to offer for the 2 hours we were grounded on the plane, and I couldn't get connected to Wifi",0,Detractor,Wi-Fi Connectivity Issues
+SV_4SJm25NwBp7FfRs,R_6hu1hIHaHxbUSHI,393815118.0,2026-03-29,OGG,LAX,254,321,32E,Y,"seat quality and food options.  internet was slow compared to United, for example, which has Starlink for WiFi",7,Passive,Wi-Fi Connectivity Issues
+SV_4SJm25NwBp7FfRs,R_7INsFlQRIgB4OWd,478366767.0,2026-06-27,TUS,ORD,2867,737,38K,Y,"dirty planes, disfunctional wifi",0,Detractor,Wi-Fi Unavailable
+SV_4SJm25NwBp7FfRs,R_368u9aV34TbFiyD,4765654.0,2026-06-26,LAS,DFW,3286,321,A21,Y,AA usually very reliable. Even though we departed a bit late we were close enough to time that most probably made their connections. I really appreciate the easy connection to wifi,9,Promoter,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_3IptHYeXY4zIztL,8156016018.0,2026-03-14,AUA,DFW,1143,321,32E,Y,On time and good service. Had trouble with the wifi,9,Promoter,Wi-Fi Connectivity Issues
+SV_4SJm25NwBp7FfRs,R_1hVWj4tTC6pvaRv,594912750.0,2026-07-09,DFW,LAS,777,321,A21,Y,Flight delayed and no wifi,5,Detractor,Wi-Fi Unavailable
+SV_4SJm25NwBp7FfRs,R_6EsHfRUtZuQvTM8,216511272.0,2026-01-05,CLT,MIA,3091,737,38R,Y,Provider free wifi,9,Promoter,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_50tKGGSv3AsGUsh,111454782.0,2026-08-15,MFE,DFW,1095,319,A19,C,"On time, onboard WiFi",10,Promoter,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_7c7pEdxPuJn8jts,8143232472.0,2026-04-25,XNA,DFW,2400,320,320,Y,The customer service was amazing and wifi,10,Promoter,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_5IRcE4FCK4wk0sZ,455686777.0,2026-05-21,HOU,DFW,6413,CRJ,OO7,Y,The air didn't work and neither did the wifi,5,Detractor,Wi-Fi Unavailable
+SV_4SJm25NwBp7FfRs,R_2ZEyviFBieKUokA,242035786.0,2026-07-07,SRQ,MIA,4139,EMJ,E7M,Y,Dirty plane and spotty wifi,6,Detractor,Wi-Fi Connectivity Issues
+SV_4SJm25NwBp7FfRs,R_5EsbLIrsksPFLX7,1754478450.0,2026-06-02,FSD,PHX,4991,CRJ,CR9,Y,"Free snack, drink and wifi",10,Promoter,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_7bZP5DVWW42b9TD,4669952.0,2026-06-04,SGU,DFW,4818,CRJ,CR9,Y,No Wifi,5,Detractor,Wi-Fi Unavailable
+SV_4SJm25NwBp7FfRs,R_1FgnFOFy9MyRiiR,8941503.0,2026-05-11,LHR,DFW,21,787,78P,Y,No wifi,10,Promoter,Wi-Fi Unavailable
+SV_4SJm25NwBp7FfRs,R_3jZhFcYEiLLVuDT,358974145.0,2026-02-01,DFW,BOS,1206,321,A21,C,"On time flight, pilots are informed and smooth flight, flight attendants provided great service, and love to enjoy free wifi",10,Promoter,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_3nVhDsrLigEN07i,8105240265.0,2026-07-17,AUS,LAX,1291,737,38K,Y,"It was nice, comfortable, charging ports and free wifi",10,Promoter,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_0wvBjO4kpkhOPqV,8186733846.0,2026-07-23,EWR,DFW,2728,737,38K,Y,cannt conection free WIFI,7,Passive,Wi-Fi Connectivity Issues
+SV_4SJm25NwBp7FfRs,R_5yr5s5HiF6lyBQm,29931694.0,2026-08-16,AMS,PHL,203,787,788,C,Really disappointed in the lack of functioning wifi,4,Detractor,Wi-Fi Unavailable
+SV_4SJm25NwBp7FfRs,R_633HqXdY6CYgz05,70067862.0,2026-05-30,MAF,DFW,6355,CRJ,OO7,Y,"On time, excellent service , complimentary wifi",10,Promoter,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_31A4UFRSShu7ykm,370670090.0,2026-02-27,PHX,DFW,1957,321,32C,Y,Smooth travel but had issues for a portion of the fight with connecting to the new free WiFi,9,Promoter,Wi-Fi Connectivity Issues
+SV_4SJm25NwBp7FfRs,R_1a8eoe7DTgmquCL,8032419.0,2026-08-06,ORD,PWM,4741,EMJ,R75,Y,Plane was small and there was no wifi,9,Promoter,Wi-Fi Unavailable
+SV_4SJm25NwBp7FfRs,R_8w0Job5pyhpdNvj,366826976.0,2026-07-01,JFK,LHR,100,787,78P,Y,Terrible WiFi,7,Passive,Wi-Fi Connectivity Issues
+SV_4SJm25NwBp7FfRs,R_7IcWJfj5Ef9Mguk,60052555.0,2026-08-02,AMS,DFW,221,777,772,Y,Terribe experience with luggage and WiFi,1,Detractor,Wi-Fi Unavailable
+SV_4SJm25NwBp7FfRs,R_3SG6KBrPq7UE00N,376408977.0,2026-01-04,SAT,PHX,3134,321,32E,Y,Allow T-Mobile customers to continue utilizing the free option. I don't want to have do utilize my AA points for wifi,7,Passive,"No free wifi (was available, but expensive, need more free wifi)"
+SV_4SJm25NwBp7FfRs,R_3HS13irL92G6wAN,550892769.0,2026-07-24,RDU,DFW,2371,737,38R,Y,Poweroutlet didn't work spotty wifi,4,Detractor,Wi-Fi Connectivity Issues
+SV_4SJm25NwBp7FfRs,R_4pqcY405fQ1KvzX,536505135.0,2026-03-28,CLT,SAV,5185,CRJ,CP9,C,Internet,9,Promoter,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_5QofAzDs2DMyTxD,365283562.0,2026-03-14,COS,DFW,4202,EMJ,E7M,Y,on time and free AT&T WiFi,10,Promoter,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_31Y4mPUOpqUsDc7,8092363880.0,2026-02-15,MIA,DFW,2955,777,77W,Y,free wifi,8,Passive,"No free wifi (was available, but expensive, need more free wifi)"
+SV_4SJm25NwBp7FfRs,R_6qwLIgRBvk0Vv1i,1408131273.0,2026-01-04,MIA,TPA,3232,737,38R,Y,Free wifi,7,Passive,"No free wifi (was available, but expensive, need more free wifi)"
+SV_4SJm25NwBp7FfRs,R_1V9LcFaselMVYB0,62805418.0,2026-04-25,EZE,MIA,908,777,772,C,Cannot connect to WIFI,7,Passive,Wi-Fi Connectivity Issues
+SV_4SJm25NwBp7FfRs,R_3rj7aSEusiOQNVb,370040157.0,2026-04-24,DCA,CLT,1518,320,A05,Y,Quick boarding  - and free Wifi,10,Promoter,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_3dKRO3ivufRJXvr,8159387726.0,2026-02-06,PHX,DSM,3120,320,A05,Y,Very professional crew.  The flight was on time and good communications during the flight.  The flight attendant was very helpful getting me on the wifi,10,Promoter,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_5fIfTUfJd0HNPhw,8073475641.0,2026-08-18,LGA,BNA,4380,EMJ,R75,Y,Was unable to connect to in-flight wifi,9,Promoter,Wi-Fi Connectivity Issues
+SV_4SJm25NwBp7FfRs,R_7e3raBRLltKTHMI,1718046065.0,2026-06-18,MIA,POS,2606,737,38M,Y,Excellent Wifi,9,Promoter,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_3qCLi4mDYo8gosV,131406131.0,2026-03-12,CVG,DFW,3305,737,38M,Y,Love the free WiFi,10,Promoter,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_1djgKKrDwpUHtgp,8185429252.0,2026-07-19,MIA,DCA,3138,737,38K,Y,No problems.  Free wifi,10,Promoter,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_3IRDfSvoEU5c6Dn,367801687.0,2026-04-21,MCO,DCA,2336,737,38M,Y,Give free wifi,8,Passive,"No free wifi (was available, but expensive, need more free wifi)"
+SV_4SJm25NwBp7FfRs,R_50E0V1jB4R0YZnb,120704745.0,2026-03-01,JFK,PHX,636,737,38M,Y,Like the free wifi,10,Promoter,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_6JRSV4L0XWaMrNw,8155586375.0,2026-02-13,SJD,DFW,3254,737,38R,Y,"Staff friendly.Very nice to have complimentary beverages, snacks and wifi",10,Promoter,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_7qE6hDNhD58831i,1686631546.0,2026-02-08,LGA,CHS,4400,EMJ,E75,C,Add wifi,6,Detractor,Wi-Fi Unavailable
+SV_4SJm25NwBp7FfRs,R_629WBdFwh2b72bX,317797733.0,2026-06-10,SEA,PHX,3440,EMJ,E7M,Y,"You had limited/no ice for drinks, flight attendent did not listen to my beverage order, no wifi",3,Detractor,Wi-Fi Unavailable
+SV_4SJm25NwBp7FfRs,R_4je7jahv8r6Jp02,368473110.0,2026-02-25,PHL,LAX,824,321,32E,Y,Appreciate the free inflight wifi,7,Passive,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_6KvawRtgehdmPpj,8048881909.0,2026-06-15,PGV,CLT,6006,ERJ,EMP,Y,Delays and problems with wifi,0,Detractor,Wi-Fi Connectivity Issues
+SV_4SJm25NwBp7FfRs,R_5YhoL4zLublEGIa,460146306.0,2026-02-10,PIT,CLT,2718,321,A21,Y,Excellent in-flight service and wifi,10,Promoter,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_2y1miGSudkpDMKH,177510604.0,2026-07-16,TYS,CLT,5831,ERJ,EMP,Y,No wifi,6,Detractor,Wi-Fi Unavailable
+SV_4SJm25NwBp7FfRs,R_3wtzkrLxIeBpSdn,4196878.0,2026-05-13,ORD,PVD,3800,EMJ,E7Q,C,WiFi was not working on the flight out - I had hoped to get some work done on the plane that required wifi,7,Passive,Wi-Fi Unavailable
+SV_4SJm25NwBp7FfRs,R_3U3nMtP0QrUexyx,10080310.0,2026-01-10,PBI,LGA,3317,737,38K,Y,Internet,5,Detractor,Wi-Fi Unavailable
+SV_4SJm25NwBp7FfRs,R_7fZS7ct8FSJPGvs,1763338268.0,2026-04-24,SAN,CLT,582,321,A21,Y,On time; no issues with luggage; friendly staffNeed stronger WiFi,10,Promoter,Wi-Fi Connectivity Issues
+SV_4SJm25NwBp7FfRs,R_3xxWtwe9Qi2X2bT,3595076.0,2026-01-18,MIA,CLT,1096,321,32E,Y,would like to know ahead of time if there is free wifi,9,Promoter,"No free wifi (was available, but expensive, need more free wifi)"
+SV_4SJm25NwBp7FfRs,R_5ZSPGwJp4nrOSJj,406403210.0,2026-06-16,SFO,PHL,2941,321,32E,Y,"Clean plane, ontime arrival, spotty wifi",7,Passive,Wi-Fi Connectivity Issues
+SV_4SJm25NwBp7FfRs,R_5mejUg7FF0gUqkJ,193041831.0,2026-03-11,TLH,MIA,3966,EMJ,E7M,Y,wifi,10,Promoter,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_67drtiLpmJ6e8mt,8066867080.0,2026-02-09,PHX,RNO,2670,737,38K,Y,Everything was smooth and quick. I LOVED the free in flight wifi,10,Promoter,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_5fOLPZ4peRQlPMJ,108617285.0,2026-03-31,TUS,DFW,607,321,A21,Y,Snacks that a diabetic could eatWorking WiFi,8,Passive,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_12aIQqJav7D1JDs,8145530868.0,2026-08-03,PVU,DFW,4917,CRJ,OO7,Y,Return flight was delayed 2 hours and had inop wifi,1,Detractor,Wi-Fi Connectivity Issues
+SV_4SJm25NwBp7FfRs,R_5NJ5twwdL2TI7gf,8027193025.0,2026-05-14,SFO,PHL,1349,321,32E,Y,Wider aisles and working wifi,8,Passive,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_1l6IEUyodmnCld2,8185834843.0,2026-08-11,JAX,DFW,1171,737,38R,Y,Easy fight and very kind flight attendants. Love the free wifi,10,Promoter,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_6aPRwvrI7K3uy3c,1764691958.0,2026-02-01,MCO,LGA,3148,737,38K,Y,"Given the weather, everything was pretty good. We had an hr flight delay but that wasn't much. The flight attendants were talking in the back alot so no snack or beverage service. Love the free wifi",10,Promoter,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_3pfLXt3omHRPXWd,192582658.0,2026-07-31,LGA,ORD,3100,737,38K,Y,No WiFi,0,Detractor,Wi-Fi Unavailable
+SV_4SJm25NwBp7FfRs,R_7p5nK7LG5auv52p,208771393.0,2026-04-22,SFO,MIA,2802,737,38M,Y,"Everything was perfect, loved having wifi",10,Promoter,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_6Li8T6YFWWHvcVr,8169884958.0,2026-08-07,LIM,MIA,988,321,32E,Y,"To be honest I slept all the flight, it was really good though. Also I had free wifi",10,Promoter,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_30Y9YBs4aXkYQCQ,9608157.0,2026-03-13,MIA,YYZ,1246,319,19W,Y,"Better in-flight service, consistent WiFi",5,Detractor,Wi-Fi Connectivity Issues
+SV_4SJm25NwBp7FfRs,R_1r2I0jQvfpneeet,118716.0,2026-06-07,SBA,DFW,2510,737,38M,Y,I love the free WIFI,10,Promoter,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_5CdTh0cAa9phMWJ,1456298098.0,2026-01-21,DSM,PHX,941,319,A19,Y,"You got me here on time, limited wifi",8,Passive,Wi-Fi Unavailable
+SV_4SJm25NwBp7FfRs,R_7zRRaI6LVnFpQi5,8169203119.0,2026-05-06,PSP,PHX,2570,320,A05,Y,"All very good, except no wifi",10,Promoter,Wi-Fi Unavailable
+SV_4SJm25NwBp7FfRs,R_52Ude4vO889EP61,1396215297.0,2026-04-07,PHL,DFW,2533,321,A21,Y,Service was excellent as well as the wifi,10,Promoter,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_3hF2Ifrs7XVfKXn,8165005390.0,2026-05-13,DFW,ANC,1787,321,32E,C,Unrelaible Wifi,0,Detractor,Wi-Fi Connectivity Issues
+SV_4SJm25NwBp7FfRs,R_72CaSYaIMJuWGHf,1104585411.0,2026-05-01,OKC,DFW,2438,737,38K,Y,Liked the free entertainment and wifi,10,Promoter,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_1VlQ8GaEarFvoN8,9793410.0,2026-06-24,EDI,PHL,279,787,789,C,Comfortable. On time. No free wifi,9,Promoter,"No free wifi (was available, but expensive, need more free wifi)"
+SV_4SJm25NwBp7FfRs,R_7tFiIeKrDFD1smh,84376965.0,2026-05-13,DFW,ANC,1787,321,32E,Y,Wifi,0,Detractor,Wi-Fi Unavailable
+SV_4SJm25NwBp7FfRs,R_NXRe719DSC0pNm1,452214504.0,2026-08-01,MIA,LHR,38,777,77W,W,The only bad thing was there was no wifi,10,Promoter,Wi-Fi Unavailable
+SV_4SJm25NwBp7FfRs,R_1OZg3HzphmhZmDc,8016009761.0,2026-06-24,YVR,DFW,1099,321,A21,Y,on time- friendly service- free wifi,10,Promoter,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_5tJXV6sqxn9GWoK,8121926450.0,2026-02-10,ORD,LGA,4469,EMJ,E75,Y,Unexpected no wifi,8,Passive,Wi-Fi Unavailable
+SV_4SJm25NwBp7FfRs,R_7wFfRrcYnDD6Kho,8065516321.0,2026-01-02,YYC,ORD,4161,EMJ,E7M,Y,Free wifi,6,Detractor,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_7VwQxDOMHfCxh0Y,1200310192.0,2026-02-23,PHX,RSW,1501,737,38M,Y,Couldn't connect to your wifi,8,Passive,Wi-Fi Connectivity Issues
+SV_4SJm25NwBp7FfRs,R_5Kxkfcp2bltViFP,8063843436.0,2026-01-16,DFW,AGU,3728,EMJ,E7M,Y,1 bathroom flight delays no wifi,0,Detractor,Wi-Fi Unavailable
+SV_4SJm25NwBp7FfRs,R_3KZVwJ3s12r5NEH,302159568.0,2026-07-15,MIA,DFW,2575,321,A21,Y,"Nice crew, flight on time, clean jet, working wifi",8,Passive,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_7mIfsV19jfNdpJj,10358814.0,2026-06-04,YYC,ORD,1633,737,38K,Y,"smooth boarding, good wifi",10,Promoter,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_5EzBKMBPDtLxlJ2,8176538274.0,2026-06-27,IAD,DFW,1906,737,38K,Y,Free WiFi,10,Promoter,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_6hm97YsAXLQ5kwU,1229906372.0,2026-03-19,MSN,ORD,4961,CRJ,OO7,Y,Better wifi,8,Passive,Wi-Fi Connectivity Issues
+SV_4SJm25NwBp7FfRs,R_7HcN63NBwyvMVKV,8063350648.0,2026-02-03,LGA,ORD,4679,EMJ,E75,Y,You could have potable water and working wifi,6,Detractor,Wi-Fi Unavailable
+SV_4SJm25NwBp7FfRs,R_1DdQT0G2ornzFsO,648484740.0,2026-06-09,AEX,DFW,3968,EMJ,E7M,Y,"AEX airport is easy to get in and out of. The flight itself is good, free movies through the onboard wifi",10,Promoter,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_7bZ43MoeBqJqXQv,8162557796.0,2026-04-08,EYW,MIA,3577,EMJ,E7M,Y,Even after the seat belt light goes off they wait 1/2 hour to 45 min before they serve any beverages. Wait is way too long. Do like the free WIFI,6,Detractor,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_3MhBtGyffnNLdkz,381971778.0,2026-03-30,PHL,DFW,3023,787,789,Y,Have working WiFi,7,Passive,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_2tbeYHQRqzQjDc0,8079178178.0,2026-07-22,SGU,PHX,4810,CRJ,OO7,Y,I was not able to get any wifi,6,Detractor,Wi-Fi Unavailable
+SV_4SJm25NwBp7FfRs,R_34vejHKZ5TYRpQa,1687367831.0,2026-04-25,SFO,JFK,234,321,32T,Y,"Boarded quickly, took off early, landed early, surprise breakfast, kind flight attendants, free wifi",10,Promoter,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_7QbYxUuth5eyRLi,8026548315.0,2026-03-21,CAE,DFW,3938,EMJ,E7M,Y,Everything went well except WIfi,9,Promoter,Wi-Fi Unavailable
+SV_4SJm25NwBp7FfRs,R_6TOrun7AWMmniFP,7053395.0,2026-04-27,JAX,DFW,1171,737,38R,Y,Great service and free wifi,10,Promoter,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_1JlAWAFdocBkG34,1416844064.0,2026-04-06,AMS,PHL,203,787,789,Y,free wifi,9,Promoter,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_7aZAOwyVMYSBKnf,8159542877.0,2026-01-22,PHL,CVG,5089,CRJ,CP9,Y,"Hot plane, cramed seats, valet tag bags, no wifi",3,Detractor,Wi-Fi Unavailable
+SV_4SJm25NwBp7FfRs,R_57s7UmY20jfp0t6,369385109.0,2026-08-04,DCA,IND,4517,EMJ,E7R,C,No charger for laptop or phone and no wifi,5,Detractor,Wi-Fi Unavailable
+SV_4SJm25NwBp7FfRs,R_4Wxo1E1tr4uFb4l,8178847454.0,2026-06-20,LAX,SYD,73,777,77W,Y,"I like the hospitality, but I couldn't use free wifi during the long flight. I used free wifi with your partner Quantas BNE  LAX flight and even AA 28 had free wifi",7,Passive,Wi-Fi Unavailable
+SV_4SJm25NwBp7FfRs,R_5DpeqYayQ1dPCtu,136629915.0,2026-05-02,JFK,LAX,306,777,772,C,No wifi,6,Detractor,Wi-Fi Unavailable
+SV_4SJm25NwBp7FfRs,R_11pkvDeJGR3k3Yd,1726167589.0,2026-03-05,FLL,PHL,1292,737,38K,Y,enjoyed the free wifi,10,Promoter,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_5hFFwI0fkhg5jSI,367331444.0,2026-04-03,CLT,GNV,5998,ERJ,EMP,Y,No wifi,8,Passive,Wi-Fi Unavailable
+SV_4SJm25NwBp7FfRs,R_5psbkaq189FQwkR,1717471118.0,2026-04-21,PHL,LAS,2482,321,32E,Y,WiFi,10,Promoter,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_7InN0g7uD483uqC,1846203117.0,2026-04-16,PHX,IAH,6281,CRJ,CR9,C,"When I went to board the plane I scanned my boarding pass and I was told I was not on the flight, then the employee assisting my began to cuss and blame other employees in my presence while speaking to another American airlines employee.  I upgraded my seat to first class and was not informed at the time it was a bombardier airliner I was upgrading in.  Not worth the $250 upgrade on a Bombardier airline.  There was also confusion on seating and someone was told to move from my seat in order accommodate my seat, and caused conflicting with other passengers who were told to move to allow that person seating.  Very disorganized for an American Airlines flight, hoping my flight back home is better.  Also was told AFTER board there would be no in flight WiFi",1,Detractor,Wi-Fi Unavailable
+SV_4SJm25NwBp7FfRs,R_1eVIj3zD5NDI1Ux,557101237.0,2026-02-11,PXM,DFW,4131,EMJ,E7M,Y,"Good service, but I usually fly basic economy and basic economy is essentially the same across most major carriers.  Tight seating conditions, food less etc.  About the only differentiator is availability of free WiFi",8,Passive,"No free wifi (was available, but expensive, need more free wifi)"
+SV_4SJm25NwBp7FfRs,R_7qSSf3vxwfQEOSl,331706919.0,2026-02-25,STL,CLT,2477,737,38M,Y,I was happy with the free WiFi,8,Passive,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_3hEF8GQjVSH3U7P,4532128.0,2026-06-22,STL,ORD,4144,EMJ,E7M,Y,No wifi,5,Detractor,Wi-Fi Unavailable
+SV_4SJm25NwBp7FfRs,R_3dHfIrl6TxRmYLx,43926394.0,2026-07-01,XNA,PHL,2978,319,19W,C,WiFi,6,Detractor,Wi-Fi Unavailable
+SV_4SJm25NwBp7FfRs,R_52WqVZFLm6IiBqS,8160168654.0,2026-01-27,ORD,PHX,2319,737,38K,Y,Free wifi,10,Promoter,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_53dE1IuxbWGYLt0,8127819213.0,2026-01-08,DCA,CAE,4801,EMJ,E75,Y,No WIFI,8,Passive,Wi-Fi Unavailable
+SV_4SJm25NwBp7FfRs,R_7mKj33pNGDkU0EO,8166511198.0,2026-04-27,MHT,PHL,5803,ERJ,EMP,Y,"Crew was great, whish it was easier to access the free wifi",9,Promoter,Wi-Fi Connectivity Issues
+SV_4SJm25NwBp7FfRs,R_1DDdAAinAWXfSHP,9565370.0,2026-07-16,PDX,DFW,2286,321,A21,C,"Ordinary flight.  AVERAGE service.  Bland food.  Poor ""free"" WiFi",5,Detractor,Wi-Fi Connectivity Issues
+SV_4SJm25NwBp7FfRs,R_3MERNpb0O7o1Iw9,213840999.0,2026-04-05,IND,DFW,2710,737,38K,Y,Flight was smooth and arrived early.   Baggage claim was quick.  Fix WiFi     There was no wifi for entire flight.  The gate agent said the flight offered wifi,8,Passive,Wi-Fi Unavailable
+SV_4SJm25NwBp7FfRs,R_1hEAWq9Zl6eblLr,430653442.0,2026-07-14,CLT,SFO,2556,321,A21,Y,"3 hr delay, drinks were not served early, no wifi",2,Detractor,Wi-Fi Unavailable
+SV_4SJm25NwBp7FfRs,R_5I5TfcAsVkavDky,51933584.0,2026-03-28,MHT,DCA,5150,CRJ,CP9,C,All great except no WIFI,9,Promoter,Wi-Fi Unavailable
+SV_4SJm25NwBp7FfRs,R_5iFph1JwtOzyhpA,139070455.0,2026-02-05,PHX,DFW,1565,321,A21,Y,Enjoyed the free wifi,10,Promoter,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_1gMvowx6V4S6bLg,1763906952.0,2026-08-15,MEM,MIA,1340,737,38K,C,The flight was comfortable and the attendance were great. No screens on the back headrest to watch movies for such a long flight and I could watch them on my phone although I was on their wifi,7,Passive,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_6PmD8awThiLUYNx,2151332.0,2026-06-14,PHX,OKC,6276,CRJ,CR9,Y,No wifi,1,Detractor,Wi-Fi Unavailable
+SV_4SJm25NwBp7FfRs,R_6qBwORSiBIGwUDu,468481651.0,2026-06-17,FLL,DFW,277,321,32C,Y,No delays. Free WiFi,10,Promoter,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_CaHHZBIw4Skk8HD,144625328.0,2026-07-27,PHL,BUF,5925,ERJ,EMP,Y,"Everything was all right.  on time, cordial flight attendance. I still dont understand why these fights cannot provide WIFI",9,Promoter,Wi-Fi Unavailable
+SV_4SJm25NwBp7FfRs,R_7jUP1jTg12CDqKJ,8165089200.0,2026-06-05,DFW,PHX,1648,321,A21,Y,"No service,  no wifi",0,Detractor,Wi-Fi Unavailable
+SV_4SJm25NwBp7FfRs,R_6B3SYkd4GWMRiYC,1641852853.0,2026-03-12,RSW,DFW,2740,321,32E,Y,"Love the new A320 planes. More comfortable, and more room. Good flight, came in early, good staff. Also love free wifi",10,Promoter,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_6Yfy3jLnO4OFXlT,8152325755.0,2026-03-23,GJT,PHX,6279,CRJ,OO7,Y,No wifi,9,Promoter,Wi-Fi Unavailable
+SV_4SJm25NwBp7FfRs,R_7dsKNTvsyMQyzKC,8118942407.0,2026-03-11,MIA,EZE,983,777,77W,Y,Seats were narrower than other flights. Flight attendant didnt gave good service. The flight was 2 hours dellayed. Didnt have wifi,2,Detractor,Wi-Fi Unavailable
+SV_4SJm25NwBp7FfRs,R_5OzklbZpB2Mxtvz,188476919.0,2026-08-07,ABQ,LAX,4897,CRJ,OO7,Y,No WiFi,5,Detractor,Wi-Fi Unavailable
+SV_4SJm25NwBp7FfRs,R_12nXgtcGwxxToCh,8185174392.0,2026-07-15,DFW,LAX,500,321,32E,Y,"Long flight, no in flight entertainment monitor. Signing up for your Wifi asked way too many questions that if hacked, would be bad for the person flying, that's why I didn't finish the questions to use the Wifi",7,Passive,Wi-Fi Connectivity Issues
+SV_4SJm25NwBp7FfRs,R_3PjKcYkVwYz3dhw,365409576.0,2026-04-10,MEM,CLT,2346,737,38K,C,thank you for the wheelchair assistance and customer service.  everyone was very professional and I had a smooth experience. thank you kindly.  I enjoy the wifi,10,Promoter,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_5M0Z3gDlChxbjvR,5243917.0,2026-06-23,MXP,PHL,299,787,788,Y,Seat not very comfortable No wifi,8,Passive,Wi-Fi Unavailable
+SV_4SJm25NwBp7FfRs,R_8GkgluKewiliJ1v,8046515764.0,2026-07-26,LFT,DFW,4110,EMJ,E7M,Y,"retraso, falta de wifi",5,Detractor,Wi-Fi Unavailable
+SV_4SJm25NwBp7FfRs,R_72A3ijDe4rBu6mT,369209369.0,2026-01-11,MDT,CLT,3290,319,A19,Y,free wifi,8,Passive,"No free wifi (was available, but expensive, need more free wifi)"
+SV_4SJm25NwBp7FfRs,R_5F2NgDf6U6rMYPv,8115208817.0,2026-02-13,BOS,DFW,2146,737,38K,Y,no free wifi,1,Detractor,"No free wifi (was available, but expensive, need more free wifi)"
+SV_4SJm25NwBp7FfRs,R_1102Tzjfcui6ZY3,8164800459.0,2026-06-23,CUN,CLT,792,737,38K,C,The services were great except for wifi service. Southwest had free wifi,10,Promoter,Wi-Fi Unavailable
+SV_4SJm25NwBp7FfRs,R_5aWVcLDWzXIRaCK,8171896003.0,2026-06-22,SJU,MIA,2581,737,38K,Y,"Flight got delayed by 1hr, but great wifi",8,Passive,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_1ndgWYxOTY9SuNN,454468777.0,2026-06-10,SAV,DFW,5541,CRJ,CP9,Y,Mainly wifi,6,Detractor,Wi-Fi Unavailable
+SV_4SJm25NwBp7FfRs,R_1QPUK7OCK1PzRrb,183903879.0,2026-02-21,DCA,ORD,1944,319,A19,C,"Friendliness of the crew, clear announcements from the cockpit and wifi",10,Promoter,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_5eG09ueRsQucFWV,8148969552.0,2026-01-02,POS,MIA,2703,737,38K,Y,Please improve on the snack choices and the wifi,8,Passive,Wi-Fi Unavailable
+SV_4SJm25NwBp7FfRs,R_7jwA14zjiqxQeVm,8163048327.0,2026-02-06,RDU,DFW,802,321,A21,Y,Free wifi,8,Passive,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_10uqVhPhgJCMg3X,8021749013.0,2026-01-11,BNA,ORD,4757,EMJ,R75,Y,No free wifi,3,Detractor,"No free wifi (was available, but expensive, need more free wifi)"
+SV_4SJm25NwBp7FfRs,R_6Q2UNbWnIRmmaZj,8045799912.0,2026-03-10,CLT,SJU,2674,321,32C,Y,Aircraft looks like the cheapest one available no video screen LOUSY WIFI,5,Detractor,Wi-Fi Connectivity Issues
+SV_4SJm25NwBp7FfRs,R_5L5qM0zk0aer4Qe,477328522.0,2026-03-03,MIA,JFK,1717,787,788,Y,free wifi,3,Detractor,"No free wifi (was available, but expensive, need more free wifi)"
+SV_4SJm25NwBp7FfRs,R_31yM7yFjXm4DuQn,366082706.0,2026-06-05,CLT,LAX,352,321,32C,Y,On time.  free wifi,8,Passive,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_5aIFOUfSDR8SrgF,214822.0,2026-06-18,AUS,DFW,4923,CRJ,OO7,Y,No in cabin service.  I take this route on SWA and at least get water.We arrived early and then set waiting for our gate.NO WiFi,5,Detractor,Wi-Fi Unavailable
+SV_4SJm25NwBp7FfRs,R_2ZE6dGfKhgo7AXV,1304360238.0,2026-07-27,FCO,MIA,53,777,772,C,"We checked 3 bags and even though tagged as priority one bag was almost the last bag onto the conveyor belt... and as business class we should have been given a ""promo"" code to use the wifi for free  instead of having to pay $35, since we were told the plane had not yet been upgraded to free wifi",8,Passive,"No free wifi (was available, but expensive, need more free wifi)"
+SV_4SJm25NwBp7FfRs,R_PXSCQ6ZMyavDvxv,10573477.0,2026-07-23,DFW,PHL,3242,321,32C,Y,Delayed about an hour and then no wifi,5,Detractor,Wi-Fi Unavailable
+SV_4SJm25NwBp7FfRs,R_51FIUpt6HWF4WRT,490210075.0,2026-04-14,VPS,DFW,2501,321,A21,Y,"On time, clean, courteous, free WiFi",10,Promoter,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_1K9FidmK2stEFEX,382713884.0,2026-07-30,LAS,CLT,1454,321,A21,Y,Spacious seating and wifi,10,Promoter,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_1hlNowW5BsfFPbn,592679338.0,2026-02-15,BOS,PHL,2096,320,320,Y,It was disappointing that only one person in our party could use wifi,5,Detractor,"No free wifi (was available, but expensive, need more free wifi)"
+SV_4SJm25NwBp7FfRs,R_35SkA4WMzIZzSUq,10042405.0,2026-01-13,SFO,JFK,166,321,32T,C,Ontime flight;  good communication;  loved the free (and fast) WiFi,8,Passive,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_7PAnGYCYvsx8mIY,1454846583.0,2026-03-15,GDL,PHX,6490,EMJ,O75,Y,No wifi,4,Detractor,Wi-Fi Unavailable
+SV_4SJm25NwBp7FfRs,R_5gMaZVwLI979kFY,367141966.0,2026-02-18,MCO,DCA,817,737,38R,Y,Love the free WiFi,10,Promoter,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_35L48jVUbKfZ91o,8056386779.0,2026-04-08,PHX,PHL,428,321,A21,Y,Boarding was very organized.  Screen in seatback is a better option than wifi,8,Passive,Wi-Fi Unavailable
+SV_4SJm25NwBp7FfRs,R_3lylqp5blOGBLVx,8184370639.0,2026-07-09,MHT,CLT,5035,CRJ,CP9,Y,Just wish there was wifi,9,Promoter,Wi-Fi Unavailable
+SV_4SJm25NwBp7FfRs,R_5Okyz34X8YbWomQ,23646951.0,2026-06-10,DFW,RDU,542,321,A21,Y,"On time, customer service, wifi",10,Promoter,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_6lW8jsvPmlNywbc,1345270780.0,2026-06-21,CLT,IND,1950,320,320,Y,The free wifi,10,Promoter,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_5qqnXTvyWk4jnTn,1755172978.0,2026-03-14,DFW,ATL,2237,737,38K,Y,Love that there was free wifi,10,Promoter,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_3D03ojO5P1fSy3T,9678673.0,2026-08-11,LGA,DFW,2088,737,38K,Y,"Good people. Good planes. Charging ports at the seat, cell phone holder and free wifi",10,Promoter,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_1fPO55NWRTzVOi5,2581240.0,2026-05-13,DFW,SFO,446,321,A21,Y,on time and newer plane with solid wifi,10,Promoter,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_7QFwMPT5s9kLRII,1848938052.0,2026-02-15,MIA,NAS,2365,319,A19,Y,After finally arriving my gate (D46). The gate was changed to D12 after the flight was delayed with was  annoying because of the distance between the gates but the fight itself was good especially with the WiFi,8,Passive,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_7FE7BXQX7okXRtf,105415031.0,2026-05-18,OGG,DFW,116,777,772,W,I thought AA had enacted free WiFi. I am an advantage member with 2 credit cards and had to pay $35 each way for wifi,9,Promoter,"No free wifi (was available, but expensive, need more free wifi)"
+SV_4SJm25NwBp7FfRs,R_1om5JUwFNGmEFyh,566723297.0,2026-06-11,PHX,DFW,3284,321,32E,Y,No on board WiFi,7,Passive,Wi-Fi Unavailable
+SV_4SJm25NwBp7FfRs,R_6Y4mp38CiVWpvFX,370769649.0,2026-01-17,CUN,PHX,3132,321,32E,C,Had to pay twice (with miles) for Onboard WiFi,7,Passive,"No free wifi (was available, but expensive, need more free wifi)"
+SV_4SJm25NwBp7FfRs,R_7eiBcITzjvGibRv,56734304.0,2026-02-18,SAV,PHL,5299,CRJ,CP9,C,Earlier notification about flight delayNo WiFi,8,Passive,Wi-Fi Unavailable
+SV_4SJm25NwBp7FfRs,R_1doSwz8LDQ78KkD,176834492.0,2026-06-13,BCN,JFK,67,777,772,Y,No free Wifi,9,Promoter,"No free wifi (was available, but expensive, need more free wifi)"
+SV_4SJm25NwBp7FfRs,R_1Nv1VnrqFGLAtGx,366831508.0,2026-03-01,CHS,LGA,4494,EMJ,E75,C,Improve consistency of first class product and wifi,7,Passive,Wi-Fi Connectivity Issues
+SV_4SJm25NwBp7FfRs,R_1bTUYqc7y3r4Zgz,8172451457.0,2026-04-26,EWR,MIA,1196,321,32C,Y,Wifi,8,Passive,Wi-Fi Unavailable
+SV_4SJm25NwBp7FfRs,R_2EFXHh2xipBxaGL,33168900.0,2026-07-15,LAX,ORD,1050,321,32C,Y,Left & arrived on time. Seats were more comfortable than some.  Enjoyed the free Wifi,10,Promoter,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_3mldCgVrzb4wMho,1411331093.0,2026-07-03,SEA,MIA,654,737,38M,Y,"Confortable seats, free wifi",9,Promoter,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_6ds4G9uWj7OBbKb,8099615179.0,2026-03-01,LAX,CLT,2116,321,32E,Y,Free wifi,10,Promoter,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_7f1b7DOxdAjBzbB,633342011.0,2026-04-17,EVV,CLT,5992,ERJ,EMP,Y,Friendly staff and safe delivery of services. It would benefit some of the passengers if all flights had available WiFi,10,Promoter,Wi-Fi Unavailable
+SV_4SJm25NwBp7FfRs,R_3lDrAJf9fQ2oKq3,1747593452.0,2026-04-25,CHS,ORD,2014,737,38K,Y,The WIFI,8,Passive,Wi-Fi Unavailable
+SV_4SJm25NwBp7FfRs,R_1FgkYRpfFc3Sg9y,8073241464.0,2026-04-30,XPL,MIA,454,737,38M,Y,El wifi,10,Promoter,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_3p5saKaoVkPrsFr,8114331230.0,2026-08-01,PHL,RDU,2403,319,19W,Y,No wifi,5,Detractor,Wi-Fi Unavailable
+SV_4SJm25NwBp7FfRs,R_3Fepq8K6xH09qaB,3422997.0,2026-03-31,CUN,JFK,2850,737,38M,Y,no wifi,6,Detractor,Wi-Fi Unavailable
+SV_4SJm25NwBp7FfRs,R_3meIpzyqoIhpExb,1597797620.0,2026-04-23,HPN,ORD,3812,EMJ,E7Q,Y,wifi,10,Promoter,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_21gkMrifBcd31xJ,50982042.0,2026-07-29,CLE,PHL,5847,ERJ,EMP,Y,No wifi,4,Detractor,Wi-Fi Unavailable
+SV_4SJm25NwBp7FfRs,R_41hd9AhH230ZFdk,8028416095.0,2026-06-13,SAT,DFW,2377,319,319,Y,"On such a long flight WiFi should be included, when I fly United I get free WiFi",5,Detractor,"No free wifi (was available, but expensive, need more free wifi)"
+SV_4SJm25NwBp7FfRs,R_1NE6suGG9XI959O,606106782.0,2026-04-01,AUA,MIA,1028,321,32C,Y,Offer Wifi,10,Promoter,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_3tm84TIJrJopwCY,948959204.0,2026-03-23,CLT,DTW,1297,319,319,Y,"Curbside bag check, on time, onboard wifi",10,Promoter,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_71G32BF2yNZfsKh,8604576.0,2026-06-02,LGA,CLE,4387,EMJ,R75,Y,great wifi,10,Promoter,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_7zOWnBYNfSQsry9,8174976220.0,2026-05-18,DFW,BUF,1724,737,38M,Y,I was unable to connect to wifi,7,Passive,Wi-Fi Connectivity Issues
+SV_4SJm25NwBp7FfRs,R_Z9aJfyPuvnlvLeV,1752973228.0,2026-07-14,ILM,LGA,4429,EMJ,E75,Y,We switched seats little did we know we had no tray for drinks and when they asked what we wanted to drink they had no coffee and gave us warm water and there was no wifi,6,Detractor,Wi-Fi Unavailable
+SV_4SJm25NwBp7FfRs,R_1ETfsKN4Mb9fcvs,626769016.0,2026-02-08,GRR,DCA,5029,CRJ,CR7,Y,wifi,8,Passive,Wi-Fi Unavailable
+SV_4SJm25NwBp7FfRs,R_6eRh2k2FSY5nYjL,58652183.0,2026-08-21,CRP,DFW,3418,EMJ,E7M,C,No wifi,5,Detractor,Wi-Fi Unavailable
+SV_4SJm25NwBp7FfRs,R_5k1wHTxhJdRNZuZ,797348725.0,2026-06-16,SDQ,MIA,2367,321,A21,Y,Excellent service enjoy free wifi,10,Promoter,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_51v0AU1WzzTWaef,6722518.0,2026-01-23,MDT,CLT,2890,320,320,Y,I like the new free WiFi,10,Promoter,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_3PXZGt5JqfDClHh,381881702.0,2026-07-15,DCA,MYR,3750,EMJ,E7M,Y,Timely departure & arrival. Comfortable seats & wifi,10,Promoter,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_7pPTnDY29pAG0Fx,8160989945.0,2026-04-03,CAE,DFW,3938,EMJ,E7M,Y,Staff was great flight was smooth. Better wifi,8,Passive,Wi-Fi Connectivity Issues
+SV_4SJm25NwBp7FfRs,R_7shNSKZCG1wTsCF,230860027.0,2026-06-15,ORD,LAS,2020,737,38R,Y,No issues. The flight was on time.  I loved having free wifi,9,Promoter,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_2zpVKSAnAUAjJ5t,350190949.0,2026-07-08,PHX,LAX,2869,737,38K,Y,Second flight in a row with no wifi,5,Detractor,Wi-Fi Unavailable
+SV_4SJm25NwBp7FfRs,R_1siDbrZZ2Begw1j,8166897140.0,2026-04-10,BOS,DFW,1241,737,38K,Y,I couldn't get wifi,5,Detractor,Wi-Fi Connectivity Issues
+SV_4SJm25NwBp7FfRs,R_5tfWjNIlcqFiR2r,10759443.0,2026-01-15,RSW,ORD,392,737,38K,C,Free wifi,10,Promoter,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_1f8vJ4FLy86OI7e,107916888.0,2026-07-21,CDG,ORD,151,787,788,Y,"Excellent Service, mostly on time, Free WIFI",10,Promoter,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_7vRTyB6vpuTyc49,1822492340.0,2026-02-20,TPA,MIA,3192,737,38K,Y,Inflight free wifi,8,Passive,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_1Xf7arthw3Z41fr,8087953351.0,2026-02-21,IND,PHL,4643,EMJ,E75,Y,No wifi,5,Detractor,Wi-Fi Unavailable
+SV_4SJm25NwBp7FfRs,R_2VqGdF0RXAkeu2U,368000441.0,2026-07-12,ORD,LGA,327,737,38K,Y,Smooth flight. No issues or delays. Free Wifi,10,Promoter,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_6qqXbApEJon48IG,382827636.0,2026-04-01,PHX,DFW,2110,321,32C,Y,Like the free WiFi,9,Promoter,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_7FJEYi4gKjiFLk5,5551709.0,2026-05-12,VCE,PHL,715,787,789,W,"Initially WiFi was not working. After it was reset, there was a $35 charge to use it. So much for free Wifi",8,Passive,"No free wifi (was available, but expensive, need more free wifi)"
+SV_4SJm25NwBp7FfRs,R_30Sf2GMZC5IDf4U,265413832.0,2026-06-11,DFW,QRO,3151,737,38K,C,No preflight service/ no WIFI,7,Passive,Wi-Fi Unavailable
+SV_4SJm25NwBp7FfRs,R_7juDK06ouk0ROcn,21530301.0,2026-01-15,PGV,CLT,5923,ERJ,EMP,Y,Love Free WiFi,8,Passive,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_3elfi4I0lzAimWi,131781884.0,2026-07-29,SJU,MIA,3165,737,38K,Y,Great plane with Wifi,10,Promoter,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_3PB2LvqzR2J7Kr3,5002200335.0,2026-05-27,HNL,PHX,694,321,32E,Y,Nice crew.   Nice aircraft.. great wifi,9,Promoter,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_3IN06tsUTy9i7Pk,8035660553.0,2026-03-07,PUJ,CLT,3246,321,A21,Y,Both flights didn't take off on time.   Shotty wifi,7,Passive,Wi-Fi Connectivity Issues
+SV_4SJm25NwBp7FfRs,R_5KC45jftupWyoqo,83525579.0,2026-08-15,TPA,DFW,2516,737,38K,Y,"Uneventful, liked the free wifi",8,Passive,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_62FRQcZ6Upjou3f,1381447328.0,2026-01-31,SKB,JFK,2971,737,38K,Y,Could not log on to the WiFi,8,Passive,Wi-Fi Connectivity Issues
+SV_4SJm25NwBp7FfRs,R_3JlWGCX6lJJYWIf,1461481234.0,2026-07-05,ELP,ORD,3872,EMJ,E7M,Y,"the flights i went on never have wifi, for as much money i spend on the flight tickets they never have wifi",3,Detractor,Wi-Fi Unavailable
+SV_4SJm25NwBp7FfRs,R_3l9pfHYg9fwvfou,94861012.0,2026-03-20,DCA,JAX,5022,CRJ,CP9,Y,Ontime. No issues. Good wifi,10,Promoter,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_6ZSeOGiBmkP94gV,609837638.0,2026-02-19,AVL,ORD,3896,EMJ,E7M,C,Problem with AA Advantage logging into AT&T wifi,8,Passive,Wi-Fi Connectivity Issues
+SV_4SJm25NwBp7FfRs,R_6mQ8vVvs7I9QSmK,34564284.0,2026-03-23,ORD,ATL,3449,EMJ,E7M,Y,NO WIFI,6,Detractor,Wi-Fi Unavailable
+SV_4SJm25NwBp7FfRs,R_7TbS3GQUKRwML61,8067109784.0,2026-02-18,DFW,MTY,3406,EMJ,E7M,Y,Loved it but our plane had no wifi,8,Passive,Wi-Fi Unavailable
+SV_4SJm25NwBp7FfRs,R_1nNIXBV4fhW5TMv,8029709737.0,2026-07-15,PBI,ORD,2269,737,38R,Y,There was no wifi,5,Detractor,Wi-Fi Unavailable
+SV_4SJm25NwBp7FfRs,R_6YV7uuYwO7Tgm6R,8180105696.0,2026-06-22,IND,PHL,2847,319,A19,Y,First flight got delayed. Miss my conection . At 8h25Had to rebook a conection gor 10h40 . Who got delayed.Plane didnt get there until 13h30 . Arrived in philly at 15h30 instead of 10h40 am .Also ; first flight didnt have wifi,3,Detractor,Wi-Fi Unavailable
+SV_4SJm25NwBp7FfRs,R_32hW6w7ZzANQPy8,52793584.0,2026-08-07,YYZ,LGA,4347,EMJ,E75,C,Good all round service except Wifi,8,Passive,Wi-Fi Unavailable
+SV_4SJm25NwBp7FfRs,R_3m9mqt0aYLvQFaz,8166735324.0,2026-08-02,LGA,STL,4509,EMJ,E7R,Y,unable to use wifi,8,Passive,Wi-Fi Connectivity Issues
+SV_4SJm25NwBp7FfRs,R_3BliadzLdMjddqM,10286402.0,2026-04-04,SUN,ORD,6441,CRJ,OO7,C,Overall great...no wifi,9,Promoter,Wi-Fi Unavailable
+SV_4SJm25NwBp7FfRs,R_5JC8vtCNX020HaL,8001115.0,2026-02-04,CLT,SJO,321,737,38K,C,First class service and attendant were stellar. Beats others first class services. Simplify WiFi,10,Promoter,Wi-Fi Connectivity Issues
+SV_4SJm25NwBp7FfRs,R_6PzzbbvYUKXoht8,479588490.0,2026-07-29,DFW,PHL,2128,321,32C,Y,No wifi,6,Detractor,Wi-Fi Unavailable
+SV_4SJm25NwBp7FfRs,R_1psebN7b9nysXi9,1711912131.0,2026-07-06,BOS,PHX,2315,321,32E,Y,"I would usually rate American high, but both my flights were very old aircrafts that felt dirty, had no seat back entertainment, and no wifi",6,Detractor,Wi-Fi Unavailable
+SV_4SJm25NwBp7FfRs,R_6JOzymwru9S7wqx,5492698.0,2026-04-14,JAX,MIA,4082,EMJ,E7M,Y,On timeFriendly flight attendantsGood WiFi,9,Promoter,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_1FQjvPr6UwbrVLO,365949472.0,2026-01-18,DFW,ORF,2194,737,38K,Y,On time departure and arrival. Free wifi,10,Promoter,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_6V7KVgVhFKl67p2,346326.0,2026-02-05,EGE,ORD,1995,319,319,Y,Flight needed wifi,9,Promoter,Wi-Fi Unavailable
+SV_4SJm25NwBp7FfRs,R_1cAQ0Di5GdtMJvo,10945876.0,2026-01-18,MBJ,DFW,2558,737,38K,Y,Free ability to text via Wifi,9,Promoter,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_36x129XtyydJ2GR,52978870.0,2026-04-22,POS,MIA,2703,737,38K,Y,Flight left on time and free wifi,8,Passive,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_5f41QVxwxPwsok0,8178987037.0,2026-06-29,ORD,BOS,2968,737,38K,Y,"Negs: There are no inputs for regular headphones, and you need a device for entertainment.Pros: As an At&T customer, I got great wifi",8,Passive,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_5DaHrS8j7QJugnv,146424686.0,2026-01-05,DFW,PIA,4303,EMJ,E7M,C,The WIFI,5,Detractor,Wi-Fi Unavailable
+SV_4SJm25NwBp7FfRs,R_3GkdgK1fhH3LqBo,9841555.0,2026-02-06,EGE,LAX,4948,CRJ,OO7,C,No wifi,8,Passive,Wi-Fi Unavailable
+SV_4SJm25NwBp7FfRs,R_35YhJpuwCgNsEtj,726999.0,2026-08-02,MIA,KIN,1082,737,38R,Y,"no beverage service, laggy wifi",5,Detractor,Wi-Fi Connectivity Issues
+SV_4SJm25NwBp7FfRs,R_7nvKTmEsGDXfcIo,10488831.0,2026-02-21,LGA,MIA,806,737,38K,Y,Wi-Fi,8,Passive,Wi-Fi Unavailable
+SV_4SJm25NwBp7FfRs,R_3rP7B59kQNhh7rt,9177729.0,2026-02-10,MHT,DCA,5150,CRJ,CP9,Y,"Friendly service, on-time performance, comfortable seats, free Wifi",10,Promoter,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_3pyweLHT8vUtsa7,609844010.0,2026-05-26,CMH,ORD,4950,CRJ,OO7,C,"The food was delicious.  Flight attendant, Jill, was very accommodating and helped my husband at length to access wifi",10,Promoter,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_7M9ChOeTmbV8Ic9,8088291232.0,2026-04-05,PHL,MHT,5929,ERJ,EMP,Y,"Very polite, great ride, and great service, but once again the WIFI did not work... I fly a lot and it is a common theme to not have WIFI",8,Passive,Wi-Fi Unavailable
+SV_4SJm25NwBp7FfRs,R_3gHGkgOsdcjhT4o,718412970.0,2026-03-01,OAX,DFW,2187,320,A05,Y,"flights on time, good wifi",7,Passive,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_6m9wd0mZPtPcmHD,8153551426.0,2026-05-03,HND,LAX,26,787,789,Y,$35 fee for WiFi,4,Detractor,"No free wifi (was available, but expensive, need more free wifi)"
+SV_4SJm25NwBp7FfRs,R_5GqT5j77IFTWIBq,8169204002.0,2026-05-15,SFO,CLT,487,321,A21,Y,Good inflight services and WiFi,10,Promoter,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_5LjdFc8zTGp12pX,210068661.0,2026-06-20,LCH,DFW,4005,EMJ,E7M,Y,"Comfortable, on time, friendly staff, free ATT wifi",10,Promoter,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_24oWTmL1CSAMXmF,8183433809.0,2026-07-07,LGA,MEM,4461,EMJ,E75,Y,No wifi,3,Detractor,Wi-Fi Unavailable
+SV_4SJm25NwBp7FfRs,R_7t5reUTNV4goPIH,9695655.0,2026-04-30,ORD,OKC,4935,CRJ,OO7,C,Small plane with bad wifi,5,Detractor,Wi-Fi Connectivity Issues
+SV_4SJm25NwBp7FfRs,R_6PYQ3JCeET1RySw,306822722.0,2026-06-12,PHL,LAX,1035,321,32E,Y,You had me at free wifi,10,Promoter,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_7dTmwprlJV5e1gJ,5373104.0,2026-01-03,CDG,JFK,45,787,788,W,"Bring back the nonstop !!! It's really getting old to connect for CDG to ORDAlso using regional carriers for the JFK connection is a drag, limited bin space and no wifi",5,Detractor,Wi-Fi Unavailable
+SV_4SJm25NwBp7FfRs,R_3KDpgHeSrUvGrUR,416323779.0,2026-06-14,DCA,LAS,2051,737,38M,Y,No wifi,7,Passive,Wi-Fi Unavailable
+SV_4SJm25NwBp7FfRs,R_6CnDMwGmBwQfjpL,768478793.0,2026-06-25,DFW,LAX,2005,321,32E,Y,They did not have enough box meals to offer to everyone on the plane. We had a 6 a m flight with minimal time for a layover to grab something to hold us over and no food to offer us on the flight. Neither of our flights had working WIFI,3,Detractor,Wi-Fi Unavailable
+SV_4SJm25NwBp7FfRs,R_6YlnLJ7u6doiDpn,1747843259.0,2026-02-17,MIA,AUA,2217,321,32E,Y,"on time, organized , love and enjoyed the wifi",10,Promoter,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_6dWkLP7OGpK2ZfH,125211.0,2026-02-10,JFK,EGE,2379,319,319,C,"Plane did not have functional WIFI, which is completely unacceptable.  I am Diamond Medallion on Delta and have considered flying AA more but can not do so without dependable WIFI",3,Detractor,Wi-Fi Unavailable
+SV_4SJm25NwBp7FfRs,R_1KdPKXFDxZsxF0l,1751085688.0,2026-08-08,VPS,DFW,2501,321,A21,Y,"Overbooked, late, no WiFi",5,Detractor,Wi-Fi Unavailable
+SV_4SJm25NwBp7FfRs,R_1xK1V3LhyxDX48q,366303537.0,2026-01-07,RSW,PHL,3046,737,38K,Y,old dirty plane. no free wifi,5,Detractor,"No free wifi (was available, but expensive, need more free wifi)"
+SV_4SJm25NwBp7FfRs,R_5z5ydb2JCfEcT7n,8000269732.0,2026-01-04,MDT,CLT,3303,320,A05,Y,wish had free wifi,10,Promoter,"No free wifi (was available, but expensive, need more free wifi)"
+SV_4SJm25NwBp7FfRs,R_6kBw1cM9jtZYNNX,846231708.0,2026-06-01,FCO,ORD,111,787,789,Y,No WiFi on the flight out and back. Extremely disappointing since you advertise free WiFi,8,Passive,Wi-Fi Unavailable
+SV_4SJm25NwBp7FfRs,R_1SuAAvT1sazEN9C,355011769.0,2026-07-03,MSN,PHL,5509,CRJ,CP9,Y,2/4 flights had no WIFI,6,Detractor,Wi-Fi Unavailable
+SV_4SJm25NwBp7FfRs,R_7irswU077AKHGM1,8059548155.0,2026-06-15,DFW,SGF,3803,EMJ,E7M,Y,Free working wifi,10,Promoter,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_1I9Kk2vmmV9XT6P,8021760325.0,2026-01-24,TPA,MIA,3340,EMJ,E7M,Y,Make it easier to sign on the the WiFi,9,Promoter,Wi-Fi Connectivity Issues
+SV_4SJm25NwBp7FfRs,R_5I51DWcXq1VdpYi,1488361798.0,2026-08-05,EWR,CLT,1697,737,38K,Y,"very nice attention , and wifi",10,Promoter,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_7dnW9eYApQSU8uc,3683265.0,2026-06-03,SAF,DFW,6295,CRJ,OO7,Y,"It was pleasant and comfortable.  Plus,  I like the ease of the wifi",10,Promoter,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_1n9tuw7bGSyP7UP,8160113921.0,2026-06-13,SJD,ORD,2636,321,32C,Y,I waited 1.5 hours at Chicago Midway's baggage claim for my luggage.The flight was delayed by an hour and I missed my connecting flight.I wasn't able to access the in-flight wifi,0,Detractor,Wi-Fi Unavailable
+SV_4SJm25NwBp7FfRs,R_01lLc91nf1Zb6oh,1720561074.0,2026-07-10,RDU,PHL,1248,319,A19,Y,Good flight on time but no wifi,8,Passive,Wi-Fi Unavailable
+SV_4SJm25NwBp7FfRs,R_3aVaJxIl3BVaAlb,4766875.0,2026-06-10,LGA,AVL,4342,EMJ,E75,C,Flight arrived early. Seat did not recline in FC.No wifi,6,Detractor,Wi-Fi Unavailable
+SV_4SJm25NwBp7FfRs,R_7P5BlD9lyM0Wdjg,5038998541.0,2026-04-09,IAD,CLT,5267,CRJ,CP9,Y,THE ONLY THING I WOULD CHANGE IS WIFI,10,Promoter,Wi-Fi Unavailable
+SV_4SJm25NwBp7FfRs,R_6Kl5JMc5sZnOIsk,753883203.0,2026-06-07,CLT,ALB,1352,737,38K,Y,On time pleasant staff comfortable seat good wifi,10,Promoter,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_6eOwdpbBTMiO0ap,1765424397.0,2026-08-13,POS,MIA,2703,737,38M,Y,was not long and had wifi,9,Promoter,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_7MMz6jHeeDbmRLE,8644459.0,2026-01-15,LGA,CLT,1084,737,38R,Y,provide free Wifi,10,Promoter,"No free wifi (was available, but expensive, need more free wifi)"
+SV_4SJm25NwBp7FfRs,R_23WrQ1yNP571XLb,1434804442.0,2026-07-22,HPN,ORD,3751,EMJ,E7M,Y,"On the first flight. My tray table was broken, and there was no wifi",8,Passive,Wi-Fi Unavailable
+SV_4SJm25NwBp7FfRs,R_2dKKGGfSt1SXRM7,969096163.0,2026-05-24,PHX,JFK,636,737,38M,Y,Wifi,9,Promoter,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_3oumBj3fVBpTGPR,1362850527.0,2026-04-09,VRB,CLT,5650,CRJ,CP9,Y,On time and appreciate the free WiFi,10,Promoter,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_1jlFwXjFNILaRlU,19277033.0,2026-05-22,MIA,SJU,3165,737,38K,C,Everything Good except no wifi,8,Passive,Wi-Fi Unavailable
+SV_4SJm25NwBp7FfRs,R_1GlHKLBGlkYUISt,1483466450.0,2026-08-15,SAT,CLT,1804,320,A05,C,Enjoyed the upgrade and complimentary wifi,10,Promoter,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_3FJdorywhQ09lX9,1687893564.0,2026-01-11,ROC,BOS,6024,ERJ,EMP,Y,Wifi,6,Detractor,Wi-Fi Unavailable
+SV_4SJm25NwBp7FfRs,R_51XtyAp6GUYnGBy,489677525.0,2026-08-09,LAS,CLT,1545,321,32N,Y,No wifi,0,Detractor,Wi-Fi Unavailable
+SV_4SJm25NwBp7FfRs,R_3oSAM8tVvQXhl5A,918696724.0,2026-03-10,IAH,PHX,4904,CRJ,CR9,Y,Multiple delays. Forced to change seat. Seat i was given did not have a working air conditioning blower. No wifi,3,Detractor,Wi-Fi Unavailable
+SV_4SJm25NwBp7FfRs,R_316aCouVoIj1tlT,8035270701.0,2026-03-03,BWI,CLT,2316,737,38K,Y,On time with free wifi,10,Promoter,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_6DejrdSoUzB295i,315995822.0,2026-06-19,PHL,LAX,2031,321,32E,Y,Free WiFi,10,Promoter,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_7H1Cjf1W9VVwKdS,1665445.0,2026-04-02,SXM,MIA,2226,737,38M,C,Tv screen and better wifi,8,Passive,Wi-Fi Connectivity Issues
+SV_4SJm25NwBp7FfRs,R_7Gp06K8mrkhFMB6,3844533.0,2026-04-19,FRA,CLT,705,777,772,C,Don't advertise or promote free WIFI.Last six flight including international no WIFI,9,Promoter,Wi-Fi Unavailable
+SV_4SJm25NwBp7FfRs,R_7M0heBDnHjRNgM9,8162259095.0,2026-06-01,BWI,ORD,4717,EMJ,E75,Y,Wifi,8,Passive,Wi-Fi Unavailable
+SV_4SJm25NwBp7FfRs,R_6Ij86F0MAIN7ojj,365341499.0,2026-02-06,CLT,PVD,622,321,A21,C,Thank you for finally providing free wifi,10,Promoter,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_6DVbF9JvfaFIBQl,57210298.0,2026-04-24,BNA,ORD,4362,EMJ,E75,C,"Long delay again given maintenance issues. Crew was superb though, did a great job explaining to everyone what was happening and interacting with passengers. No WiFi again which is happening regularly. I think over half of my recent flights have had no WiFI",6,Detractor,Wi-Fi Unavailable
+SV_4SJm25NwBp7FfRs,R_13vG4yPZYACOo5H,468337819.0,2026-01-22,LGA,EYW,4662,EMJ,E75,C,"There was no WIFI I live in Key West and flew on United to EWR and they had a bigger plane better food on first class and WIFI. I came back on AA and what a dissapointment, the cold food in a box served in first was pretty bad, they ran out of the protein lunch and I got the last one. There were passengers not too happy about it and declined the lunch. There also was no WIFI",6,Detractor,Wi-Fi Unavailable
+SV_4SJm25NwBp7FfRs,R_7p3Tm7PvUUvfE6a,392239899.0,2026-01-19,SDQ,MIA,1154,737,38K,Y,continue with the free wifi,10,Promoter,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_1fkreKK7ionwPdo,1823780.0,2026-01-15,CUN,MIA,2577,737,38K,C,Wifi,10,Promoter,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_1t3EX8ccEaSO2kx,195684012.0,2026-04-22,TUS,ORD,3066,319,19W,Y,professional and personable staff; free WiFi,10,Promoter,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_6KMGhHalSd0KTMG,15917904.0,2026-06-11,BCN,JFK,67,777,772,C,Business class Seat broken and no wifi,7,Passive,Wi-Fi Unavailable
+SV_4SJm25NwBp7FfRs,R_3CrKos9wt1q9S7F,189512589.0,2026-08-11,MCI,CLT,1616,737,38R,Y,Pretty much on time.  Easy boarding. Free wifi,9,Promoter,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_5u5IRW6bf5al5ZL,1982143.0,2026-08-20,DCA,LAX,1966,737,38M,Y,On time and free wifi,10,Promoter,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_2Bbnz85i0XTJEhI,8069552073.0,2026-07-15,JFK,LAS,3038,737,38M,Y,great free wifi,10,Promoter,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_2900PGss3FBPymB,1723767129.0,2026-07-21,DFW,IND,1945,737,38K,Y,Not able to access wifi,9,Promoter,Wi-Fi Connectivity Issues
+SV_4SJm25NwBp7FfRs,R_56aCp2k8DMulVjH,10154500.0,2026-08-20,LHR,MIA,39,777,77W,C,Accommodations / plane was dated and no free WiFi,7,Passive,"No free wifi (was available, but expensive, need more free wifi)"
+SV_4SJm25NwBp7FfRs,R_54McvzSgVG0v8id,1586231934.0,2026-04-27,CUN,PHL,1971,321,32E,Y,"Nice smooth on time flight, plus I like the free wifi",10,Promoter,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_3nUaxNGKLqOnP1w,596973976.0,2026-06-12,BNA,PHX,2972,321,A21,Y,Very friendly and helpful enjoyed the free WiFi,10,Promoter,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_3LoMx3Eshs8ybmk,372755582.0,2026-06-27,STT,PHL,864,319,319,Y,Flight was delayed 3 hrs then did not have functioning wifi,1,Detractor,Wi-Fi Unavailable
+SV_4SJm25NwBp7FfRs,R_2bGWIkMTlSPQsBN,4505153.0,2026-04-01,STL,CLT,2475,319,A19,Y,Service was ok but unfortunately the entertainment system did not work for the entire Charlotte to Madrid flights for me and my wife (in fact for all the premium economy right size of the plane) which was a disappointment especially since we could not get entertainment with wifi,6,Detractor,Wi-Fi Unavailable
+SV_4SJm25NwBp7FfRs,R_5nHq986zjtLISuh,1432328683.0,2026-02-05,DFW,SBN,6448,CRJ,OO7,Y,In flight wifi,9,Promoter,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_1IQYs1FgnaOPJkn,488893399.0,2026-04-16,CLT,GNV,6134,ERJ,EMP,Y,Add WiFi,8,Passive,Wi-Fi Unavailable
+SV_4SJm25NwBp7FfRs,R_6JXQYpGeGPom2hh,1376350811.0,2026-04-13,AXA,MIA,3419,EMJ,E7M,Y,"Dirty plane, bad food, no screen, and poor wifi",0,Detractor,Wi-Fi Connectivity Issues
+SV_4SJm25NwBp7FfRs,R_6lS6cVXYgQt5bRy,36181504.0,2026-02-13,MIA,KIN,1986,737,38M,Y,Appreciate the new ATT wifi,10,Promoter,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_86q8ZyrPlWvnzKF,212991015.0,2026-06-20,TUL,DFW,3829,EMJ,E7M,Y,always seems to be issues with wifi,9,Promoter,Wi-Fi Connectivity Issues
+SV_4SJm25NwBp7FfRs,R_5kXojki0JNo0ckk,8003353739.0,2026-01-18,SFO,PHL,1732,321,A21,Y,"Clean, friendly, on time, comfortable,wifi",10,Promoter,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_6lxdnN0RY5AZogp,9138482.0,2026-03-23,LAS,DFW,2275,321,32C,Y,make it easier to connect to wifi,10,Promoter,Wi-Fi Connectivity Issues
+SV_4SJm25NwBp7FfRs,R_3QnTLnfF1GEOuD7,368754422.0,2026-01-12,CLT,PHX,1678,321,32C,Y,No free wifi,6,Detractor,"No free wifi (was available, but expensive, need more free wifi)"
+SV_4SJm25NwBp7FfRs,R_73pDytKDmNDwkRR,440844023.0,2026-04-15,JFK,LAX,306,777,772,Y,WIFI,10,Promoter,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_3ffUepI4YKPv6GF,8186269073.0,2026-08-02,OMA,DFW,2899,737,38R,Y,Estaría bien que solo fuera más sencillo conectarse al wifi,8,Passive,Wi-Fi Connectivity Issues
+SV_4SJm25NwBp7FfRs,R_5ReF372jv7V5NO7,366864063.0,2026-02-06,DEN,CLT,2381,321,A21,C,on both legs of my flights you were out of Prosecco and I know I'm 60 but I've yet to figure out how to really access wifi,9,Promoter,Wi-Fi Connectivity Issues
+SV_4SJm25NwBp7FfRs,R_5pu3s3VkVgVVEyG,6658190.0,2026-04-21,STL,DFW,1410,737,38R,Y,Free wifi,10,Promoter,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_3ZIXRsX0IEdmzfz,449562212.0,2026-01-12,AUA,CLT,1747,737,38K,Y,Make it easier to get on the wifi,10,Promoter,Wi-Fi Connectivity Issues
+SV_4SJm25NwBp7FfRs,R_5F4G6xJN3GhFcPQ,10127158.0,2026-06-21,ORD,BOS,1461,737,38K,Y,Flight was delayed due to mechanical failure and replacement flight did not have functioning wifi,5,Detractor,Wi-Fi Unavailable
+SV_4SJm25NwBp7FfRs,R_6fiDvqzPthk8XT7,228167980.0,2026-01-05,CLT,SRQ,5466,CRJ,CP9,Y,"Did well: on time, courteous, professionalImprove: larger planes out of ERI with wifi",10,Promoter,Wi-Fi Unavailable
+SV_4SJm25NwBp7FfRs,R_6dWCNbM5RsTdQyZ,370506392.0,2026-02-07,PSP,DFW,1439,321,32N,Y,On time. Clean modern plane.... LOVE the new WIFI,10,Promoter,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_3gioLrtbW8VlI6f,519743273.0,2026-08-21,BOS,LGA,4639,EMJ,E75,Y,The flight from LGA to CAE had no wifi,5,Detractor,Wi-Fi Unavailable
+SV_4SJm25NwBp7FfRs,R_D1rKdnFre69rXjj,187526049.0,2026-07-07,PHX,PSC,6220,EMJ,O75,Y,Direct flight to PSC from PHX and free wifi,8,Passive,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_5PoJgTmPL2mluhM,394577992.0,2026-05-16,BOS,IND,4726,EMJ,E75,Y,Broken Wifi,10,Promoter,Wi-Fi Unavailable
+SV_4SJm25NwBp7FfRs,R_13eLQVPEBYXSkRM,8172235516.0,2026-04-05,LAX,HNL,143,321,32E,Y,Seats comfortable. Appreciated free wifi,10,Promoter,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_1eDc0Ef7SrKM2ZD,1752729973.0,2026-04-14,MCI,DFW,3126,320,320,Y,geting the WiFi,9,Promoter,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_53efWvAfBiYMi5L,1569968863.0,2026-02-24,SDQ,MIA,2171,737,38R,Y,"Love the punctuality, the new menu to order food and beverage and the wifi",10,Promoter,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_77kTEWK1ZFGca7U,8077025556.0,2026-08-19,EWR,MIA,1152,737,38K,Y,free wifi,10,Promoter,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_3cWImC5aXChTGHD,8121043736.0,2026-01-16,JAX,DFW,2415,737,38K,Y,I enjoyed the free inflight WiFi,10,Promoter,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_7019ghU40Gm9S47,1412303989.0,2026-06-16,DFW,ATH,216,777,77W,Y,I could not connect to wifi,9,Promoter,Wi-Fi Connectivity Issues
+SV_4SJm25NwBp7FfRs,R_3MQDzsg5lJZ5gmR,359260009.0,2026-04-18,FCO,JFK,235,787,789,C,The preorder meals did not make the flight.  Not sure why all domestic flights are free wifi but the international flights are still pay wifi,5,Detractor,"No free wifi (was available, but expensive, need more free wifi)"
+SV_4SJm25NwBp7FfRs,R_3hyIe6H6r5FoHL0,381803618.0,2026-04-21,PLS,CLT,611,737,38K,Y,Very smooth flight. Good customer service and access to free wifi,10,Promoter,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_3TR9mJ1SMT8ebjg,1748833152.0,2026-06-28,RNO,PHX,4165,EMJ,E7M,Y,"Nice workers, on-time flights, free WiFi",10,Promoter,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_7qgEKx36OR4rCyZ,71245751.0,2026-08-08,ACK,CLT,3677,EMJ,E7M,Y,there is always room to improve...I had a bad flight back from london last month but this flight was fine...no wifi,8,Passive,Wi-Fi Unavailable
+SV_4SJm25NwBp7FfRs,R_5IaWcEeapjYBL0s,508473434.0,2026-01-16,LGA,MIA,3330,321,A21,Y,"Flight was fine but there were no snack boxes for EXP in economy, and there was no free wifi and no way to use t-mobile to get 1 hour free wifi",4,Detractor,"No free wifi (was available, but expensive, need more free wifi)"
+SV_4SJm25NwBp7FfRs,R_6Pct3SU0DjIa3BQ,111341839.0,2026-04-12,LAX,ABQ,4891,CRJ,OO7,Y,Have working wifi,2,Detractor,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_1ptzImzvGX6Nxi9,371510688.0,2026-07-24,DFW,SGU,4819,CRJ,CR9,Y,No Wifi,3,Detractor,Wi-Fi Unavailable
+SV_4SJm25NwBp7FfRs,R_7R81Ux9NJaoLNpQ,376413078.0,2026-03-03,PHX,DEN,1414,737,38K,Y,it was nice to have access to wifi,9,Promoter,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_3OQIweKGhK3jKrT,182795186.0,2026-04-03,PBI,PHL,2642,737,38R,Y,"When a flight is cancelled, have a direct flight option to make up for it. Also maybe like free wifi",3,Detractor,"No free wifi (was available, but expensive, need more free wifi)"
+SV_4SJm25NwBp7FfRs,R_3uKuX3uu2MLT6fv,8109672117.0,2026-01-03,TPA,CLT,2915,321,32C,Y,"Boarding was an easy process, no complaints. Wish i didnt have to pay for wifi",10,Promoter,"No free wifi (was available, but expensive, need more free wifi)"
+SV_4SJm25NwBp7FfRs,R_5EbjdrAB7usEZv4,8159126496.0,2026-01-11,AVL,DFW,3073,319,A19,Y,I like the easy check in and the free WiFi,8,Passive,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_67JNXp88v4jmLSv,8177379001.0,2026-05-20,DEN,ORD,1647,319,A19,Y,The trip was amazing especially the free WiFi,10,Promoter,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_5aXl9C7ockvNk7V,369964638.0,2026-06-03,PHX,HNL,693,321,32E,Y,Wifi,2,Detractor,Wi-Fi Unavailable
+SV_4SJm25NwBp7FfRs,R_5KZLgp23xt8ZAP1,1699775872.0,2026-04-23,JAX,CLT,2220,321,32C,Y,Everyone was friendly. Love free WiFi,10,Promoter,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_6Yq0gzc9qgebCPn,429237675.0,2026-05-18,MDE,MIA,1128,737,38R,Y,there was wifi,10,Promoter,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_5q3aSlgO8t0iES6,8118765200.0,2026-03-21,GIG,JFK,974,787,788,Y,It was awesome! I love the free Wifi,10,Promoter,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_5LfzDwayoqDxFfz,1434031168.0,2026-07-01,LAX,CLT,1208,321,32E,Y,"Customer service, leg room, wifi",10,Promoter,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_5FQe1wbLlIXamp0,8160189543.0,2026-06-28,TVC,DFW,2870,737,38R,Y,Prompt flight timesFree wifi,10,Promoter,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_3VQ0YMgrr0RjDUM,1208945131.0,2026-02-20,CLT,SDF,1760,737,38K,C,Upgraded and nice staff.  Clean planes and free WiFi,9,Promoter,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_3hNpFNOX0zeiGdL,8107116487.0,2026-05-29,LGA,DFW,1056,321,32C,Y,"On time flight, efficient staff, comfortable seats, free WiFi",8,Passive,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_5qb9VYlhFuW8XYx,129058773.0,2026-06-28,RIC,CLT,1063,321,32C,Y,Much better in-flight entertainment than in the past....effective wifi,9,Promoter,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_72mTR1dFzYHPKA0,8167031375.0,2026-06-23,PHL,SAV,5621,CRJ,CP9,Y,"On time, free carry-on & free wifi",10,Promoter,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_6dE7jtTSIh5Gzlc,368020832.0,2026-05-12,PHX,DFW,1663,321,A21,C,I love the new free WiFi,10,Promoter,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_6QLJQJoHCl5xV6U,366573036.0,2026-06-30,MDT,PHL,5965,ERJ,EMP,Y,Terrible Wifi,4,Detractor,Wi-Fi Connectivity Issues
+SV_4SJm25NwBp7FfRs,R_7q2axSJgDHFKCel,568330680.0,2026-06-14,CHO,CLT,6007,ERJ,EMP,Y,Flights on time. Friendly staff. Short times. Easy to connect to wIfi,9,Promoter,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_5YtuRAlNBZdLXpv,1446502199.0,2026-06-04,LGA,MEM,4461,EMJ,E75,Y,On time and clean which is great but I want free wifi,6,Detractor,"No free wifi (was available, but expensive, need more free wifi)"
+SV_4SJm25NwBp7FfRs,R_8f0FyHeOaCAYn6L,8402383.0,2026-07-04,MIA,LHR,38,777,77W,C,Dinner horribleEven in business class has to pay for wifi,4,Detractor,"No free wifi (was available, but expensive, need more free wifi)"
+SV_4SJm25NwBp7FfRs,R_6qL5NKjXKpJ8XBU,395890475.0,2026-01-17,LAX,DCA,1233,321,32E,Y,Wifi,9,Promoter,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_5zkKyR81WjixguV,122826619.0,2026-02-14,MIA,PLS,1900,737,38R,Y,"Sooth ride, attentive flight attendants and free wifi",10,Promoter,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_7sZ2623n6iR9zu3,1413117496.0,2026-01-13,CLE,DFW,3118,737,38K,Y,Free wifi,9,Promoter,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_2bVQjN6pjAHO8TM,186429746.0,2026-07-07,LGA,DTW,4598,EMJ,R75,Y,"Long delays, lack of information, broken in-flight wifi",1,Detractor,Wi-Fi Unavailable
+SV_4SJm25NwBp7FfRs,R_19gGjQpPW98XeLu,913027177.0,2026-01-19,MEX,CLT,758,737,38M,Y,Movie screens would be nice and we couldn't get WiFi,8,Passive,Wi-Fi Unavailable
+SV_4SJm25NwBp7FfRs,R_1QqVtGsKaR5tf0d,6093162.0,2026-02-08,PSP,DFW,2008,321,32C,Y,ATT WiFi,10,Promoter,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_6diB83TPv5OvERP,466651713.0,2026-04-19,LHR,RDU,173,777,772,Y,WiFi,4,Detractor,Wi-Fi Unavailable
+SV_4SJm25NwBp7FfRs,R_1FffQZnvKJ8kFTX,554135882.0,2026-01-15,MIA,BAQ,1139,737,38M,Y,No TV and it was complicated to access wifi,7,Passive,Wi-Fi Connectivity Issues
+SV_4SJm25NwBp7FfRs,R_1NDOSlgqU5eyyC9,571256566.0,2026-05-02,IAH,PHL,2153,320,A05,Y,Impove wifi,7,Passive,Wi-Fi Connectivity Issues
+SV_4SJm25NwBp7FfRs,R_35sFt8i3pl8Sh4R,383684434.0,2026-04-28,RDU,DFW,802,321,A21,Y,"Friendly staff, comfortable seat, good wifi",10,Promoter,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_7rI9FSop033qHK9,38673713.0,2026-01-11,PHX,AUS,2163,319,A19,C,Flight attendant was great. Terrible wifi,8,Passive,Wi-Fi Connectivity Issues
+SV_4SJm25NwBp7FfRs,R_1dbscYwP2oyeLb9,891889583.0,2026-07-31,ANU,JFK,1359,737,38M,Y,no wifi,7,Passive,Wi-Fi Unavailable
+SV_4SJm25NwBp7FfRs,R_6L4xjCt17ueKrlv,8171539524.0,2026-05-09,JFK,BDA,3210,737,38M,C,the only problem for me is that I can never get onto the wifi,9,Promoter,Wi-Fi Connectivity Issues
+SV_4SJm25NwBp7FfRs,R_1s4ZUrU2O0d6eHz,8068189146.0,2026-06-28,CLT,LAX,1502,321,32C,Y,Flight had no WiFi,4,Detractor,Wi-Fi Unavailable
+SV_4SJm25NwBp7FfRs,R_64twD4WWggYslup,261265905.0,2026-02-08,MIA,LIR,1383,737,38K,Y,Smooth ride and Early landing.  Liked plugging in my phone but couldn't ********** up to wifi,8,Passive,Wi-Fi Connectivity Issues
+SV_4SJm25NwBp7FfRs,R_1IouJsujefGcxk8,9519781.0,2026-06-26,LGA,MIA,1249,321,32C,C,Got to have WiFi,1,Detractor,Wi-Fi Unavailable
+SV_4SJm25NwBp7FfRs,R_10UY39Aua4EtlXz,496978632.0,2026-07-06,LAX,MCO,1118,321,A21,Y,air too warm - no WiFi,3,Detractor,Wi-Fi Unavailable
+SV_4SJm25NwBp7FfRs,R_6nJmwuqvgXLIyCX,5440414.0,2026-08-15,PHX,CLT,1678,321,32E,Y,on time and excellent wifi,10,Promoter,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_5M4KhMZKLtawJvc,1690121414.0,2026-05-20,MIA,BCN,112,777,772,Y,Seat back display not working and could not connect to wifi,0,Detractor,Wi-Fi Connectivity Issues
+SV_4SJm25NwBp7FfRs,R_3c61J6SCeJOncIE,1365665569.0,2026-01-16,MSP,DFW,894,737,38K,Y,Love the free wifi,10,Promoter,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_6xYACxxc9ySpOG5,558705703.0,2026-04-27,CLT,OMA,961,320,320,Y,better wifi,7,Passive,Wi-Fi Connectivity Issues
+SV_4SJm25NwBp7FfRs,R_3c5BplYOic6ZRn7,8055648062.0,2026-01-09,ORD,CVG,5443,CRJ,CR7,C,"No TV in first class, no power outlet no wifi",4,Detractor,Wi-Fi Unavailable
+SV_4SJm25NwBp7FfRs,R_7EDSjR9SsLo5ewe,425872721.0,2026-08-17,CHS,LGA,4351,EMJ,E7R,C,No wifi,0,Detractor,Wi-Fi Unavailable
+SV_4SJm25NwBp7FfRs,R_5VtEnh1s5a6l3MJ,202337927.0,2026-02-24,SAF,LAX,6376,CRJ,OO7,C,"Better flight attendants, better wifi",3,Detractor,Wi-Fi Connectivity Issues
+SV_4SJm25NwBp7FfRs,R_73V1Opi2t1sD4SO,1846432707.0,2026-04-12,SAV,CLT,6130,ERJ,EMP,Y,The plane was tiny and didn't have wifi,5,Detractor,Wi-Fi Unavailable
+SV_4SJm25NwBp7FfRs,R_1NyNb1W1oL6Ju1Q,629193946.0,2026-07-27,NAS,PHL,1331,737,38K,Y,i love flying american!  i love the phone charger and free wifi,10,Promoter,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_3eQO38YUsHsB5UO,369172232.0,2026-06-27,NAP,PHL,781,787,788,Y,No free wifi,8,Passive,"No free wifi (was available, but expensive, need more free wifi)"
+SV_4SJm25NwBp7FfRs,R_5qKJKQqeaaMQQGs,136042834.0,2026-03-13,TPA,DFW,2322,737,38R,Y,intermittent WIFI,3,Detractor,Wi-Fi Connectivity Issues
+SV_4SJm25NwBp7FfRs,R_7QJTJV59xif2JIB,8161824837.0,2026-02-14,BDL,ORD,3962,EMJ,E7M,Y,Clearer instructions on accessing Wifi,5,Detractor,Wi-Fi Connectivity Issues
+SV_4SJm25NwBp7FfRs,R_6KZciUg8NA0Gktn,472851521.0,2026-06-28,PHX,MSP,2146,737,38K,Y,Delayed for like an hour and no wifi,0,Detractor,Wi-Fi Unavailable
+SV_4SJm25NwBp7FfRs,R_3laWpCogc11EEKe,9211507.0,2026-04-28,PHL,LAX,2296,321,32E,Y,On time professionals yet kind crew. Need shuttle to and from gate especially when landing in Bradley terminal. Should have screens to watch entertainment not just wifi,7,Passive,Wi-Fi Unavailable
+SV_4SJm25NwBp7FfRs,R_7dtunmBiWipuKJ0,10714289.0,2026-05-29,BNA,MIA,1521,737,38K,Y,On time. Near club. Great WiFi,10,Promoter,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_71Ghnm4RrbiQQ5H,58131869.0,2026-02-13,PBI,PHL,2642,737,38K,C,Very Efficient and arrived early.  Love the free WIFI,9,Promoter,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_2uOtXFZe9oI32TL,502336321.0,2026-07-16,SLC,DFW,2613,321,A21,Y,No wifi,2,Detractor,Wi-Fi Unavailable
+SV_4SJm25NwBp7FfRs,R_7ssq853FwHLKQJX,8357534.0,2026-06-04,PBI,DCA,2281,320,320,Y,Free WiFi,10,Promoter,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_5PBOetFCq4ywaFz,295334786.0,2026-08-03,DFW,TUS,1014,737,38K,Y,Free wifi,10,Promoter,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_6dVWcRKkHAZopVS,9108355.0,2026-02-27,COS,DFW,2788,737,38K,Y,Enjoyed the free wifi,10,Promoter,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_3mfTR3MhPKig5dQ,519961980.0,2026-02-03,PHX,JFK,2315,737,38K,Y,Significant delays in both directions and slow wifi,3,Detractor,Wi-Fi Connectivity Issues
+SV_4SJm25NwBp7FfRs,R_3IWxefKVUZjDHEs,52218943.0,2026-08-11,CLT,MCI,1616,737,38R,Y,Great flight staff and clear communications. No problems with WiFi,10,Promoter,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_1gqdsgdOmEgU8NY,151711945.0,2026-05-23,LAX,MIA,345,321,32E,C,No wifi,5,Detractor,Wi-Fi Unavailable
+SV_4SJm25NwBp7FfRs,R_5nT0rEoe6uYmEv8,8146459750.0,2026-05-17,CLT,DFW,840,321,32C,Y,I don;t like the fact I can't access the WiFi,10,Promoter,Wi-Fi Connectivity Issues
+SV_4SJm25NwBp7FfRs,R_5LtUDUtCZIdY3tP,166337049.0,2026-06-27,TYS,DFW,2876,321,A21,Y,"Everything was smooth, and i appreciated the complementary wifi",10,Promoter,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_sNod9VNseOuCqhr,642175565.0,2026-07-11,ECP,CLT,5188,CRJ,CP9,Y,Bad delays and no wifi,0,Detractor,Wi-Fi Unavailable
+SV_4SJm25NwBp7FfRs,R_2R9yKcyPAXiAJmN,363417066.0,2026-07-08,LAX,LHR,136,777,77W,C,No wifi,7,Passive,Wi-Fi Unavailable
+SV_4SJm25NwBp7FfRs,R_1IWuCcsUFLc0u6a,365294380.0,2026-01-05,SBP,PHX,3516,EMJ,E7M,Y,Have wifi,10,Promoter,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_5m3LaSOgDpwyiSy,8070455249.0,2026-04-15,SAT,CLT,1119,737,38M,Y,"Seat back entertainment, working wifi",7,Passive,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_64NtaZldXyuq7kr,832772012.0,2026-08-10,RNO,DFW,1361,737,38R,C,"RNO to DFW - 3 hour flight, no food options in first class?  DFW to MLI, nice new plane, no wifi",8,Passive,Wi-Fi Unavailable
+SV_4SJm25NwBp7FfRs,R_57rvtqpiqC72OYx,8040054325.0,2026-04-05,LGA,PBI,3326,737,38K,Y,"Staff were polite and pricing ok but delayed departure, cramped terminal, difficult to connect to WIFI",8,Passive,Wi-Fi Connectivity Issues
+SV_4SJm25NwBp7FfRs,R_3Eurtkc6BvlniEL,3529473.0,2026-07-11,BGI,JFK,1044,737,38M,Y,Unreliable wifi,5,Detractor,Wi-Fi Connectivity Issues
+SV_4SJm25NwBp7FfRs,R_7XccNX8HWX5LwIQ,855878.0,2026-07-01,BOS,MIA,1562,321,32E,Y,"Delayed, no free wifi",6,Detractor,"No free wifi (was available, but expensive, need more free wifi)"
+SV_4SJm25NwBp7FfRs,R_11YIHaYLfDMatil,8167080312.0,2026-04-20,PHX,PHL,1511,321,32E,Y,Decent flight. Nice to have in flight wifi,8,Passive,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_1f07D8iPOoicYVj,390790455.0,2026-04-16,JFK,LAX,306,777,772,W,HAVE WORKING WIFI,5,Detractor,Wi-Fi Unavailable
+SV_4SJm25NwBp7FfRs,R_5ROGA4SQGsDiuKY,8162246221.0,2026-02-04,BOS,LGA,4620,EMJ,E75,Y,"Tiny seats and got nothing more than a small glass of water,  and broken wifi",3,Detractor,Wi-Fi Unavailable
+SV_4SJm25NwBp7FfRs,R_5m6j9sWuCth3eXT,370907841.0,2026-01-07,RDU,DCA,3792,EMJ,E7M,Y,"Easy boarding, love the high speed wifi",10,Promoter,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_6G1wTboszgHw8RZ,1441222235.0,2026-03-20,DFW,DEN,577,321,32C,Y,"On time, smooth flight, easy access to wifi",10,Promoter,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_1kRcJNFSiXzP7FD,213288948.0,2026-05-28,SFO,ORD,2543,737,38R,Y,Bad wifi,1,Detractor,Wi-Fi Connectivity Issues
+SV_4SJm25NwBp7FfRs,R_5KeGX20nF0GbPa4,40847438.0,2026-02-18,RIC,CLT,760,321,32C,Y,Not happy to have NO screens.  I do appreciate the usb chargers and the free wifi,8,Passive,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_1njCfqyaIQtUZ0d,8136853846.0,2026-03-17,BNA,PHL,883,319,19W,Y,I loved the snacks and free wifi,10,Promoter,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_61bGepCTNFI2ZlT,10702506.0,2026-04-28,CLT,DCA,2333,320,320,Y,no wifi,5,Detractor,Wi-Fi Unavailable
+SV_4SJm25NwBp7FfRs,R_5GNBpi8Fze2CIvd,341450718.0,2026-02-04,CLT,SLC,2878,737,38R,C,"Food was good (had to short rib), service was excellent.  Flight was smooth, with good communication from the pilot.  Arrived 30 minutes early.  Not sure what else a passenger could expect.  Also, I really enjoyed the Wifi",10,Promoter,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_1M3Vpo06NsspKWl,8167448181.0,2026-05-07,MIA,LAS,3135,737,38K,Y,"Flights were on time,  boarding process efficient,  staff friendly,  free wifi",10,Promoter,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_7Y7dzqTiLRSXDGx,1400750107.0,2026-03-27,RDU,CLT,2704,321,32N,Y,wifi,8,Passive,Wi-Fi Unavailable
+SV_4SJm25NwBp7FfRs,R_7CZ9Pb6CWMe3Ik9,368863356.0,2026-01-30,RDU,MIA,3822,EMJ,E7M,C,4 hours late and no wifi,0,Detractor,Wi-Fi Unavailable
+SV_4SJm25NwBp7FfRs,R_3enoHSICH4jtdof,543781988.0,2026-07-24,DFW,COS,1697,737,38K,Y,"Ease of booking, free wifi",10,Promoter,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_3FHJNrQ5l0w3EWZ,58849598.0,2026-05-13,TPA,DCA,3036,320,320,C,Enjoying the free wifi,10,Promoter,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_3pmoYXP2Q4xGJs4,8009546034.0,2026-02-10,PHL,BNA,5058,CRJ,CP9,Y,In flight service & wifi,10,Promoter,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_6wsjdi9H9fjYYmt,502951242.0,2026-03-29,LAX,SAT,6213,EMJ,O75,Y,Internet,10,Promoter,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_5Qh1ahFcxdwQV8W,1848946805.0,2026-08-09,LAX,DFW,1504,737,38K,Y,Free wifi,10,Promoter,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_2V9eCfgv9uhWi5L,241382815.0,2026-07-25,ORD,LIT,3561,EMJ,E7Q,C,No wifi,9,Promoter,Wi-Fi Unavailable
+SV_4SJm25NwBp7FfRs,R_5lcRqyyZJrj4MVF,8148866142.0,2026-01-05,LGA,TUL,4520,EMJ,E75,Y,No WiFi on flight that was supposed to have wifi,6,Detractor,Wi-Fi Unavailable
+SV_4SJm25NwBp7FfRs,R_6CDdTqnvyyajSs5,8098521079.0,2026-05-28,DFW,PHL,1100,321,32E,Y,"Internet was not working. I could not get my work done, nor did I pre download music or a movie so I just had to sit there due to no internet/wifi",7,Passive,Wi-Fi Unavailable
+SV_4SJm25NwBp7FfRs,R_1lsmXmSIbepKMn8,94698530.0,2026-01-23,ICN,DFW,280,777,772,C,free wifi,8,Passive,"No free wifi (was available, but expensive, need more free wifi)"
+SV_4SJm25NwBp7FfRs,R_6yN668IyaTROWWZ,1514498780.0,2026-08-08,DFW,VPS,2501,321,A21,Y,No wifi,8,Passive,Wi-Fi Unavailable
+SV_4SJm25NwBp7FfRs,R_7pXqq2b4jAm5hW0,8112172613.0,2026-02-06,MIA,BDL,1256,737,38K,Y,Got me home; good wifi,9,Promoter,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_5EJRgtOm62ws6du,1514678263.0,2026-04-22,LGA,GSP,4787,EMJ,R75,Y,"everthing was great, nothing to complain about at all. the Stewardesses were especially fantastic and helped with the issue I had connecting to the in-flight WIFI",10,Promoter,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_3PcyOn7d8G3HZkm,64932827.0,2026-06-20,AUS,PHL,1407,319,A19,Y,"everything went smoothly, flight landed early, AA app on phone very helpful and was able to use in flight WiFi",9,Promoter,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_5c74elmZm4LfkQK,8170017877.0,2026-03-23,IND,PHX,1430,737,38K,Y,better wifi,10,Promoter,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_6flmay7DrY6G7Ir,8158398259.0,2026-03-07,MKE,DFW,1418,320,A05,Y,"Flights on time, comfortable seats, free wifi",10,Promoter,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_Z2cwVuZ28Ekkf2V,10888435.0,2026-07-22,ORD,SFO,1620,737,38K,Y,Flight was on time and enjoyed free wifi,10,Promoter,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_5ZWh6zLYpVXy84p,8069588691.0,2026-01-28,CHA,DFW,5439,CRJ,CP9,Y,The flight went pretty smooth. I really enjoyed the free WIFI,7,Passive,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_8B3y30PNN7iqGMp,4152433.0,2026-05-15,GSO,PHL,6120,ERJ,EMP,Y,Seat was very uncomfortable. No wifi,7,Passive,Wi-Fi Unavailable
+SV_4SJm25NwBp7FfRs,R_3FJav8g5clBZv40,533067879.0,2026-07-20,LAX,XNA,6187,EMJ,O75,Y,"Seat was okay with average leg room, slight delay, mediocre terminal at LAX, good wifi",7,Passive,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_1meZTXHE9850l5O,9678850.0,2026-02-10,AUS,JFK,3256,737,38K,Y,"Wonderful flight, clean comfy plane and love the included wifi",10,Promoter,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_3NKhUZjDqlgTgsk,2625833.0,2026-07-07,OKC,DFW,3805,EMJ,E7M,Y,Very poor WiFi,8,Passive,Wi-Fi Connectivity Issues
+SV_4SJm25NwBp7FfRs,R_2CZlvcS1rjQ819t,8177576121.0,2026-07-25,TPA,PHL,2838,737,38K,Y,No wifi,5,Detractor,Wi-Fi Unavailable
+SV_4SJm25NwBp7FfRs,R_1gJ7XvwDGaYjYIh,622674641.0,2026-08-03,HNL,DFW,102,787,788,W,"I paid extra for premium economy: Although the seats were larger with slightly more leg room, the seats themselves are very uncomfortable. Moreover, the food was really terrible. Also, I am not sure why WiFi is still only available for a fee when you claim to have rolled out free WiFi",5,Detractor,"No free wifi (was available, but expensive, need more free wifi)"
+SV_4SJm25NwBp7FfRs,R_7HAEufiysCTEFev,8183039958.0,2026-08-19,SFO,PHL,1845,321,32E,Y,no wifi,4,Detractor,Wi-Fi Unavailable
+SV_4SJm25NwBp7FfRs,R_6mlqKAbxJI76jWq,333750122.0,2026-08-21,LHR,PHX,195,777,772,C,"It was a great trip-staff excellent. However, the score was less because of previous flights, and the lack of wifi",8,Passive,Wi-Fi Unavailable
+SV_4SJm25NwBp7FfRs,R_31Z6MbyLCykv7xu,796507986.0,2026-07-06,PVD,DCA,343,319,19W,Y,"Delayed, held on the ground, inconsistent wifi",3,Detractor,Wi-Fi Connectivity Issues
+SV_4SJm25NwBp7FfRs,R_6cq3avmtq4bSRzr,366681432.0,2026-08-19,RDU,CLT,2704,737,38K,Y,on time. courteous service. free wifi,10,Promoter,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_52rlbmfVSwSwZ64,8122292833.0,2026-01-12,TLH,CLT,6028,ERJ,EMP,Y,free wifi,5,Detractor,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_1BRVas8uzLMFTRf,5702666.0,2026-07-14,JFK,STT,2741,319,319,Y,It was on time. Get to watch movies or use the phone for other things with the WIFI,10,Promoter,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_1n1NfHXMLIqiNNs,433108776.0,2026-07-24,BHM,DFW,3214,319,A19,C,In time and wifi,10,Promoter,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_1Vl00lmeR1g8y4N,1585721998.0,2026-05-13,MBJ,CLT,875,321,A21,Y,Loved free wifi,10,Promoter,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_27fCL4wO8DKjJme,368912603.0,2026-05-24,LIT,DFW,3632,EMJ,E7M,Y,On a 12 hour flight there was no one wifi,0,Detractor,Wi-Fi Unavailable
+SV_4SJm25NwBp7FfRs,R_7JaUQnLOeqkcIyU,8159781483.0,2026-03-06,LHR,DFW,21,777,77W,W,"Friendly flight attendant,but problems with food and WiFi",7,Passive,Wi-Fi Connectivity Issues
+SV_4SJm25NwBp7FfRs,R_6pKU7w1t5iUOwop,8019095710.0,2026-05-05,TPA,PHX,2371,321,32C,Y,Extremely disappointed no free wifi,5,Detractor,"No free wifi (was available, but expensive, need more free wifi)"
+SV_4SJm25NwBp7FfRs,R_5yJUz3FvfzEd0Qh,1053370492.0,2026-08-12,DFW,BOS,1438,321,A21,Y,Free wifi,10,Promoter,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_1wSgT42lu1oxVCx,486401600.0,2026-01-09,ONT,PHX,2235,319,A19,Y,Free wifi would be nice. I couldn't get on wifi,7,Passive,Wi-Fi Unavailable
+SV_4SJm25NwBp7FfRs,R_3OIUyuGQFp7Nud5,8156026083.0,2026-04-25,MIA,MGA,335,737,38M,Y,Liked the free wifi,10,Promoter,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_77qV9WRwJOw7LnG,12843862.0,2026-08-10,EGE,DFW,3024,319,319,C,New plane with wifi,9,Promoter,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_3YLDQX39zWYsuuQ,575269953.0,2026-06-10,YVR,DFW,1415,321,A21,Y,"No delays, friendly service, free wifi",8,Passive,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_1n3iZsJygUNqoUF,9612714.0,2026-07-26,ATL,LAX,2221,321,A21,C,no wifi,0,Detractor,Wi-Fi Unavailable
+SV_4SJm25NwBp7FfRs,R_5spmj6vF40qmuhx,608309283.0,2026-06-26,DFW,SAN,2476,321,A21,Y,Maintenance issues caused plane to delay for hours. Finally sent plane from Dallas and we boarding for 45 to 60 minutes only to deplane for mechanical failure. In Dallas we were taken to wrong gate. Porter took wheelchair so had to hitch ride on golf cart. Arrived at right gate only to have flight delayed and delayed. Went to customer service they provided vouchers for hotel & meals. Rate the room at a B tops. Had to wait 2 hours for a wheelchair that never showed. Began paging airport admin and they never showed. Lady helping us finally saw a wheelchair boss and pleaded with her and she got a wheelchair after 2 hours waiting for one. Arrived at hotel 7:45Next day boarded 30 minutes late. Sat on the plane at gate well over an hour due to maintenance. Then just when we were good to go the crew had to deplane cause they had gone over their allotted time. They began at 2 am and this was 10:15 am. Sat on the plane over 2 hours before takeoff. Took off @ 11:45 local time. No WiFi,0,Detractor,Wi-Fi Unavailable
+SV_4SJm25NwBp7FfRs,R_1zTKkT2wPlF9wtZ,320164370.0,2026-02-13,DCA,OKC,5371,CRJ,CR7,Y,"On time departure, working wifi",2,Detractor,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_6D4XfJVM8MBEnSh,199632884.0,2026-06-09,SXM,MIA,3316,737,38M,Y,"Great flight, love the free wifi",10,Promoter,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_1lp1p9DNS7U8q5g,327997021.0,2026-01-16,LGA,FLL,2896,737,38M,Y,Free Wifi,9,Promoter,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_6A1jLkmIHRvCyFr,8053157597.0,2026-04-12,BDL,PHL,865,319,A19,Y,Timely takeoff and arrival. Free wifi,10,Promoter,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_5NkJPoevX7bv904,6062547.0,2026-08-03,YYC,DFW,1973,321,32C,Y,"easy boarding process, nice flight attendants, free wifi",10,Promoter,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_1wmoRoXbdTfb7Rw,1846619105.0,2026-06-28,BWI,CLT,1635,319,A19,Y,They need a bigger plane when flying to Charlotte. The plane was very small and had no wifi,9,Promoter,Wi-Fi Unavailable
+SV_4SJm25NwBp7FfRs,R_7DAzZnBUQdpHN7S,447279138.0,2026-05-31,ORD,RST,6396,CRJ,OO7,Y,Better app/wifi,10,Promoter,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_6EG6mbLN2t0FhPX,366672380.0,2026-05-14,YUL,CLT,5350,CRJ,CP9,Y,A lot well but no wifi,10,Promoter,Wi-Fi Unavailable
+SV_4SJm25NwBp7FfRs,R_7H76uqp6SIjKON3,54365780.0,2026-04-01,AUS,PHX,2715,319,A19,C,You need WIFI,5,Detractor,Wi-Fi Unavailable
+SV_4SJm25NwBp7FfRs,R_66LLcnsFNTAAKMV,458257646.0,2026-05-20,DFW,CVG,6432,CRJ,OO7,C,horrible uncomfortable plane. My first class seat should be reimbursed. no wifi,1,Detractor,Wi-Fi Unavailable
+SV_4SJm25NwBp7FfRs,R_6AEvISfOrHE229F,385313385.0,2026-01-16,EUG,PHX,3007,319,A19,Y,Free wifi. Better points/rewards program. Working wifi,7,Passive,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_726PW5msIK4obnj,410411509.0,2026-03-20,DEN,CLT,1623,321,32C,Y,Free wifi,10,Promoter,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_15KhYMwbHvNxuE1,559059842.0,2026-05-21,MCI,PHL,926,319,A19,Y,"Nothing comes to mind. Myself, luggage arrived as scheduled. Loved the new quiet zone and the free wifi",10,Promoter,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_5yfurchaMo2Tibb,231852463.0,2026-05-28,MIA,DCA,3244,737,38K,Y,Love having inflight free WIFI,10,Promoter,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_1IsYtvSweBbzomZ,10549820.0,2026-07-23,DFW,LAX,966,737,38K,Y,Good service and wifi,10,Promoter,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_31WplXHrkeGdZ69,2874121.0,2026-07-15,ORD,JAX,2096,737,38K,Y,"On time departure & arrival, friendly flight team, reasonable pricing, good wifi",10,Promoter,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_6uvyeFjWcnj6ARb,7595755.0,2026-02-19,PHX,EWR,2320,321,32E,Y,Nice direct flight at a reasonable price. Loved the free WIFI,10,Promoter,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_24usLa94lLSMXNB,8178104970.0,2026-07-14,CUN,MIA,1723,737,38K,Y,Excellent staff. On time. Free WiFI,10,Promoter,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_41bJyvna8hvcJgz,1393331348.0,2026-06-30,SMF,LAX,6265,EMJ,O75,Y,No free WiFi,5,Detractor,"No free wifi (was available, but expensive, need more free wifi)"
+SV_4SJm25NwBp7FfRs,R_3scAzdmxA5DnGdR,8147887859.0,2026-04-03,LIT,DFW,6221,CRJ,OO7,Y,There was no wifi,6,Detractor,Wi-Fi Unavailable
+SV_4SJm25NwBp7FfRs,R_1LnjaEsJuDhCkSh,8126347101.0,2026-06-06,SAT,CLT,1119,737,38R,Y,"Easy boarding, smooth flight, good wifi",10,Promoter,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_1SNvAdRNEdXwyLn,367827089.0,2026-01-22,SRQ,CLT,2268,320,A05,Y,loved the new free wifi,10,Promoter,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_1ncozuWLWsHPOdW,4170076.0,2026-03-03,ORD,TPA,2920,737,38K,Y,better wifi,8,Passive,Wi-Fi Connectivity Issues
+SV_4SJm25NwBp7FfRs,R_7VKkbEP68OOfRZ0,567646497.0,2026-03-05,MIA,CLT,2122,737,38K,C,Wifi,5,Detractor,Wi-Fi Unavailable
+SV_4SJm25NwBp7FfRs,R_61laJGFLkL7NF5L,71262945.0,2026-06-29,MCO,MIA,2147,321,A21,C,New plane and good wifi,9,Promoter,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_5HqVGYVFUl9uD5I,757437968.0,2026-05-29,NAP,ORD,181,787,788,Y,Free WiFi,9,Promoter,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_3cSxmI9bi9a8L66,473529227.0,2026-08-14,PHL,PHX,1984,321,A21,Y,There was no WiFi,2,Detractor,Wi-Fi Unavailable
+SV_4SJm25NwBp7FfRs,R_34wYnWuzfEbc241,502883828.0,2026-06-03,PHL,LAX,2408,321,32E,Y,No wifi,9,Promoter,Wi-Fi Unavailable
+SV_4SJm25NwBp7FfRs,R_317NeK0pvurccRI,8161079455.0,2026-02-27,IDA,PHX,4947,CRJ,OO7,Y,Love the wifi,9,Promoter,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_5324dqbX2XbVRLz,1270652846.0,2026-08-19,SEA,ORD,2966,321,32C,C,No wifi,2,Detractor,Wi-Fi Unavailable
+SV_4SJm25NwBp7FfRs,R_bKoWFCyAycBlQJP,8161563798.0,2026-07-27,SJD,CLT,2676,321,A21,Y,No WiFi,3,Detractor,Wi-Fi Unavailable
+SV_4SJm25NwBp7FfRs,R_vPk01uUyrU4Fizn,9498194.0,2026-07-07,LGA,ORD,2057,737,38R,C,"Flight was early, service was good.  Plane had required amenities including wifi",9,Promoter,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_5PLFIEywm9wP1Sd,214861919.0,2026-01-08,IND,MIA,1109,319,319,Y,"Flt was early, plane was clean, staff was friendly & I enjoyed the complimentary wifi",10,Promoter,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_3Cl2H3YXejYYTYd,365207587.0,2026-03-09,DFW,PHL,2759,787,788,C,"Not much more, the flights was beautiful, flight attendants were just awesome, food was fantastic.  Little trouble with WIFI",10,Promoter,Wi-Fi Connectivity Issues
+SV_4SJm25NwBp7FfRs,R_1o1Daza2rdAdKXR,1291661970.0,2026-07-15,LAX,OKC,6272,EMJ,O75,Y,Free wifi,10,Promoter,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_3saNK6qpGzE6Nwt,240161716.0,2026-08-05,OMA,CLT,1042,737,38K,Y,Great flight crew and wifi,10,Promoter,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_12wYCqSqDuzRNvY,8079875714.0,2026-06-05,SMF,ORD,2627,737,38K,Y,"fast flight, great staff, had wifi",10,Promoter,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_1QXTtpbK8U2W1uU,9311483.0,2026-02-05,LGA,ORD,4679,EMJ,E75,Y,Gate agents at LGA were talking badly about customers.  VERY UNPROFESSIONAL.Not offered drinks on the flight and no wifi,2,Detractor,Wi-Fi Unavailable
+SV_4SJm25NwBp7FfRs,R_39HyKnvUbQPqXoR,8172226513.0,2026-04-06,SYR,DFW,2389,737,38R,Y,Trip went smoothly and friendly staff free in flight wifi,10,Promoter,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_1PpYRyAKBmUwI1A,8173439256.0,2026-06-03,SFO,ORD,2554,737,38R,Y,"Carry on included, free wifi",10,Promoter,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_1spopAZWs4rXNMR,454048999.0,2026-06-19,ATH,JFK,333,777,772,Y,There was no wifi,2,Detractor,Wi-Fi Unavailable
+SV_4SJm25NwBp7FfRs,R_3XiK8w9UIRL7ZHw,1488232730.0,2026-06-03,EYW,CLT,3519,EMJ,E7M,Y,On time and had WiFi,10,Promoter,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_6TpKIgePoiqyUqD,156367419.0,2026-02-04,PHL,YUL,6011,ERJ,EMP,Y,The ERJ145 needs to go. Too small no wifi,5,Detractor,Wi-Fi Unavailable
+SV_4SJm25NwBp7FfRs,R_5hmRf826UTCZzXk,377696654.0,2026-04-29,DCA,ECP,5639,CRJ,CP9,Y,"wider seats, much better Wifi",8,Passive,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_7in7mqthxeI7LeE,8053385585.0,2026-02-23,SJD,DFW,3254,737,38R,Y,I did not have wifi,6,Detractor,Wi-Fi Unavailable
+SV_4SJm25NwBp7FfRs,R_3YsOt5lmlvXuOeO,2474397.0,2026-06-07,LAX,JFK,274,777,772,W,"terrible delay including at the gate, runway, no wifi",0,Detractor,Wi-Fi Unavailable
+SV_4SJm25NwBp7FfRs,R_7AmBSi7nTZtBqZr,1723494368.0,2026-06-07,LAX,JFK,274,777,772,Y,No working wifi on LAX to JFK is unacceptable when other airlines are offering Starlink and other fast free wifi,2,Detractor,Wi-Fi Unavailable
+SV_4SJm25NwBp7FfRs,R_3Cl4z1oHKfZ8JMi,550958535.0,2026-01-11,MIA,BDL,1256,737,38R,Y,Disappointed there were no seatback screens. Not everyone has a smartphone with the capacity to view video or flight tracking via your wifi,8,Passive,Wi-Fi Unavailable
+SV_4SJm25NwBp7FfRs,R_3KJXVZpHIw4SwkC,18927831.0,2026-06-15,SJD,PHX,2623,737,38K,Y,No Wifi,5,Detractor,Wi-Fi Unavailable
+SV_4SJm25NwBp7FfRs,R_1HpzWMTsRlZr2E4,397771944.0,2026-06-14,LAS,PHL,779,321,32E,C,Entertainment not up to par due to spotty WiFi,9,Promoter,Wi-Fi Connectivity Issues
+SV_4SJm25NwBp7FfRs,R_1QAUsGFjER9GzAJ,324164230.0,2026-06-22,LHR,DFW,21,787,78P,Y,Great wifi,8,Passive,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_3mhmkWAxZhdNBBv,8179448809.0,2026-07-26,ORD,ATL,2779,319,319,Y,Delayed and no wifi,1,Detractor,Wi-Fi Unavailable
+SV_4SJm25NwBp7FfRs,R_6hJPZiuCygLufWc,8158111398.0,2026-01-04,SFO,DFW,402,321,A21,Y,Get free WiFi,10,Promoter,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_3Em2jc4SuK9Cs2r,769354994.0,2026-07-21,PDX,DFW,2283,321,A21,Y,The seats were very roomy and comfortable and I loved the free wifi,10,Promoter,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_1cV6LFFwPkQsLhg,463266301.0,2026-07-18,LAS,PHX,3186,737,38K,Y,"On time, comfortable. wifi",9,Promoter,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_6fHy7UabTEignBu,8070276682.0,2026-01-16,PUJ,CLT,2792,321,A21,Y,Free wifi,10,Promoter,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_7q590jxkBEf5xQw,369116385.0,2026-05-29,ORD,PHL,1859,319,19W,Y,But recognized as and EP- long boarding and I could not get on WiFi,4,Detractor,Wi-Fi Unavailable
+SV_4SJm25NwBp7FfRs,R_6hV0iCFfMyFJms9,557048867.0,2026-05-28,CUN,DFW,1068,321,32C,Y,Free wifi,10,Promoter,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_1Iz3hsC2LsOgWSl,1191455144.0,2026-01-31,BOS,PUJ,2988,321,32N,Y,Loved the wifi,10,Promoter,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_2UipbrtMP4Ez1BG,28108209.0,2026-07-13,DFW,SAT,1599,737,38M,Y,"I know weather delays are not your fault, but seems like every trip I take with AA has at least one delay, either weather or mechanical. Loved your Flagstaff gate crew and I do appreciate the free wifi",5,Detractor,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_7SAHIRhvldL6PRf,96366138.0,2026-05-14,ORD,EWR,2083,737,38K,Y,Free Wifi,10,Promoter,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_3JBZzAVJd3tXGo4,802383020.0,2026-07-19,DFW,ORD,3330,321,A21,Y,"Delayed flight, no wifi",0,Detractor,Wi-Fi Unavailable
+SV_4SJm25NwBp7FfRs,R_1kCaT22qPG2IJVU,8058496366.0,2026-02-17,CLT,EYW,2839,319,19W,Y,"Smooth flight, nice attendants. To improve...Offer one free drink ;) and I was unable to connect to inflight wifi",10,Promoter,Wi-Fi Connectivity Issues
+SV_4SJm25NwBp7FfRs,R_6hHlOIlIFqH8bRo,8164520777.0,2026-03-30,MIA,SJU,3164,321,A21,Y,I love the wifi,10,Promoter,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_3HHYcb3cxO7MbPk,942810329.0,2026-07-06,KOA,LAX,58,321,32E,Y,No wifi,6,Detractor,Wi-Fi Unavailable
+SV_4SJm25NwBp7FfRs,R_71jSL78eflcG6Gd,249878074.0,2026-03-10,DCA,BOS,4455,EMJ,E75,Y,Old dated plane and bad wifi,0,Detractor,Wi-Fi Connectivity Issues
+SV_4SJm25NwBp7FfRs,R_5sBv2QT02lBtOyF,9218444.0,2026-01-31,OKC,DFW,2269,737,38M,C,Provide free WiFi,10,Promoter,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_1gw019B4pNTv3VF,381866547.0,2026-07-11,BOS,DFW,2555,321,32C,Y,"On time , wifi",10,Promoter,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_5uDrUGD1VoqGEqe,7255273.0,2026-03-01,YUL,PHL,6011,ERJ,EMP,Y,"Plane had no beverage  service, no wifi",8,Passive,Wi-Fi Unavailable
+SV_4SJm25NwBp7FfRs,R_6cUjlqX9Cu9MneI,8173038674.0,2026-05-23,FWA,ORD,6232,CRJ,OO7,Y,"Flight was on time leaving, clean plane, complimentary snack/drink and awesome in flight wifi",10,Promoter,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_62LffC5aS3j85Ix,8159628522.0,2026-01-17,LGA,DFW,547,321,A21,Y,Flight on timeMeals are so little Bad seatCouldn't join aadvatage for wifi,8,Passive,Wi-Fi Connectivity Issues
+SV_4SJm25NwBp7FfRs,R_1tkz7QYICXHH1cJ,8158471977.0,2026-03-01,PBI,ORD,1831,737,38K,Y,Terrible WiFi,0,Detractor,Wi-Fi Connectivity Issues
+SV_4SJm25NwBp7FfRs,R_52nbF0rGdxTKnEJ,8164356465.0,2026-03-20,SEA,DFW,3075,321,32C,Y,Nothing wrong but just slow or non working in flight wifi,8,Passive,Wi-Fi Connectivity Issues
+SV_4SJm25NwBp7FfRs,R_3G8JiywVlWEasyG,1675540814.0,2026-02-27,ANU,JFK,1359,737,38M,Y,Could improve on free wifi,8,Passive,"No free wifi (was available, but expensive, need more free wifi)"
+SV_4SJm25NwBp7FfRs,R_7ScpAU1ka5NWgXu,8164703529.0,2026-02-28,ORD,YYZ,3604,EMJ,E7Q,Y,Good wifi,10,Promoter,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_6itfuOQfwdogia7,456455430.0,2026-04-17,SNA,PHX,2466,737,38M,C,Friendly flight crew but no in flight entertainment.  I could not connect to AA wifi,8,Passive,Wi-Fi Connectivity Issues
+SV_4SJm25NwBp7FfRs,R_5ZJRoj7dwTEurIc,369707075.0,2026-04-27,OMA,PHX,3454,EMJ,E7M,C,Have working WiFi,9,Promoter,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_3I5fpLtRRcAqFWy,995572441.0,2026-04-03,DEN,DFW,1832,737,38K,Y,"Easy boarding, nice people, plenty 9f space for carry ons, free wifi",10,Promoter,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_549afvnHhMaAwfL,8035053188.0,2026-04-27,SAT,LAX,6213,EMJ,O75,Y,"The cabin temp was super hot like almost where you couldn't breath, also there was no wifi",3,Detractor,Wi-Fi Unavailable
+SV_4SJm25NwBp7FfRs,R_7o5wH4dPlKun6Ky,21564768.0,2026-01-31,PHL,PHX,2586,321,A21,Y,Service was great and really appreciate the free WiFi,10,Promoter,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_3rU5g34qiIO8gH7,8144423290.0,2026-04-14,CUN,JFK,1185,737,38M,C,There was no wifi,0,Detractor,Wi-Fi Unavailable
+SV_4SJm25NwBp7FfRs,R_1BXFyAWJi8Ia09u,1756407916.0,2026-01-09,RSW,CLT,1094,321,A21,Y,you took away tmobile wifi,0,Detractor,Wi-Fi Unavailable
+SV_4SJm25NwBp7FfRs,R_7P7oROkdTL3UBpg,8129775317.0,2026-03-20,LGA,IND,4468,EMJ,E7R,Y,I wish your WIFI was working. I feel like I've only had one flight in the past year with working Wifi,6,Detractor,Wi-Fi Unavailable
+SV_4SJm25NwBp7FfRs,R_3LXrJUfyCgPN8lP,6948376.0,2026-01-14,LIS,PHL,259,787,788,Y,Service and food for PYE was very vert average. Still no free wifi,6,Detractor,"No free wifi (was available, but expensive, need more free wifi)"
+SV_4SJm25NwBp7FfRs,R_69mNNJwDM0qHouu,69491933.0,2026-01-14,ORD,LGA,4469,EMJ,E75,Y,Flight was delayed and there was no wifi - for a 3pm (delayed to 4pm) flight on a workday that's a ********** to have nonwifi,5,Detractor,Wi-Fi Unavailable
+SV_4SJm25NwBp7FfRs,R_10Tl5gmcWF7qPaZ,8061816048.0,2026-05-22,YUL,DFW,1964,737,38R,Y,I wish I didnt fly american airlines so often so I didnt have to sit in the uncomfortable planes. The only solace I have in flying with yall is the free wifi,2,Detractor,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_9ktQne6BVUE93Dr,8120613962.0,2026-06-07,PHL,CLE,5862,ERJ,EMP,Y,"Flight great even though plane old it was more roomy than your new planes, windows aligned with seat. Flight attendant was awesome. Point off for baggage delay in cle and no wifi",9,Promoter,Wi-Fi Unavailable
+SV_4SJm25NwBp7FfRs,R_2FIfvdmKMrOBJlj,8094618833.0,2026-06-19,LAX,DFW,2994,321,32E,Y,"On time departure, and a working wifi",10,Promoter,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_6nNS14v4S0n3PtP,366060478.0,2026-01-23,SFO,PHL,1732,321,32E,Y,Wifi,10,Promoter,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_022FkMOzm51imqd,49252919.0,2026-07-15,DFW,EWR,1820,737,38K,Y,"Good service, aircraft condition, seats, free wifi",10,Promoter,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_174TJLD4Pcs6Xsd,412532455.0,2026-05-27,DCA,JFK,4551,EMJ,E75,C,There was no wifi,7,Passive,Wi-Fi Unavailable
+SV_4SJm25NwBp7FfRs,R_3kMurQSaxsh3poi,365955931.0,2026-04-16,PHL,PBI,2137,737,38K,Y,Could not connect to wifi,7,Passive,Wi-Fi Connectivity Issues
+SV_4SJm25NwBp7FfRs,R_34u5JrS528gqgXU,51071687.0,2026-08-21,PVR,DFW,2639,737,38K,C,"On time, and I loved the free wifi",10,Promoter,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_6VnosQ34npc1G6t,1745728995.0,2026-01-23,SFO,PHL,1732,321,32E,Y,no wifi,4,Detractor,Wi-Fi Unavailable
+SV_4SJm25NwBp7FfRs,R_30rboXRKtlGtHD4,8166205870.0,2026-03-26,MSY,DFW,2157,320,320,Y,Consistent wifi,10,Promoter,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_3ux4EDcvEKiaL10,61903663.0,2026-01-19,ANU,JFK,1359,737,38M,C,No entertainment. No lounge. Free wifi,6,Detractor,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_7fJUAkR9GtwFV32,1846900370.0,2026-06-08,MSY,LGA,2165,737,38R,Y,significant delays and broken wifi,0,Detractor,Wi-Fi Unavailable
+SV_4SJm25NwBp7FfRs,R_6YPXPCRm7cG2aU9,278384880.0,2026-06-03,DFW,GNV,3538,EMJ,E7M,Y,"Comfortable flight, attentive staff, arrived early, great free wifi",10,Promoter,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_1EuRX9nOktxEwxX,629919282.0,2026-02-22,PHX,RDM,3629,EMJ,E7M,C,"Good service, nice plane, love the free WiFi",10,Promoter,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_1okg3I5SsWAK6tu,8440374.0,2026-07-07,FLG,PHX,4985,CRJ,OO7,C,No Wifi,0,Detractor,Wi-Fi Unavailable
+SV_4SJm25NwBp7FfRs,R_5XdIEfpUyZD9jjE,205791869.0,2026-06-24,MIA,DFW,3081,777,772,Y,Seat was extremely uncomfortable and had to pay for wifi,8,Passive,"No free wifi (was available, but expensive, need more free wifi)"
+SV_4SJm25NwBp7FfRs,R_1jwyu6iu6MKpXOI,187056048.0,2026-07-15,GUA,DFW,3062,737,38R,C,It was on time and I love the complimentary wifi,10,Promoter,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_6dNuszccOg9qi0z,1710457395.0,2026-03-28,CUR,MIA,312,321,A21,Y,Free wifi,8,Passive,"No free wifi (was available, but expensive, need more free wifi)"
+SV_4SJm25NwBp7FfRs,R_ywOAA4TwAPoPHdT,373832739.0,2026-07-25,PHL,DUB,722,787,788,Y,"Comfortable seats, good food, free wifi",10,Promoter,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_1i0gKmfNzHQveBX,1106068487.0,2026-02-18,TLH,CLT,6040,ERJ,EMP,Y,It was disappointing that there was no coffee offered on the early morning flight as well as no wifi,7,Passive,Wi-Fi Unavailable
+SV_4SJm25NwBp7FfRs,R_7TmXWciMJzSOPzk,846799439.0,2026-03-07,EWR,DFW,1603,737,38R,Y,Consistently good serviceAppreciate the partnership with ATT for free WiFi,10,Promoter,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_7iytByUZY4jICfW,8130192867.0,2026-02-11,DFW,RNO,770,737,38M,Y,The flight was on time and I enjoyed the free wifi,9,Promoter,Satisfied with Wi-Fi Experience
+SV_4SJm25NwBp7FfRs,R_6hhK8B92yVjd4T7,6629836.0,2026-02-09,ORD,BDL,4516,EMJ,R75,Y,I was disappointed the flight did not have WiFi,5,Detractor,Wi-Fi Unavailable
+SV_4SJm25NwBp7FfRs,R_7CpRMcjLQF3sK1T,10837994.0,2026-01-19,LAX,MIA,621,321,32E,C,It took over an hour for luggage to arrive. Ridiculous and no explanation. Also thought wifi would be free by now and had to pay $25 for flight wifi,6,Detractor,"No free wifi (was available, but expensive, need more free wifi)"

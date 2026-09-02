@@ -6,6 +6,7 @@ import re
 import html
 import io
 from collections import Counter
+from pathlib import Path
 
 
 st.set_page_config(
@@ -112,9 +113,10 @@ st.markdown(
 )
 
 
-DEFAULT_CSV = "nps_wifi_score_all2026.csv"
+DATA_DIR = Path("data")
+MONTHLY_SCORE_FILE_PATTERN = "nps_wifi_score_2026-*.csv"
 # Pre-filtered to wifi_comment == 1 rows only, avoids loading the full 1.4M-row raw file on every run.
-DEFAULT_SENTIMENT_CSV = "nps_wifi_comment_only.csv"
+DEFAULT_SENTIMENT_CSV = DATA_DIR / "nps_wifi_comment_only.csv"
 # Row count of the full nps_comment_all.csv (all comments, not just WiFi-related) used for the "Total Comments" metric.
 TOTAL_COMMENT_ROWS_DEFAULT = 1430569
 
@@ -148,9 +150,13 @@ CATEGORY_COLS = [
 
 
 @st.cache_data(show_spinner=False)
-def load_data(path: str) -> pd.DataFrame:
-    df = pd.read_csv(path)
-    return df
+def load_data() -> pd.DataFrame:
+    monthly_files = sorted(DATA_DIR.glob(MONTHLY_SCORE_FILE_PATTERN))
+    if not monthly_files:
+        raise FileNotFoundError(
+            f"No monthly score files found at {DATA_DIR / MONTHLY_SCORE_FILE_PATTERN}."
+        )
+    return pd.concat((pd.read_csv(file) for file in monthly_files), ignore_index=True)
 
 
 @st.cache_data(show_spinner=False)
@@ -282,9 +288,9 @@ if applied_state and applied_state.get("main_upload_bytes"):
     controls_source_df = load_uploaded_data(applied_state["main_upload_bytes"])
 else:
     try:
-        controls_source_df = load_data(DEFAULT_CSV)
+        controls_source_df = load_data()
     except Exception as exc:
-        st.error(f"Could not load default file {DEFAULT_CSV}: {exc}")
+        st.error(f"Could not load default monthly score files: {exc}")
         st.stop()
 
 if "SEG_DEP_DT" in controls_source_df.columns:
@@ -389,9 +395,9 @@ if applied_state.get("main_upload_bytes"):
         st.stop()
 else:
     try:
-        df_raw = load_data(DEFAULT_CSV)
+        df_raw = load_data()
     except Exception as exc:
-        st.error(f"Could not load default file {DEFAULT_CSV}: {exc}")
+        st.error(f"Could not load default monthly score files: {exc}")
         st.stop()
 
 df = df_raw.copy()
